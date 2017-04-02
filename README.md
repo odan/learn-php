@@ -254,6 +254,7 @@ Follow common PHP conventions for object-oriented code, and established industry
 * Common Container Interface (PHP FIG PSR-11) - https://packagist.org/packages/psr/container
 * Containers interoperability - https://github.com/container-interop/container-interop
 * Container implementation - http://container.thephpleague.com/getting-started/
+* Dependency Injection with Auryn - http://shadowhand.me/dependency-injection-with-auryn/
 
 ## Version control
 * What is version control - https://www.atlassian.com/git/tutorials/what-is-version-control
