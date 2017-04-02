@@ -1,4 +1,4 @@
-# Resources for PHP beginners
+# Resources for PHP
 
 ## Must read
 * **http://www.phptherightway.com/**
