@@ -1,0 +1,36 @@
+# Path-based git attributes
+# https://www.kernel.org/pub/software/scm/git/docs/gitattributes.html
+
+public/* linguist-vendored
+docs/* linguist-documentation
+
+# Set the default behavior, in case people don't have core.autocrlf set.
+# Git will always convert line endings to LF on checkout. You should use 
+# this for files that must keep LF endings, even on Windows. 
+* text eol=lf
+
+# Define binary file attributes.
+# - Do not treat them as text.
+# - Include binary diff in patches instead of "binary files differ."
+*.gif binary
+*.ico binary
+*.jpg binary
+*.png binary
+*.phar binary
+*.zip binary
+*.gz binary
+*.otf binary
+*.eot binary
+*.svg binary
+*.ttf binary
+*.woff binary
+*.woff2 binary
+
+# Ignore all test and documentation with "export-ignore".
+/.gitattributes     export-ignore
+/.gitignore         export-ignore
+/.travis.yml        export-ignore
+/phpunit.xml.dist   export-ignore
+/.scrutinizer.yml   export-ignore
+/tests              export-ignore
+/docs               export-ignore
