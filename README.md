@@ -50,6 +50,8 @@
 * JavaScript aka ECMAScript - http://en.wikipedia.org/wiki/JavaScript
 * JSON - http://en.wikipedia.org/wiki/JavaScript_Object_Notation
 * JavaScript Tutorial - http://www.w3schools.com/js/default.asp
+* Eloquent JavaScript - http://eloquentjavascript.net/
+* You Don't Know JS (book series) - https://github.com/getify/You-Dont-Know-JS
 
 ### Protocols
 * HTTP - http://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol
