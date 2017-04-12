@@ -38,17 +38,18 @@
 * HTML5 Tutorial - http://www.w3schools.com/html/default.asp
 * A Basic HTML5 Template - https://www.sitepoint.com/a-basic-html5-template/
 * Introduction to HTML- https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML
+* DOM - https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
 
 ### CSS
 * Cascading Style Sheets  - http://en.wikipedia.org/wiki/Cascading_Style_Sheets
 * CSS Tutorial - http://www.w3schools.com/css/
 * Introduction to CSS - http://www.csstutorial.net/css-intro/introductioncss-part1.php
 * Introduction to CSS Selectors - https://www.sitepoint.com/web-foundations/introduction-css-selectors/
-* 
 
 ### JavaScript
 * JavaScript aka ECMAScript - http://en.wikipedia.org/wiki/JavaScript
 * JSON - http://en.wikipedia.org/wiki/JavaScript_Object_Notation
+* JSON - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON
 * JavaScript Tutorial - http://www.w3schools.com/js/default.asp
 * Eloquent JavaScript - http://eloquentjavascript.net/
 * You Don't Know JS (book series) - https://github.com/getify/You-Dont-Know-JS
@@ -63,6 +64,7 @@
 * SMTP - http://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol
 * POP3 - http://en.wikipedia.org/wiki/Post_Office_Protocol
 * IMAP - http://en.wikipedia.org/wiki/Internet_Message_Access_Protocol
+* Ajax - https://developer.mozilla.org/en-US/docs/AJAX
 
 ## Tools
 * XAMPP - Apache, MariaDB, PHP - https://www.apachefriends.org/index.html
@@ -151,6 +153,10 @@
 * Native templates - http://php.net/manual/en/control-structures.alternative-syntax.php
 * Plates - http://platesphp.com/
 * Twig - http://twig.sensiolabs.org/
+
+## Templating (frontend)
+* Mustache.js - https://mustache.github.io/
+* Vue.js - https://vuejs.org/
 
 # Database
 * MySQL - https://en.wikipedia.org/wiki/MySQL | http://dev.mysql.com/downloads/mysql/
