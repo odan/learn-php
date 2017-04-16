@@ -48,6 +48,7 @@
 
 ### JavaScript
 * JavaScript aka ECMAScript - http://en.wikipedia.org/wiki/JavaScript
+* Basic JavaScript - http://speakingjs.com/es5/ch01.html
 * JSON - http://en.wikipedia.org/wiki/JavaScript_Object_Notation
 * JSON - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON
 * JavaScript Tutorial - http://www.w3schools.com/js/default.asp
