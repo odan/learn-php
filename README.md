@@ -8,6 +8,7 @@
 * http://www.w3schools.com/php/
 * https://www.tutorialspoint.com/php/
 * https://devzone.zend.com/welcome-to-php/
+* https://learnxinyminutes.com/docs/php/
 
 ## Videos
 * https://www.youtube.com/watch?v=27dR_sLaM74
