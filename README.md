@@ -150,6 +150,11 @@
 * Object Calisthenics - https://medium.com/web-engineering-vox/improving-code-quality-with-object-calisthenics-aa4ad67a61f1#.ggel1wt46
 * Composition over inheritance - https://www.thoughtworks.com/pt/insights/blog/composition-vs-inheritance-how-choose
 
+## Architecture
+
+* The Clean Architecture - https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html
+* Creating services you won’t hate - http://www.brandonsavage.net/creating-services-you-wont-hate/
+
 ## Templating
 * Getting started with php templating - http://www.smashingmagazine.com/2011/10/getting-started-with-php-templating/
 * Native templates - http://php.net/manual/en/control-structures.alternative-syntax.php
