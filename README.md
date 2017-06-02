@@ -303,3 +303,4 @@ Follow common PHP conventions for object-oriented code, and established industry
 * https://twitter.com/official_php
 * https://www.reddit.com/r/PHPhelp/
 * https://www.reddit.com/r/PHP/
+* http://www.phpweekly.com/
