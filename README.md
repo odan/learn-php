@@ -238,6 +238,7 @@ Follow common PHP conventions for object-oriented code, and established industry
 * The correct way to use integration tests - https://zeroturnaround.com/rebellabs/the-correct-way-to-use-integration-tests-in-your-build-process/
 * The Test Pyramid - https://martinfowler.com/bliki/TestPyramid.html
 * The Way of Testivus (pdf) - http://www.agitar.com/downloads/TheWayOfTestivus.pdf
+* https://speakerdeck.com/mensemedia/100-percent-code-coverage-via-automated-tests-in-symfony-applications
 
 ## Documentation
 * Introduction to PhpDoc - https://www.sitepoint.com/introduction-to-phpdoc/
