@@ -11,7 +11,9 @@
 * https://learnxinyminutes.com/docs/php/
 
 ## Videos
-* https://www.youtube.com/watch?v=27dR_sLaM74
+* PHP Programming - https://www.youtube.com/watch?v=27dR_sLaM74
+* The New Boston's Youtube Playlist - https://www.youtube.com/course?list=EC442FA2C127377F07
+* PHP Academy - https://www.youtube.com/user/phpacademy/videos
 
 ## Books
 * [Modern PHP: New Features and Good Practices](https://www.amazon.de/gp/product/1491905018/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=1491905018&linkCode=as2&tag=molengocom-21)
@@ -299,6 +301,14 @@ Follow common PHP conventions for object-oriented code, and established industry
 * PHP - https://www.codecademy.com/learn/php
 * Laravel - https://laracasts.com/
 * Symfony - http://knpuniversity.com/tracks/symfony
+* Treehouse - https://teamtreehouse.com/learn-to-code/php
+* CodeAcademy - https://www.codecademy.com/learn/php
+
+## Tutorials
+* Hacking with PHP - http://www.hackingwithphp.com/
+* PHP Essentials - http://www.techotopia.com/index.php/PHP_Essentials
+* PHP 101: PHP For the Absolute Beginner - https://devzone.zend.com/6/php-101-php-for-the-absolute-beginner/
+* Make your own blog beginners tutorial - https://ilovephp.jondh.me.uk/en/tutorial/make-your-own-blog
 
 ## Community / News
 * https://twitter.com/official_php
