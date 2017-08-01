@@ -228,6 +228,12 @@ Follow common PHP conventions for object-oriented code, and established industry
 * A skeleton repository for League Packages - https://github.com/thephpleague/skeleton
 * Semantic Versioning 2.0.0 - http://semver.org/
 
+## Exception handling
+* Exceptions - http://php.net/manual/en/language.exceptions.php
+* Predefined Exceptions - http://php.net/manual/en/reserved.exceptions.php
+* SPL Exceptions - http://php.net/manual/en/spl.exceptions.php
+* Errors and error handling - http://php.net/manual/en/pdo.error-handling.php
+
 ## Unit testing
 * PHPUnit - testing framework - https://phpunit.de/
 * PHPUnit Explained - book - https://phpunitexplained.com/
@@ -273,6 +279,8 @@ Follow common PHP conventions for object-oriented code, and established industry
 * Containers interoperability - https://github.com/container-interop/container-interop
 * Container implementation - http://container.thephpleague.com/getting-started/
 * Dependency Injection with Auryn - http://shadowhand.me/dependency-injection-with-auryn/
+* The Clean Code Talks - Don't Look For Things! - https://www.youtube.com/watch?v=RlfLCWKxHJ0
+* Dependency Injection and Dependency Inversion - https://www.youtube.com/watch?v=Ojsn11XY0X8
 
 ## Version control
 * What is version control - https://www.atlassian.com/git/tutorials/what-is-version-control
