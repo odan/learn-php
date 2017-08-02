@@ -228,7 +228,9 @@ Follow common PHP conventions for object-oriented code, and established industry
 * A skeleton repository for League Packages - https://github.com/thephpleague/skeleton
 * Semantic Versioning 2.0.0 - http://semver.org/
 
-## Exception handling
+## Errors and exception handling
+* Errors and Exceptions - http://www.phptherightway.com/#errors_and_exceptions
+* Error Handling PHP Best Practices - http://bestpractices.thecodingmachine.com/php/error_handling.html
 * Exceptions - http://php.net/manual/en/language.exceptions.php
 * Predefined Exceptions - http://php.net/manual/en/reserved.exceptions.php
 * SPL Exceptions - http://php.net/manual/en/spl.exceptions.php
