@@ -4,6 +4,12 @@
 * **http://www.phptherightway.com/**
 
 ## Tutorials
+* Laravel PHP Practitioner (Free) - https://laracasts.com/
+* PHP Pandas - https://daylerees.com/php-pandas/
+* Hacking with PHP - http://www.hackingwithphp.com/
+* PHP Essentials - http://www.techotopia.com/index.php/PHP_Essentials
+* PHP 101: PHP For the Absolute Beginner - https://devzone.zend.com/6/php-101-php-for-the-absolute-beginner/
+* Make your own blog beginners tutorial - https://ilovephp.jondh.me.uk/en/tutorial/make-your-own-blog
 * https://www.codecademy.com/tracks/php
 * http://www.w3schools.com/php/
 * https://www.tutorialspoint.com/php/
@@ -312,14 +318,6 @@ Follow common PHP conventions for object-oriented code, and established industry
 * Symfony - http://knpuniversity.com/tracks/symfony
 * Treehouse - https://teamtreehouse.com/learn-to-code/php
 * CodeAcademy - https://www.codecademy.com/learn/php
-
-## Tutorials
-* Laravel PHP Practitioner (Free) - https://laracasts.com/
-* PHP Pandas - https://daylerees.com/php-pandas/
-* Hacking with PHP - http://www.hackingwithphp.com/
-* PHP Essentials - http://www.techotopia.com/index.php/PHP_Essentials
-* PHP 101: PHP For the Absolute Beginner - https://devzone.zend.com/6/php-101-php-for-the-absolute-beginner/
-* Make your own blog beginners tutorial - https://ilovephp.jondh.me.uk/en/tutorial/make-your-own-blog
 
 ## Community / News
 * https://twitter.com/official_php
