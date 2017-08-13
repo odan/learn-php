@@ -321,7 +321,7 @@ Follow common PHP conventions for object-oriented code, and established industry
 ## Domain Driven Design (DDD)
 
 * [Eric Evans 2003 - Domain-Driven Design - Tackling Complexity in the Heart of Software.pdf](https://github.com/p0w34007/ebooks/blob/master/Eric%20Evans%202003%20-%20Domain-Driven%20Design%20-%20Tackling%20Complexity%20in%20the%20Heart%20of%20Software.pdf)
-* (Implementing Domain-Driven Design)[https://www.amazon.de/gp/product/0321834577/ref=as_li_tl?ie=UTF8&tag=28031982-21&camp=1638&creative=6742&linkCode=as2&creativeASIN=0321834577&linkId=eb63c6ebb30257011280bf1eab89f1db]
+* [Implementing Domain-Driven Design](https://www.amazon.de/gp/product/0321834577/ref=as_li_tl?ie=UTF8&tag=28031982-21&camp=1638&creative=6742&linkCode=as2&creativeASIN=0321834577&linkId=eb63c6ebb30257011280bf1eab89f1db)
 
 ## Community / News
 * https://twitter.com/official_php
