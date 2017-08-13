@@ -309,12 +309,13 @@ Follow common PHP conventions for object-oriented code, and established industry
 ## Online schools
 * PHP - http://knpuniversity.com/tracks/php
 * PHP - https://www.codecademy.com/learn/php
-* Laravel - https://laracasts.com/
 * Symfony - http://knpuniversity.com/tracks/symfony
 * Treehouse - https://teamtreehouse.com/learn-to-code/php
 * CodeAcademy - https://www.codecademy.com/learn/php
 
 ## Tutorials
+* Laravel PHP Practitioner (Free) - https://laracasts.com/
+* PHP Pandas - https://daylerees.com/php-pandas/
 * Hacking with PHP - http://www.hackingwithphp.com/
 * PHP Essentials - http://www.techotopia.com/index.php/PHP_Essentials
 * PHP 101: PHP For the Absolute Beginner - https://devzone.zend.com/6/php-101-php-for-the-absolute-beginner/
