@@ -182,6 +182,7 @@
 
 ## Templating (frontend)
 * Mustache.js - https://mustache.github.io/
+* Handlebars.js - Minimal Templating on Steroids - http://handlebarsjs.com/
 * Vue.js - https://vuejs.org/
 
 # Database
