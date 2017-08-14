@@ -4,7 +4,7 @@
 * **http://www.phptherightway.com/**
 
 ## Tutorials
-* Laravel PHP Practitioner (Free) - https://laracasts.com/
+* Laravel PHP Practitioner (Free) - https://laracasts.com/skills/php
 * PHP Pandas - https://daylerees.com/php-pandas/
 * Hacking with PHP - http://www.hackingwithphp.com/
 * PHP Essentials - http://www.techotopia.com/index.php/PHP_Essentials
