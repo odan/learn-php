@@ -2,6 +2,7 @@
 
 ## Must read
 * **http://www.phptherightway.com/**
+* Roadmap to becoming a web developer in 2017 - https://github.com/kamranahmedse/developer-roadmap
 
 ## Tutorials
 * Laravel PHP Practitioner (Free) - https://laracasts.com/skills/php
@@ -37,10 +38,6 @@
 ## Reference
 * PHP Manual - http://de1.php.net/manual/en/index.php
 * Language Reference - http://de1.php.net/manual/en/langref.php
-
-## Basics
-
-* The Big Picture - https://github.com/kamranahmedse/developer-roadmap
 
 ### LAMP: Linux, Apache, MySql, PHP
 * https://en.wikipedia.org/wiki/Linux
@@ -135,6 +132,7 @@
 * Thin controllers, fat models - http://de.slideshare.net/damiansromek/thin-controllers-fat-models-proper-code-structure-for-mvc
 * Best Practices Controllers - http://symfony.com/doc/current/best_practices/controllers.html
 * Creating services you won’t hate - http://www.brandonsavage.net/creating-services-you-wont-hate/
+* MVC for advanced PHP developers - https://stackoverflow.com/questions/16356420/mvc-for-advanced-php-developers/16356866#16356866
 
 ## Object Oriented
 * Classes and Objects - http://php.net/manual/en/language.oop5.php
