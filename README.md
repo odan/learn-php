@@ -22,9 +22,9 @@
 * PHP Academy - https://www.youtube.com/user/phpacademy/videos
 
 ## Books
-* [Modern PHP: New Features and Good Practices](https://www.amazon.de/gp/product/1491905018/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=1491905018&linkCode=as2&tag=molengocom-21)
-* http://shop.oreilly.com/product/9781785880544.do
-* [Phparchitect's Zend PHP 5 Certification Study Guide](https://www.amazon.de/gp/product/0973862149/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=0973862149&linkCode=as2&tag=molengocom-21)
+* [Modern PHP: New Features and Good Practices](https://www.amazon.de/gp/product/1491905018/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=1491905018&linkCode=as2&tag=28031982-21)
+* Learning PHP 7 - http://shop.oreilly.com/product/9781785880544.do
+* [Phparchitect's Zend PHP 5 Certification Study Guide](https://www.amazon.de/gp/product/0973862149/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=0973862149&linkCode=as2&tag=28031982-21)
 * Free Programming Books - https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#php
 
 ## Online schools
@@ -317,7 +317,7 @@ Follow common PHP conventions for object-oriented code, and established industry
 * What ENT_* should I use for htmlspecialchars? - https://3v4l.org/PvRtm
 
 ## Continuous integration (CI) and Continuous Delivery (CD)
-* [Continuous Delivery](https://www.amazon.de/gp/product/B003YMNVC0/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B003YMNVC0&linkCode=as2&tag=molengocom-21)
+* [Continuous Delivery](https://www.amazon.de/gp/product/B003YMNVC0/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B003YMNVC0&linkCode=as2&tag=28031982-21)
 * Continuously delivering PHP projects - https://www.youtube.com/watch?v=HOwPJg-F4h0
 * PHP Deployment Explained - book - https://phpdeploymentexplained.com/
 * http://stackoverflow.com/questions/28608015/continuous-integration-vs-continuous-delivery-vs-continuous-deployment
