@@ -20,7 +20,7 @@
 ## Videos
 * PHP Programming - https://www.youtube.com/watch?v=27dR_sLaM74
 * The New Boston's Youtube Playlist - https://www.youtube.com/course?list=EC442FA2C127377F07
-* PHP Academy - https://www.youtube.com/user/phpacademy/videos
+* Codecourse - https://www.youtube.com/codecourse/videos
 
 ## Books
 * [Modern PHP: New Features and Good Practices](https://www.amazon.de/gp/product/1491905018/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=1491905018&linkCode=as2&tag=28031982-21)
