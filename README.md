@@ -178,10 +178,11 @@
 * Plates - http://platesphp.com/
 * Twig - http://twig.sensiolabs.org/
 
-## Templating (frontend)
+## View libraries (frontend)
 * Mustache.js - https://mustache.github.io/
 * Handlebars.js - Minimal Templating on Steroids - http://handlebarsjs.com/
 * Vue.js - https://vuejs.org/
+* React - https://reactjs.org/
 
 # Database
 * MySQL - https://en.wikipedia.org/wiki/MySQL | http://dev.mysql.com/downloads/mysql/
