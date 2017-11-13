@@ -67,6 +67,7 @@
 * JavaScript Tutorial - http://www.w3schools.com/js/default.asp
 * Eloquent JavaScript - http://eloquentjavascript.net/
 * You Don't Know JS (book series) - https://github.com/getify/You-Dont-Know-JS
+* Awesome JavaScript Learning - https://github.com/micromata/awesome-javascript-learning
 
 ### Protocols
 * HTTP - http://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol
