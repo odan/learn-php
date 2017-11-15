@@ -312,9 +312,12 @@ Follow common PHP conventions for object-oriented code, and established industry
 
 ## Security
 * Web security essentials - http://www.sohamkamani.com/blog/2017/01/16/web-security-essentials/
+* PHP Security Cheat Sheet - https://www.owasp.org/index.php/PHP_Security_Cheat_Sheet
+* PHP The Right Way - Security - http://www.phptherightway.com/#security
 * XSS - https://www.sitepoint.com/php-security-cross-site-scripting-attacks-xss/
 * HTML encoding - http://php.net/manual/en/function.htmlspecialchars.php
 * What ENT_* should I use for htmlspecialchars? - https://3v4l.org/PvRtm
+* The latest information about secure PHP software - https://paragonie.com/blog
 
 ## Continuous integration (CI) and Continuous Delivery (CD)
 * [Continuous Delivery](https://www.amazon.de/gp/product/B003YMNVC0/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B003YMNVC0&linkCode=as2&tag=28031982-21)
