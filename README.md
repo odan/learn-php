@@ -1,5 +1,57 @@
 # Resources for PHP
 
+## Table of Contents
+
+* [Must read](#must-read)
+* [Tutorials](#tutorials)
+* [Videos](#videos)
+* [Books](#books)
+* [Online schools](#online-schools)
+* [Reference](#reference)
+* [LAMP: Linux, Apache, MySql, PHP](#)
+* [HTML / HTML 5](#)
+* [CSS](#css)
+* [JavaScript](#javascript)
+* [Protocols](#protocols)
+* [Tools](#tools)
+* [IDEs](#ides)
+* [Graphic tools](#graphinc-tools)
+* [Frontend](#frontend)
+* [Webdesign](#webdesign)
+* [Frameworks](#frameworks)
+* [Micro Frameworks](#micro-frameworks)
+* [Libraries](#libraries)
+* [Model-View-Controller](#model-view-controller)
+* [Object-oriented programming](#object-oriented-programming)
+* [Design patterns](#design-patterns)
+* [Best Practices](#best-practices)
+* [Architecture](#architecture)
+* [Domain Driven Design (DDD)](#domain-driven-design-ddd)
+* [Templating](#templating)
+* [View libraries (frontend)](#view-libraries-frontend)
+* [Database basics](#database-basics)
+* [Database books](#database-books)
+* [Relational database management system (RDBMS)](#relational-database-management-system-rdbms)
+* [Database normalization](#database-normalization)
+* [Prepared Statements](#prepared-statements)
+* [NoSQL](#nosql)
+* [Database tutorials](#database-tutorial)
+* [Database libraries](#database-libraries)
+* [Database tools](#database-tools)
+* [Standards](#standards)
+* [Errors and exception handling](#errors-and-exception-handling)
+* [Unit testing](#unit-testing)
+* [Documentation](#documentation)
+* [PHP Sessions](#php-sessions)
+* [Router and Dispatcher](#router-and-dispatcher)
+* [Text translations](#tetxt-translations)
+* [Dependency injection](#dependency-injection)
+* [Version control](#version-control)
+* [Security](#security)
+* [Continuous integration and Continuous Delivery](#continuous-integration-ci-and-ontinuous-delivery-cd)
+* [Community and News](#community-news)
+
+
 ## Must read
 * **http://www.phptherightway.com/**
 * Roadmap to becoming a web developer in 2017 - https://github.com/kamranahmedse/developer-roadmap
@@ -135,7 +187,7 @@
 * Creating services you won’t hate - http://www.brandonsavage.net/creating-services-you-wont-hate/
 * MVC for advanced PHP developers - https://stackoverflow.com/questions/16356420/mvc-for-advanced-php-developers/16356866#16356866
 
-## Object Oriented
+## Object-oriented programming
 * Classes and Objects - http://php.net/manual/en/language.oop5.php
 * Mastering Object Oriented PHP - ebook - http://www.masteringobjectorientedphp.com/
 * Objektorientierte Programmierung (german) - https://www.php-einfach.de/experte/objektorientierte-programmierung-oop/
@@ -149,7 +201,7 @@
 * Several design patterns in PHP - https://github.com/domnikl/DesignPatternsPHP
 * Videos - https://www.youtube.com/playlist?list=PLplJltxWVIbLVL3ZX3I6b_uvBsnYVaRJn
 
-## Best Practices and principles
+## Best Practices
 * KISS - https://en.wikipedia.org/wiki/KISS_principle | https://people.apache.org/~fhanik/kiss.html
 * Don’t repeat yourself (DRY) - https://en.wikipedia.org/wiki/Don't_repeat_yourself
 * Return early, return often - http://blog.humphd.org/vocamus-1421/
@@ -185,23 +237,22 @@
 * Vue.js - https://vuejs.org/
 * React - https://reactjs.org/
 
-# Database
+## Database basics
+* Database - https://en.wikipedia.org/wiki/Database
+* Database model - https://en.wikipedia.org/wiki/Database_model
+* The only proper PDO tutorial - **https://phpdelusions.net/pdo**
+* SQL Tutorial - http://www.w3schools.com/sql/default.asp
+* Datenbank Grundlagen (german) - http://www.datenbank-grundlagen.de/
+* ERM -https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model
+* Datenbank-Grundlagen Tutorial (german) - https://www.youtube.com/watch?v=dLXZYr-o4T4
+* Datenbank-Grundlagen Tutorial: Primärschlüssel (german) - https://www.youtube.com/watch?v=Mpkg0RnkMkw
+
+## Relational database management system (RDBMS)
 * MySQL - https://en.wikipedia.org/wiki/MySQL | http://dev.mysql.com/downloads/mysql/
 * MariaDB - https://en.wikipedia.org/wiki/MariaDB | https://mariadb.org/
 * Microsoft SQL Server - https://en.wikipedia.org/wiki/Microsoft_SQL_Server
 * Oracle - https://en.wikipedia.org/wiki/Oracle_Database
 * SQLite - https://en.wikipedia.org/wiki/SQLite
-
-## Database basics
-* Database - https://en.wikipedia.org/wiki/Database
-* Database model - https://en.wikipedia.org/wiki/Database_model
-* SQL Tutorial - http://www.w3schools.com/sql/default.asp
-* Datenbank Grundlagen (german) - http://www.datenbank-grundlagen.de/
-* ERM -https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model
-
-## Database videos
-* Datenbank-Grundlagen Tutorial (german) - https://www.youtube.com/watch?v=dLXZYr-o4T4
-* Datenbank-Grundlagen Tutorial: Primärschlüssel (german) - https://www.youtube.com/watch?v=Mpkg0RnkMkw
 
 ## Database books
 * http://www.highperfmysql.com/
@@ -219,9 +270,6 @@
  
 ## NoSQL
 * https://en.wikipedia.org/wiki/NoSQL
-
-## Database tutorials
-* The only proper PDO tutorial - **https://phpdelusions.net/pdo**
 
 ## Database libraries
 * Phinx - database migrations - https://phinx.org/
@@ -282,7 +330,7 @@ Follow common PHP conventions for object-oriented code, and established industry
 * Cookie - https://en.wikipedia.org/wiki/HTTP_cookie
 * Session Management - https://symfony.com/doc/current/components/http_foundation/sessions.html
 
-## Router und Dispatcher
+## Router and Dispatcher
 * FastRoute- https://github.com/nikic/FastRoute
 * Route - http://route.thephpleague.com/
 * Slim - https://www.slimframework.com/
