@@ -184,7 +184,6 @@
 * A Better Understanding Of MVC https://www.bennadel.com/blog/2379-a-better-understanding-of-mvc-model-view-controller-thanks-to-steven-neiland.htm
 * Thin controllers, fat models - http://de.slideshare.net/damiansromek/thin-controllers-fat-models-proper-code-structure-for-mvc
 * Best Practices Controllers - http://symfony.com/doc/current/best_practices/controllers.html
-* Creating services you won’t hate - http://www.brandonsavage.net/creating-services-you-wont-hate/
 * MVC for advanced PHP developers - https://stackoverflow.com/questions/16356420/mvc-for-advanced-php-developers/16356866#16356866
 
 ## Object-oriented programming
@@ -218,7 +217,7 @@
 ## Architecture
 
 * The Clean Architecture - https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html
-* Creating services you won’t hate - http://www.brandonsavage.net/creating-services-you-wont-hate/
+* Creating services you won’t hate - https://www.brandonsavage.net/creating-services-you-wont-hate/
 
 ## Domain Driven Design (DDD)
 
@@ -226,10 +225,10 @@
 * [Implementing Domain-Driven Design](https://www.amazon.de/gp/product/0321834577/ref=as_li_tl?ie=UTF8&tag=28031982-21&camp=1638&creative=6742&linkCode=as2&creativeASIN=0321834577&linkId=eb63c6ebb30257011280bf1eab89f1db)
 
 ## Templating
-* Getting started with php templating - http://www.smashingmagazine.com/2011/10/getting-started-with-php-templating/
+* Getting started with php templating - https://www.smashingmagazine.com/2011/10/getting-started-with-php-templating/
 * Native templates - http://php.net/manual/en/control-structures.alternative-syntax.php
 * Plates - http://platesphp.com/
-* Twig - http://twig.sensiolabs.org/
+* Twig - https://twig.symfony.com/
 
 ## View libraries (frontend)
 * Mustache.js - https://mustache.github.io/
