@@ -292,6 +292,7 @@ Follow common PHP conventions for object-oriented code, and established industry
 * Standard PHP package skeleton - https://github.com/php-pds/skeleton
 * A skeleton repository for League Packages - https://github.com/thephpleague/skeleton
 * Semantic Versioning 2.0.0 - http://semver.org/
+* Clean Code PHP - https://github.com/jupeter/clean-code-php
 
 ## Errors and exception handling
 * Errors and Exceptions - http://www.phptherightway.com/#errors_and_exceptions
