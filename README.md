@@ -8,14 +8,14 @@
 * [Books](#books)
 * [Online schools](#online-schools)
 * [Reference](#reference)
-* [LAMP: Linux, Apache, MySql, PHP](#)
-* [HTML / HTML 5](#)
+* [LAMP: Linux, Apache, MySql, PHP](#lamp-linux-apache-mysql-php)
+* [HTML / HTML 5](#html--html-5)
 * [CSS](#css)
 * [JavaScript](#javascript)
 * [Protocols](#protocols)
 * [Tools](#tools)
 * [IDEs](#ides)
-* [Graphic tools](#graphinc-tools)
+* [Graphic tools](#graphic-tools)
 * [Frontend](#frontend)
 * [Webdesign](#webdesign)
 * [Frameworks](#frameworks)
@@ -44,12 +44,12 @@
 * [Documentation](#documentation)
 * [PHP Sessions](#php-sessions)
 * [Router and Dispatcher](#router-and-dispatcher)
-* [Text translations](#tetxt-translations)
+* [Text translations](#text-translations)
 * [Dependency injection](#dependency-injection)
 * [Version control](#version-control)
 * [Security](#security)
-* [Continuous integration and Continuous Delivery](#continuous-integration-ci-and-ontinuous-delivery-cd)
-* [Community and News](#community-news)
+* [Continuous integration and Continuous Delivery](#continuous-integration-ci-and-continuous-delivery-cd)
+* [Community and News](#community--news)
 
 
 ## Must read
@@ -222,7 +222,7 @@
 
 ## Domain Driven Design (DDD)
 
-* [Eric Evans 2003 - Domain-Driven Design - Tackling Complexity in the Heart of Software.pdf](https://www.amazon.de/gp/product/0321125215/ref=as_li_tl?ie=UTF8&tag=28031982-21&camp=1638&creative=6742&linkCode=as2&creativeASIN=0321125215&linkId=16ec2c3b5f11f8f3b4e152c4a25b22c3)
+* [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.de/gp/product/0321125215/ref=as_li_tl?ie=UTF8&tag=28031982-21&camp=1638&creative=6742&linkCode=as2&creativeASIN=0321125215&linkId=16ec2c3b5f11f8f3b4e152c4a25b22c3)
 * [Implementing Domain-Driven Design](https://www.amazon.de/gp/product/0321834577/ref=as_li_tl?ie=UTF8&tag=28031982-21&camp=1638&creative=6742&linkCode=as2&creativeASIN=0321834577&linkId=eb63c6ebb30257011280bf1eab89f1db)
 
 ## Templating
@@ -255,7 +255,7 @@
 * SQLite - https://en.wikipedia.org/wiki/SQLite
 
 ## Database books
-* http://www.highperfmysql.com/
+* [High Performance MySQL: Optimization, Backups, and Replication](https://www.amazon.com/High-Performance-MySQL-Optimization-Replication/dp/1449314287/?tag=28031982-21)
 
 ## Database normalization
 * Database normalization - https://en.wikipedia.org/wiki/Database_normalization
