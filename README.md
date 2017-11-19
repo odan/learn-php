@@ -209,7 +209,9 @@
 * SOLID (Wiki) - https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)
 * The First 5 Principles of Object Oriented Design - https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design 
 * How to write SOLID code that doesn’t suck - https://medium.com/web-engineering-vox/how-to-write-solid-code-that-doesnt-suck-2a3416623d48#.61pr1ym4b
-* YAGNI - https://blog.codinghorror.com/kiss-and-yagni/
+* YAGNI - http://deviq.com/yagni/ | https://blog.codinghorror.com/kiss-and-yagni/
+* You Arent Gonna Need It - http://c2.com/xp/YouArentGonnaNeedIt.html
+* [YAGNI, Cargo Cult and Overengineering](https://codeahoy.com/2017/08/19/yagni-cargo-cult-and-overengineering-the-planes-wont-land-just-because-you-built-a-runway-in-your-backyard/)
 * PHP Dos and Don’ts aka Programmers I Don’t Like - https://blog.radwell.codes/2016/11/php-dos-donts-aka-programmers-dont-like/
 * Object Calisthenics - https://medium.com/web-engineering-vox/improving-code-quality-with-object-calisthenics-aa4ad67a61f1#.ggel1wt46
 * Composition over inheritance - https://www.thoughtworks.com/pt/insights/blog/composition-vs-inheritance-how-choose
