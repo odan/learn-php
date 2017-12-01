@@ -229,8 +229,6 @@
 
 ## Templating
 * Getting started with php templating - https://www.smashingmagazine.com/2011/10/getting-started-with-php-templating/
-* Native templates - http://php.net/manual/en/control-structures.alternative-syntax.php
-* Plates - http://platesphp.com/
 * Twig - https://twig.symfony.com/
 
 ## View libraries (frontend)
