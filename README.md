@@ -274,6 +274,7 @@
 ## Database libraries
 * Phinx - database migrations - https://phinx.org/
 * Query Builder - https://github.com/cakephp/database - http://book.cakephp.org/3.0/en/orm/query-builder.html
+* Illuminate (Laravel) Query Builder - https://github.com/illuminate/database
 
 ## Database tools
 * SQLyog - https://github.com/webyog/sqlyog-community/wiki/Downloads
