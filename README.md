@@ -53,32 +53,32 @@
 
 
 ## Must read
-* **http://www.phptherightway.com/**
-* The Web Developer Roadmap - https://github.com/kamranahmedse/developer-roadmap
+* [PHP The Right Way](http://www.phptherightway.com/)
+* [The Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
 ## Tutorials
-* Laravel PHP Practitioner (Free) - https://laracasts.com/skills/php
-* PHP Pandas - https://daylerees.com/php-pandas/
-* Hacking with PHP - http://www.hackingwithphp.com/
-* PHP Essentials - http://www.techotopia.com/index.php/PHP_Essentials
-* PHP 101: PHP For the Absolute Beginner - https://devzone.zend.com/6/php-101-php-for-the-absolute-beginner/
-* Make your own blog beginners tutorial - https://ilovephp.jondh.me.uk/en/tutorial/make-your-own-blog
-* https://www.codecademy.com/tracks/php
-* http://www.w3schools.com/php/
-* https://www.tutorialspoint.com/php/
-* https://devzone.zend.com/welcome-to-php/
-* https://learnxinyminutes.com/docs/php/
+* [Laravel PHP Practitioner](https://laracasts.com/skills/php) (Free)
+* [PHP Pandas](https://daylerees.com/php-pandas/)
+* [Hacking with PHP](http://www.hackingwithphp.com/)
+* [PHP Essentials](http://www.techotopia.com/index.php/PHP_Essentials)
+* [PHP 101: PHP For the Absolute Beginner](https://devzone.zend.com/6/php-101-php-for-the-absolute-beginner/)
+* [Make your own blog beginners tutorial](https://ilovephp.jondh.me.uk/en/tutorial/make-your-own-blog)
+* [Codecademy PHP]()https://www.codecademy.com/tracks/php)
+* [W3Schools PHP](http://www.w3schools.com/php/)
+* [Tutorialspoint PHP](https://www.tutorialspoint.com/php/)
+* [Devzone PHP](https://devzone.zend.com/welcome-to-php/)
+* [Learn X in Y minutes](https://learnxinyminutes.com/docs/php/)
 
 ## Videos
-* PHP Programming - https://www.youtube.com/watch?v=27dR_sLaM74
-* The New Boston's Youtube Playlist - https://www.youtube.com/course?list=EC442FA2C127377F07
-* Codecourse - https://www.youtube.com/codecourse/videos
+* [PHP Programming](https://www.youtube.com/watch?v=27dR_sLaM74)
+* [The New Boston's Youtube Playlist](https://www.youtube.com/course?list=EC442FA2C127377F07)
+* [Codecourse](https://www.youtube.com/codecourse/videos)
 
 ## Books
 * [Modern PHP: New Features and Good Practices](https://www.amazon.de/gp/product/1491905018/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=1491905018&linkCode=as2&tag=28031982-21)
-* Learning PHP 7 - http://shop.oreilly.com/product/9781785880544.do
+* [Learning PHP 7](http://shop.oreilly.com/product/9781785880544.do)
 * [Phparchitect's Zend PHP 5 Certification Study Guide](https://www.amazon.de/gp/product/0973862149/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=0973862149&linkCode=as2&tag=28031982-21)
-* Free Programming Books - https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#php
+* [Free Programming Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#php) 
 
 ## Online schools
 * PHP - http://knpuniversity.com/tracks/php
