@@ -179,6 +179,16 @@ The [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack:
 * [Awesome PHP libraries](https://github.com/ziadoz/awesome-php)
 
 ## Model-View-Controller
+
+Most frameworks in PHP follow some sort of MVC structure. 
+
+> The theory is simple: the user interfaces with the view, 
+> which passes information to a controller. 
+> The controller then passes that information to a model (layer), 
+> and the model passes information back to the controller. 
+> The controller effectively stands between the view and the model.
+> *(Brandon James Savage)*
+
 * [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
 * [MVC overview](https://www.reddit.com/r/PHP/comments/5w3k8h/getting_started_with_symfony/de72hg6/)
 * [MVC for Noobs](https://code.tutsplus.com/tutorials/mvc-for-noobs--net-10488)
