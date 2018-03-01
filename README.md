@@ -63,7 +63,7 @@
 * [PHP Essentials](http://www.techotopia.com/index.php/PHP_Essentials)
 * [PHP 101: PHP For the Absolute Beginner](https://devzone.zend.com/6/php-101-php-for-the-absolute-beginner/)
 * [Make your own blog beginners tutorial](https://ilovephp.jondh.me.uk/en/tutorial/make-your-own-blog)
-* [Codecademy PHP]()https://www.codecademy.com/tracks/php)
+* [Codecademy PHP](https://www.codecademy.com/tracks/php)
 * [W3Schools PHP](http://www.w3schools.com/php/)
 * [Tutorialspoint PHP](https://www.tutorialspoint.com/php/)
 * [Devzone PHP](https://devzone.zend.com/welcome-to-php/)
@@ -81,15 +81,14 @@
 * [Free Programming Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#php) 
 
 ## Online schools
-* PHP - http://knpuniversity.com/tracks/php
-* PHP - https://www.codecademy.com/learn/php
-* Symfony - http://knpuniversity.com/tracks/symfony
-* Treehouse - https://teamtreehouse.com/learn-to-code/php
-* CodeAcademy - https://www.codecademy.com/learn/php
+* [CodeAcademy - Web Development](https://www.codecademy.com/catalog/subject/web-development)
+* [KnpUniversity - Learn PHP](https://knpuniversity.com/tracks/php)
+* [KnpUniversity - Learn Symfony 4](https://knpuniversity.com/tracks/symfony)
+* [Treehouse - Learn PHP](https://teamtreehouse.com/learn-to-code/php)
 
 ## Reference
-* PHP Manual - http://de1.php.net/manual/en/index.php
-* Language Reference - http://de1.php.net/manual/en/langref.php
+* [PHP Manual](http://de1.php.net/manual/en/index.php)
+* [Language Reference](http://de1.php.net/manual/en/langref.php)
 
 ### LAMP: Linux, Apache, MySql, PHP
 * https://en.wikipedia.org/wiki/Linux
