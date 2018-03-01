@@ -249,8 +249,8 @@ The [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack:
 * [Datenbank-Grundlagen Tutorial: Primärschlüssel](https://www.youtube.com/watch?v=Mpkg0RnkMkw) (german)
 
 ## Relational database management system (RDBMS)
-* [MySQL](https://en.wikipedia.org/wiki/MySQL) | [MySQL website][http://dev.mysql.com/downloads/mysql/)
-* [MariaDB](https://en.wikipedia.org/wiki/MariaDB) |[MariaDB website](https://mariadb.org/)
+* [MySQL](https://en.wikipedia.org/wiki/MySQL) | [MySQL website](http://dev.mysql.com/downloads/mysql/)
+* [MariaDB](https://en.wikipedia.org/wiki/MariaDB) | [MariaDB website](https://mariadb.org/)
 * [Microsoft SQL Server](https://en.wikipedia.org/wiki/Microsoft_SQL_Server)
 * [Oracle](https://en.wikipedia.org/wiki/Oracle_Database)
 * [SQLite](https://en.wikipedia.org/wiki/SQLite)
@@ -285,99 +285,95 @@ The [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack:
 
 Follow common PHP conventions for object-oriented code, and established industry best practices: PSR-1, PSR-2, PSR-4.
 
-* PHP Framework Interop Group - http://www.php-fig.org/
+* [PHP Framework Interop Group](http://www.php-fig.org/)
 * [PSR-1 Basic Coding Standard](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-1-basic-coding-standard.md)
 * [PSR-2 Coding Style Guide](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md)
 * [PSR-3 Logger Interface](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-3-logger-interface.md)
 * [PSR-4 Autoloader](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-4-autoloader.md)
 * [PSR-5 PHPDoc](https://github.com/phpDocumentor/fig-standards/blob/master/proposed/phpdoc.md)
-* Standard PHP package skeleton - https://github.com/php-pds/skeleton
-* A skeleton repository for League Packages - https://github.com/thephpleague/skeleton
-* Semantic Versioning 2.0.0 - http://semver.org/
+* [Standard PHP package skeleton](https://github.com/php-pds/skeleton)
+* [A skeleton repository for League Packages](https://github.com/thephpleague/skeleton)
+* [Semantic Versioning 2.0.0](https://semver.org/)
 
 ## Errors and exception handling
-* Errors and Exceptions - http://www.phptherightway.com/#errors_and_exceptions
-* Error Handling PHP Best Practices - http://bestpractices.thecodingmachine.com/php/error_handling.html
-* Exceptions - http://php.net/manual/en/language.exceptions.php
-* Predefined Exceptions - http://php.net/manual/en/reserved.exceptions.php
-* SPL Exceptions - http://php.net/manual/en/spl.exceptions.php
-* Errors and error handling - http://php.net/manual/en/pdo.error-handling.php
+* [Errors and Exceptions](https://www.phptherightway.com/#errors_and_exceptions)
+* [Error Handling PHP Best Practices](http://bestpractices.thecodingmachine.com/php/error_handling.html)
+* [Exceptions](http://php.net/manual/en/language.exceptions.php) 
+* [Predefined Exceptions](http://php.net/manual/en/reserved.exceptions.php)
+* [SPL Exceptions](http://php.net/manual/en/spl.exceptions.php)
+* [Errors and error handling](http://php.net/manual/en/pdo.error-handling.php)
 
 ## Unit testing
-* PHPUnit - testing framework - https://phpunit.de/
-* PHPUnit Explained - book - https://phpunitexplained.com/
-* Database Testing - https://phpunit.de/manual/current/en/database.html
-* Best practices for database testing with PHPUnit - http://stackoverflow.com/a/3817970
-* Database Tests With PHPUnit - https://qafoo.com/blog/090_database_tests_with_phpunit.html
-* Database Fixture Setup in PHPUnit - https://qafoo.com/blog/091_database_fixture_setup_in_phpunit.html
-* Unit test, Integration Test, Smoke test, Regression Test - http://stackoverflow.com/a/520116
-* Unit Testing, Integration Testing and Functional Testing - https://codeutopia.net/blog/2015/04/11/what-are-unit-testing-integration-testing-and-functional-testing/
-* The correct way to use integration tests - https://zeroturnaround.com/rebellabs/the-correct-way-to-use-integration-tests-in-your-build-process/
-* The Test Pyramid - https://martinfowler.com/bliki/TestPyramid.html
-* The Way of Testivus (pdf) - http://www.agitar.com/downloads/TheWayOfTestivus.pdf
-* https://speakerdeck.com/mensemedia/100-percent-code-coverage-via-automated-tests-in-symfony-applications
+* [PHPUnit - testing framework](https://phpunit.de/)
+* [PHPUnit Explained](https://phpunitexplained.com/) (ebook)
+* [Database Testing](https://phpunit.de/manual/current/en/database.html)
+* [Best practices for database testing with PHPUnit](http://stackoverflow.com/a/3817970)
+* [Database Tests With PHPUnit](https://qafoo.com/blog/090_database_tests_with_phpunit.html)
+* [Database Fixture Setup in PHPUnit](https://qafoo.com/blog/091_database_fixture_setup_in_phpunit.html)
+* [Unit test, Integration Test, Smoke test, Regression Test](http://stackoverflow.com/a/520116)
+* [Unit Testing, Integration Testing and Functional Testing](https://codeutopia.net/blog/2015/04/11/what-are-unit-testing-integration-testing-and-functional-testing/)
+* [The correct way to use integration tests](https://zeroturnaround.com/rebellabs/the-correct-way-to-use-integration-tests-in-your-build-process/)
+* [The Test Pyramid](https://martinfowler.com/bliki/TestPyramid.html)
+* [The Way of Testivus](http://www.agitar.com/downloads/TheWayOfTestivus.pdf) (pdf)
+* [100% Code Coverage via automated tests in Symfony applications](https://speakerdeck.com/mensemedia/100-percent-code-coverage-via-automated-tests-in-symfony-applications) 
 
 ## Documentation
-* Introduction to PhpDoc - https://www.sitepoint.com/introduction-to-phpdoc/
-* The PHPDoc standard (PSR-5) for comments -- https://github.com/phpDocumentor/fig-standards/blob/master/proposed/phpdoc.md
-* PHPDoc wiki - https://en.wikipedia.org/wiki/PHPDoc
-* PHPDoc basic syntax - https://www.phpdoc.org/docs/latest/references/phpdoc/basic-syntax.html
-* Anatomy of a DocBlock - https://phpdoc.org/docs/latest/guides/docblocks.html
-* Your First Set of Documentation - https://phpdoc.org/docs/latest/getting-started/your-first-set-of-documentation.html
+* [Introduction to PhpDoc](https://www.sitepoint.com/introduction-to-phpdoc/)
+* [The PHPDoc standard (PSR-5) for comments](https://github.com/phpDocumentor/fig-standards/blob/master/proposed/phpdoc.md)
+* [PHPDoc wiki](https://en.wikipedia.org/wiki/PHPDoc)
+* [PHPDoc basic syntax](https://www.phpdoc.org/docs/latest/references/phpdoc/basic-syntax.html)
+* [Anatomy of a DocBlock](https://phpdoc.org/docs/latest/guides/docblocks.html)
+* [Your First Set of Documentation](https://phpdoc.org/docs/latest/getting-started/your-first-set-of-documentation.html)
 
 ## PHP Sessions
-* PHP 5 Sessions - http://www.w3schools.com/php/php_sessions.asp
-* Session Handling - https://secure.php.net/manual/en/book.session.php
-* Cookie - https://en.wikipedia.org/wiki/HTTP_cookie
-* Session Management - https://symfony.com/doc/current/components/http_foundation/sessions.html
+* [PHP 5 Sessions](http://www.w3schools.com/php/php_sessions.asp)
+* [Session Handling](https://secure.php.net/manual/en/book.session.php)
+* [Cookie](https://en.wikipedia.org/wiki/HTTP_cookie)
+* [Session Management](https://symfony.com/doc/current/components/http_foundation/sessions.html)
 
 ## Router and Dispatcher
-* FastRoute- https://github.com/nikic/FastRoute
-* Route - http://route.thephpleague.com/
-* Slim - https://www.slimframework.com/
-* Symfony: The Routing Component - http://symfony.com/doc/current/components/routing.html
+* [FastRoute](https://github.com/nikic/FastRoute)
+* [Symfony: The Routing Component](https://symfony.com/doc/current/components/routing.html)
 
 ## Text translations
-* PoEdit - gettext translations editor - https://poedit.net/
-* gettext - http://php.net/manual/de/book.gettext.php
-* The Translation Component - http://symfony.com/doc/current/components/translation.html
+* [PoEdit](https://poedit.net/)  gettext translations editor
+* [PHP gettext](http://php.net/manual/de/book.gettext.php)
+* [Symfony: The Translation Component](https://symfony.com/doc/current/components/translation.html)
 
 ## Dependency injection
-* PSR-11 Container interface standard - https://github.com/php-fig/fig-standards/blob/master/proposed/container.md
-* Common Container Interface (PHP FIG PSR-11) - https://packagist.org/packages/psr/container
-* Containers interoperability - https://github.com/container-interop/container-interop
-* Container implementation - http://container.thephpleague.com/getting-started/
-* Dependency Injection with Auryn - http://shadowhand.me/dependency-injection-with-auryn/
-* The Clean Code Talks - Don't Look For Things! - https://www.youtube.com/watch?v=RlfLCWKxHJ0
-* Dependency Injection and Dependency Inversion - https://www.youtube.com/watch?v=Ojsn11XY0X8
+* [PSR-11 Container interface standard](https://github.com/php-fig/fig-standards/blob/master/proposed/container.md)
+* [Common Container Interface (PSR-11)](https://packagist.org/packages/psr/container)
+* [Containers interoperability](https://github.com/container-interop/container-interop)
+* [The Clean Code Talks - Don't Look For Things!](https://www.youtube.com/watch?v=RlfLCWKxHJ0)
+* [Dependency Injection and Dependency Inversion](https://www.youtube.com/watch?v=Ojsn11XY0X8)
 
 ## Version control
-* What is version control - https://www.atlassian.com/git/tutorials/what-is-version-control
-* Github - **https://github.com**
-* Got 15 minutes and want to learn Git? - https://try.github.io/levels/1/challenges/1
-* gittutorial - A tutorial introduction to Git- https://git-scm.com/docs/gittutorial
-* git - the simple guide - http://rogerdudler.github.io/git-guide/
-* How to contribute to an open source project on GitHub - http://blog.davidecoppola.com/2016/11/howto-contribute-to-open-source-project-on-github/
+* [What is version control](https://www.atlassian.com/git/tutorials/what-is-version-control)
+* **[Github](https://github.com)**
+* [Got 15 minutes and want to learn Git?](https://try.github.io/levels/1/challenges/1)
+* [gittutorial - A tutorial introduction to Git](https://git-scm.com/docs/gittutorial)
+* [git - the simple guide](http://rogerdudler.github.io/git-guide/)
+* [How to contribute to an open source project on GitHub](http://blog.davidecoppola.com/2016/11/howto-contribute-to-open-source-project-on-github/)
 
 ## Security
-* Web security essentials - http://www.sohamkamani.com/blog/2017/01/16/web-security-essentials/
-* PHP Security Cheat Sheet - https://www.owasp.org/index.php/PHP_Security_Cheat_Sheet
-* PHP The Right Way - Security - http://www.phptherightway.com/#security
-* XSS - https://www.sitepoint.com/php-security-cross-site-scripting-attacks-xss/
-* HTML encoding - http://php.net/manual/en/function.htmlspecialchars.php
-* What ENT_* should I use for htmlspecialchars? - https://3v4l.org/PvRtm
-* The latest information about secure PHP software - https://paragonie.com/blog
+* [Web security essentials](http://www.sohamkamani.com/blog/2017/01/16/web-security-essentials/)
+* [PHP Security Cheat Sheet](https://www.owasp.org/index.php/PHP_Security_Cheat_Sheet)
+* [PHP The Right Way - Security](http://www.phptherightway.com/#security)
+* [XSS](https://www.sitepoint.com/php-security-cross-site-scripting-attacks-xss/)
+* [HTML encoding](http://php.net/manual/en/function.htmlspecialchars.php)
+* [What ENT_* should I use for htmlspecialchars?](https://3v4l.org/PvRtm) 
+* [The latest information about secure PHP software](https://paragonie.com/blog)
 
 ## Continuous integration (CI) and Continuous Delivery (CD)
 * [Continuous Delivery](https://www.amazon.de/gp/product/B003YMNVC0/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B003YMNVC0&linkCode=as2&tag=28031982-21)
-* Continuously delivering PHP projects - https://www.youtube.com/watch?v=HOwPJg-F4h0
-* PHP Deployment Explained - book - https://phpdeploymentexplained.com/
-* http://stackoverflow.com/questions/28608015/continuous-integration-vs-continuous-delivery-vs-continuous-deployment
-* https://www.sitepoint.com/whats-continuous-deployment/
-* https://www.sitepoint.com/php-continuous-integration-travis-ci/
+* [Continuously delivering PHP projects](https://www.youtube.com/watch?v=HOwPJg-F4h0)
+* [PHP Deployment Explained](https://phpdeploymentexplained.com/) ebook
+* [Continuous Integration vs. Continuous Delivery vs. Continuous Deployment](https://stackoverflow.com/a/28628086/1461181) 
+* [What’s Continuous Deployment?](https://www.sitepoint.com/whats-continuous-deployment/)
+* [PHP and Continuous Integration with Travis CI](https://www.sitepoint.com/php-continuous-integration-travis-ci/)
 
 ## Community / News
-* https://twitter.com/official_php
-* https://www.reddit.com/r/PHPhelp/
-* https://www.reddit.com/r/PHP/
-* http://www.phpweekly.com/
+* [@official_php](https://twitter.com/official_php)
+* [r/PHP](https://www.reddit.com/r/PHP/) 
+* [r/PHPhelp](https://www.reddit.com/r/PHPhelp/)
+* [PHP weekly newsletter](http://www.phpweekly.com/) 
