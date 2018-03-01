@@ -54,7 +54,7 @@
 
 ## Must read
 * **http://www.phptherightway.com/**
-* Roadmap to becoming a web developer in 2017 - https://github.com/kamranahmedse/developer-roadmap
+* The Web Developer Roadmap - https://github.com/kamranahmedse/developer-roadmap
 
 ## Tutorials
 * Laravel PHP Practitioner (Free) - https://laracasts.com/skills/php
