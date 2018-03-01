@@ -1,5 +1,7 @@
 # Resources for PHP
 
+![elephpant](https://user-images.githubusercontent.com/781074/36850276-9426a118-1d66-11e8-96da-6f3f810dc144.png)
+
 ## Table of Contents
 
 * [Must read](#must-read)
@@ -386,4 +388,5 @@ Follow common PHP conventions for object-oriented code, and established industry
 * [@official_php](https://twitter.com/official_php)
 * [r/PHP](https://www.reddit.com/r/PHP/) 
 * [r/PHPhelp](https://www.reddit.com/r/PHPhelp/)
+* [Stack Overflow](https://stackoverflow.com/questions/tagged/php)
 * [PHP weekly newsletter](http://www.phpweekly.com/) 
