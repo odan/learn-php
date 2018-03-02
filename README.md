@@ -186,7 +186,7 @@ The [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack:
 * [Zend](https://framework.zend.com/)
 
 ## Micro Frameworks
-* [https://www.slimframework.com/](Slim Framework) 
+* [Slim Framework](https://www.slimframework.com/) 
 
 ## Libraries
 * [Awesome PHP libraries](https://github.com/ziadoz/awesome-php)
@@ -252,10 +252,10 @@ Most frameworks in PHP follow some sort of MVC structure.
 * [Implementing Domain-Driven Design](https://www.amazon.de/gp/product/0321834577/ref=as_li_tl?ie=UTF8&tag=28031982-21&camp=1638&creative=6742&linkCode=as2&creativeASIN=0321834577&linkId=eb63c6ebb30257011280bf1eab89f1db)
 
 ## Database basics
-* [Database]()
+* [Database](https://en.wikipedia.org/wiki/Database)
 * [Database model](https://en.wikipedia.org/wiki/Database_model)
 * **[The only proper PDO tutorial](https://phpdelusions.net/pdo)**
-* [SQL Tutorial]()  - http://www.w3schools.com/sql/default.asp
+* [SQL Tutorial](http://www.w3schools.com/sql/default.asp)
 * [Datenbank Grundlagen](http://www.datenbank-grundlagen.de/) (german)
 * [ERM](https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model)
 * [Datenbank-Grundlagen Tutorial](https://www.youtube.com/watch?v=dLXZYr-o4T4) (german)
@@ -339,7 +339,7 @@ Follow common PHP conventions for object-oriented code, and established industry
 * [Your First Set of Documentation](https://phpdoc.org/docs/latest/getting-started/your-first-set-of-documentation.html)
 
 ## PHP Sessions
-* [PHP 5 Sessions](http://www.w3schools.com/php/php_sessions.asp)
+* [PHP Sessions](http://www.w3schools.com/php/php_sessions.asp)
 * [Session Handling](https://secure.php.net/manual/en/book.session.php)
 * [Cookie](https://en.wikipedia.org/wiki/HTTP_cookie)
 * [Session Management](https://symfony.com/doc/current/components/http_foundation/sessions.html)
@@ -354,7 +354,7 @@ Follow common PHP conventions for object-oriented code, and established industry
 * [Symfony: The Translation Component](https://symfony.com/doc/current/components/translation.html)
 
 ## Dependency injection
-* [PSR-11 Container interface standard](https://github.com/php-fig/fig-standards/blob/master/proposed/container.md)
+* [PSR-11 Container interface standard](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-11-container.md)
 * [Common Container Interface (PSR-11)](https://packagist.org/packages/psr/container)
 * [Containers interoperability](https://github.com/container-interop/container-interop)
 * [The Clean Code Talks - Don't Look For Things!](https://www.youtube.com/watch?v=RlfLCWKxHJ0)
