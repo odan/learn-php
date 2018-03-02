@@ -176,6 +176,7 @@ The [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack:
 
 ## Templating
 * [Getting started with php templating](https://www.smashingmagazine.com/2011/10/getting-started-with-php-templating/)
+* [Symfony versus Flat PHP](https://symfony.com/doc/current/introduction/from_flat_php_to_symfony2.html)
 * [Twig](https://twig.symfony.com/)
 
 ## Frameworks
