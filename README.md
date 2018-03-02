@@ -137,18 +137,18 @@ The [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack:
 * [Ajax](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
 
 ## Tools
-* [XAMPP - Apache, MariaDB, PHP](https://www.apachefriends.org/index.html)
-* [Composer - dependency management](https://getcomposer.org/)
-* [Packagist - package management](https://packagist.org/)
-* [Xdebug - debugger](https://xdebug.org/)
-* [WinSCP - FTP and SFTP client](https://winscp.net)
-* [Putty - telnet client](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
-* [PoEdit - gettext translations editor](https://poedit.net/)
-* [Smartgit - git client](https://www.syntevo.com/smartgit/)
+* [XAMPP](https://www.apachefriends.org/index.html) (Apache, MariaDB, PHP)
+* [Composer](https://getcomposer.org/) (dependency management)
+* [Xdebug](https://xdebug.org/) (Debugger) | [Xdebug Setup](https://gist.github.com/odan/1abe76d373a9cbb15bed)
+* [WinSCP](https://winscp.net) (Free SFTP, SCP and FTP client)
+* [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) (A free SSH and telnet client)
+* [PoEdit](https://poedit.net/) (gettext translations editor)
+* [Smartgit](https://www.syntevo.com/smartgit/) (GUI client for Git)
+* [Notepad++](https://notepad-plus-plus.org/) (Text editor)
+* [7-ZIP](http://www.7-zip.org/) (File archiver)
 
 ## IDEs
 * [Netbeans](https://netbeans.org/features/php/)
-* [Notepad++ Text Editor](https://notepad-plus-plus.org/)
 * [PHPStorm](https://www.jetbrains.com/phpstorm/) ($)
 * [Zend Studio](http://www.zend.com/en/products/studio) ($)
 
@@ -167,6 +167,16 @@ The [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack:
 
 ## Webdesign
 * [Anatomy of a Modern Website](http://www.touchstonesoftworks.com/blog/8_pillars_modern_web_development)
+
+## View libraries (frontend)
+* [Mustache.js](https://mustache.github.io/)
+* [Handlebars.js](http://handlebarsjs.com/)
+* [Vue.js](https://vuejs.org/)
+* [React](https://reactjs.org/)
+
+## Templating
+* [Getting started with php templating](https://www.smashingmagazine.com/2011/10/getting-started-with-php-templating/)
+* [Twig](https://twig.symfony.com/)
 
 ## Frameworks
 * [CakePHP](https://cakephp.org/)
@@ -239,16 +249,6 @@ Most frameworks in PHP follow some sort of MVC structure.
 
 * [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.de/gp/product/0321125215/ref=as_li_tl?ie=UTF8&tag=28031982-21&camp=1638&creative=6742&linkCode=as2&creativeASIN=0321125215&linkId=16ec2c3b5f11f8f3b4e152c4a25b22c3)
 * [Implementing Domain-Driven Design](https://www.amazon.de/gp/product/0321834577/ref=as_li_tl?ie=UTF8&tag=28031982-21&camp=1638&creative=6742&linkCode=as2&creativeASIN=0321834577&linkId=eb63c6ebb30257011280bf1eab89f1db)
-
-## Templating
-* [Getting started with php templating](https://www.smashingmagazine.com/2011/10/getting-started-with-php-templating/)
-* [Twig](https://twig.symfony.com/)
-
-## View libraries (frontend)
-* [Mustache.js](https://mustache.github.io/)
-* [Handlebars.js](http://handlebarsjs.com/)
-* [Vue.js](https://vuejs.org/)
-* [React](https://reactjs.org/)
 
 ## Database basics
 * [Database]()
