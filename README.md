@@ -172,10 +172,10 @@ The [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack:
 * [CakePHP](https://cakephp.org/)
 * [Laravel](https://laravel.com/)
 * [Symfony](https://symfony.com/)
-* [Zend](http://framework.zend.com/)
+* [Zend](https://framework.zend.com/)
 
 ## Micro Frameworks
-* [https://www.slimframework.com/]() Slim
+* [https://www.slimframework.com/](Slim Framework) 
 
 ## Libraries
 * [Awesome PHP libraries](https://github.com/ziadoz/awesome-php)
