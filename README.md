@@ -349,17 +349,15 @@ Follow common PHP conventions for object-oriented code, and established industry
 * [Symfony: The Routing Component](https://symfony.com/doc/current/components/routing.html)
 
 ## Text translations
-* [PoEdit](https://poedit.net/)  gettext translations editor
-* [PHP gettext](http://php.net/manual/de/book.gettext.php)
+* [Internationalization and localization](https://en.wikipedia.org/wiki/Internationalization_and_localization) (i18n)
 * [Symfony: The Translation Component](https://symfony.com/doc/current/components/translation.html)
+* [PoEdit](https://poedit.net/) Gettext Translations Editor
 
 ## Dependency injection
 * [What is Dependency Injection?](http://fabien.potencier.org/what-is-dependency-injection.html)
-* [Containers interoperability](https://github.com/container-interop/container-interop)
-* [The Clean Code Talks - Don't Look For Things!](https://www.youtube.com/watch?v=RlfLCWKxHJ0)
-* [Dependency Injection and Dependency Inversion](https://www.youtube.com/watch?v=Ojsn11XY0X8)
-* [PSR-11 Container interface standard](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-11-container.md)
-* [Common Container Interface (PSR-11)](https://packagist.org/packages/psr/container)
+* [The Clean Code Talks - Don't Look For Things!](https://www.youtube.com/watch?v=RlfLCWKxHJ0) (Video)
+* [Dependency Injection and Dependency Inversion](https://www.youtube.com/watch?v=Ojsn11XY0X8) (Video)
+* [PSR-11: Container interface](https://www.php-fig.org/psr/psr-11/)
 
 ## Version control
 * [What is version control](https://www.atlassian.com/git/tutorials/what-is-version-control)
