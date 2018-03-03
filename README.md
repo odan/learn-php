@@ -211,6 +211,11 @@ Most frameworks in PHP follow some sort of MVC structure. The theory is simple:
 * [MVC for advanced PHP developers](https://stackoverflow.com/questions/16356420/mvc-for-advanced-php-developers/16356866#16356866)
 
 ## Object-oriented programming
+
+> "Write shy code - <br>
+> modules that don't reveal anything unnecessary to other <br>
+> modules and that don't rely on other modules' implementations."
+
 * [Classes and Objects](https://secure.php.net/manual/en/language.oop5.php)
 * [Mastering Object Oriented PHP](http://www.masteringobjectorientedphp.com/) (ebook) 
 * [Objektorientierte Programmierung](https://www.php-einfach.de/experte/objektorientierte-programmierung-oop/) (german)
@@ -225,6 +230,11 @@ Most frameworks in PHP follow some sort of MVC structure. The theory is simple:
 * [Videos](https://www.youtube.com/playlist?list=PLplJltxWVIbLVL3ZX3I6b_uvBsnYVaRJn)
 
 ## Best Practices
+
+> "DRY ‐ Don't Repeat Yourself<br>
+> Every piece of knowledge must have a single, <br>
+> unambiguous, athoritative representation within a system."
+
 * [KISS - Keep it simple, stupid](https://en.wikipedia.org/wiki/KISS_principle)
 * [KISS principle](https://people.apache.org/~fhanik/kiss.html)
 * [YAGNI](http://deviq.com/yagni/)
