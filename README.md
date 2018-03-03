@@ -284,6 +284,9 @@ Most frameworks in PHP follow some sort of MVC structure. The theory is simple:
 * [High Performance MySQL: Optimization, Backups, and Replication](https://www.amazon.com/High-Performance-MySQL-Optimization-Replication/dp/1449314287/?tag=28031982-21)
 
 ## Database normalization
+
+> Bad programmers worry about the code. Good programmers worry about data structures and their relationships.
+
 * [Database normalization](https://en.wikipedia.org/wiki/Database_normalization)
 * [Der Königsweg: Normalisierung](https://www.hdm-stuttgart.de/~riekert/lehre/db-kelz/chap4.htm) (german)
 * [Normalisierung](http://www.datenbanken-verstehen.de/datenbanken/datenmodellierung/normalisierung/) (german)
@@ -343,6 +346,15 @@ Follow common PHP conventions for object-oriented code, and established industry
 * [100% Code Coverage via automated tests in Symfony applications](https://speakerdeck.com/mensemedia/100-percent-code-coverage-via-automated-tests-in-symfony-applications) 
 
 ## Documentation
+
+> Code never lies, comments sometimes do.
+
+> When you feel the need to write a comment, first try to refactor the code so that any comment becomes superflous.
+
+> Good code is its own best documentation. As you're about to add a comment, ask yourself, "How can I improve the code so that this comment isn't needed?"
+
+> Don't comment bad code ‐ rewrite it.
+
 * [Introduction to PhpDoc](https://www.sitepoint.com/introduction-to-phpdoc/)
 * [The PHPDoc standard (PSR-5) for comments](https://github.com/phpDocumentor/fig-standards/blob/master/proposed/phpdoc.md)
 * [PHPDoc wiki](https://en.wikipedia.org/wiki/PHPDoc)
