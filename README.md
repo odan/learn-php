@@ -159,11 +159,11 @@ The [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack:
 * [IrfanView](http://www.irfanview.com/)
 
 ## Frontend
-* [jQuery](https://jquery.com/)
+* [jQuery](https://jquery.com/) (The most widely deployed JavaScript library, DOM manipulation, Ajax)
 * [HTML5]( https://www.w3schools.com/html/html5_intro.asp)
 * [CSS](https://www.w3schools.com/css/default.asp)
-* [Bootstrap - HTML, CSS, and JS framework](https://getbootstrap.com/)
-* [Font Awesome](https://fontawesome.com/)
+* [Bootstrap](https://getbootstrap.com/) (The most popular HTML, CSS, and JS framework in the world)
+* [Font Awesome](https://fontawesome.com/) (The web’s most popular icon set)
 
 ## Webdesign
 * [Anatomy of a Modern Website](http://www.touchstonesoftworks.com/blog/8_pillars_modern_web_development)
