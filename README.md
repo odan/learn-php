@@ -193,9 +193,9 @@ The [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack:
 
 ## Model-View-Controller
 
-Most frameworks in PHP follow some sort of MVC structure. 
+Most frameworks in PHP follow some sort of MVC structure. The theory is simple: 
 
-> The theory is simple: the user interfaces with the view, 
+> The user interfaces with the view, 
 > which passes information to a controller. 
 > The controller then passes that information to a model (layer), 
 > and the model passes information back to the controller. 
