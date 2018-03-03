@@ -225,21 +225,23 @@ Most frameworks in PHP follow some sort of MVC structure. The theory is simple:
 * [Videos](https://www.youtube.com/playlist?list=PLplJltxWVIbLVL3ZX3I6b_uvBsnYVaRJn)
 
 ## Best Practices
-* [KISS](https://en.wikipedia.org/wiki/KISS_principle) | [KISS](https://people.apache.org/~fhanik/kiss.html)
+* [KISS - Keep it simple, stupid](https://en.wikipedia.org/wiki/KISS_principle)
+* [KISS principle](https://people.apache.org/~fhanik/kiss.html)
+* [YAGNI](http://deviq.com/yagni/)
+* [You Arent Gonna Need It](http://c2.com/xp/YouArentGonnaNeedIt.html)
+* [KISS and YAGNI](https://blog.codinghorror.com/kiss-and-yagni/)
+* [YAGNI, Cargo Cult and Overengineering](https://codeahoy.com/2017/08/19/yagni-cargo-cult-and-overengineering-the-planes-wont-land-just-because-you-built-a-runway-in-your-backyard/)
 * [Don’t repeat yourself (DRY)](https://en.wikipedia.org/wiki/Don't_repeat_yourself)
-* [Return early, return often](http://blog.humphd.org/vocamus-1421/)
+* [Return early, return often](https://softwareengineering.stackexchange.com/q/18454)
 * [Global Variables Are Bad](http://stackoverflow.com/a/10525602)
-* [thin controllers and fat models](http://symfony.com/doc/current/best_practices/controllers.html)
+* [Thin controllers and fat models](http://symfony.com/doc/current/best_practices/controllers.html)
 * [SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
 * [The First 5 Principles of Object Oriented Design](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design) 
 * [How to write SOLID code that doesn’t suck](https://medium.com/web-engineering-vox/how-to-write-solid-code-that-doesnt-suck-2a3416623d48#.61pr1ym4b)
-* [YAGNI](http://deviq.com/yagni/) | [YAGNI](https://blog.codinghorror.com/kiss-and-yagni/)
-* [You Arent Gonna Need It](http://c2.com/xp/YouArentGonnaNeedIt.html)
-* [YAGNI, Cargo Cult and Overengineering](https://codeahoy.com/2017/08/19/yagni-cargo-cult-and-overengineering-the-planes-wont-land-just-because-you-built-a-runway-in-your-backyard/)
 * [PHP Dos and Don’ts aka Programmers I Don’t Like](https://blog.radwell.codes/2016/11/php-dos-donts-aka-programmers-dont-like/)
-* [Object Calisthenics](https://medium.com/web-engineering-vox/improving-code-quality-with-object-calisthenics-aa4ad67a61f1#.ggel1wt46)
 * [Composition over inheritance](https://www.thoughtworks.com/pt/insights/blog/composition-vs-inheritance-how-choose)
 * [Clean Code PHP](https://github.com/jupeter/clean-code-php)
+* [Object Calisthenics](https://medium.com/web-engineering-vox/improving-code-quality-with-object-calisthenics-aa4ad67a61f1#.ggel1wt46)
 
 ## Architecture
 
