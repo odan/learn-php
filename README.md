@@ -332,6 +332,9 @@ Follow common PHP conventions for object-oriented code, and established industry
 * [Errors and error handling](http://php.net/manual/en/pdo.error-handling.php)
 
 ## Unit testing
+
+> “Software testers do not make software; they only make them better.” – Anonymous
+
 * [PHPUnit - testing framework](https://phpunit.de/)
 * [PHPUnit Explained](https://phpunitexplained.com/) (ebook)
 * [Database Testing](https://phpunit.de/manual/current/en/database.html)
@@ -348,12 +351,6 @@ Follow common PHP conventions for object-oriented code, and established industry
 ## Documentation
 
 > Code never lies, comments sometimes do.
-
-> When you feel the need to write a comment, first try to refactor the code so that any comment becomes superflous.
-
-> Good code is its own best documentation. As you're about to add a comment, ask yourself, "How can I improve the code so that this comment isn't needed?"
-
-> Don't comment bad code ‐ rewrite it.
 
 * [Introduction to PhpDoc](https://www.sitepoint.com/introduction-to-phpdoc/)
 * [The PHPDoc standard (PSR-5) for comments](https://github.com/phpDocumentor/fig-standards/blob/master/proposed/phpdoc.md)
