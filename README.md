@@ -180,10 +180,10 @@ The [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack:
 * [Twig](https://twig.symfony.com/)
 
 ## Frameworks
-* [CakePHP](https://cakephp.org/)
-* [Laravel](https://laravel.com/)
-* [Symfony](https://symfony.com/)
-* [Zend](https://framework.zend.com/)
+* [CakePHP](https://cakephp.org/) (A MVC, CRUD, Scaffolding framework, inpired by Ruby on Rails)
+* [Laravel](https://laravel.com/) (A very popular framework)
+* [Symfony](https://symfony.com/) (A modular enterprise framework)
+* [Zend](https://framework.zend.com/) (A modular enterprise fraemwork)
 
 ## Micro Frameworks
 * [Slim Framework](https://www.slimframework.com/) 
