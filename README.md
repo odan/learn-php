@@ -27,8 +27,6 @@
 * [Object-oriented programming](#object-oriented-programming)
 * [Design patterns](#design-patterns)
 * [Best Practices](#best-practices)
-* [Architecture](#architecture)
-* [Domain Driven Design (DDD)](#domain-driven-design-ddd)
 * [Templating](#templating)
 * [View libraries (frontend)](#view-libraries-frontend)
 * [Database basics](#database-basics)
@@ -42,6 +40,7 @@
 * [Database tools](#database-tools)
 * [Standards](#standards)
 * [Errors and exception handling](#errors-and-exception-handling)
+* [Debugging](#debugging)
 * [Unit testing](#unit-testing)
 * [Documentation](#documentation)
 * [PHP Sessions](#php-sessions)
@@ -50,6 +49,8 @@
 * [Dependency injection](#dependency-injection)
 * [Version control](#version-control)
 * [Security](#security)
+* [Architecture](#architecture)
+* [Domain Driven Design (DDD)](#domain-driven-design-ddd)
 * [Continuous integration and Continuous Delivery](#continuous-integration-ci-and-continuous-delivery-cd)
 * [Community and News](#community--news)
 
@@ -139,7 +140,6 @@ The [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack:
 ## Tools
 * [XAMPP](https://www.apachefriends.org/index.html) (Apache, MariaDB, PHP)
 * [Composer](https://getcomposer.org/) (dependency management)
-* [Xdebug](https://xdebug.org/) (Debugger) | [Xdebug Setup](https://gist.github.com/odan/1abe76d373a9cbb15bed)
 * [WinSCP](https://winscp.net) (Free SFTP, SCP and FTP client)
 * [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) (A free SSH and telnet client)
 * [PoEdit](https://poedit.net/) (gettext translations editor)
@@ -231,39 +231,47 @@ Most frameworks in PHP follow some sort of MVC structure. The theory is simple:
 
 ## Best Practices
 
-> "DRY ‐ Don't Repeat Yourself<br>
-> Every piece of knowledge must have a single, <br>
-> unambiguous, athoritative representation within a system."
+### KISS
+
+> Simplicity is prerequisite for reliability.<br>
+> — Edsger W. Dijkstra
 
 * [KISS - Keep it simple, stupid](https://en.wikipedia.org/wiki/KISS_principle)
 * [KISS principle](https://people.apache.org/~fhanik/kiss.html)
+
+### YAGNI 
+
 * [YAGNI](http://deviq.com/yagni/)
 * [You Arent Gonna Need It](http://c2.com/xp/YouArentGonnaNeedIt.html)
 * [KISS and YAGNI](https://blog.codinghorror.com/kiss-and-yagni/)
 * [YAGNI, Cargo Cult and Overengineering](https://codeahoy.com/2017/08/19/yagni-cargo-cult-and-overengineering-the-planes-wont-land-just-because-you-built-a-runway-in-your-backyard/)
+
+### DRY
+
+> "DRY ‐ Don't Repeat Yourself<br>
+> Every piece of knowledge must have a single, <br>
+> unambiguous, athoritative representation within a system."
+
 * [Don’t repeat yourself (DRY)](https://en.wikipedia.org/wiki/Don't_repeat_yourself)
-* [Return early, return often](https://softwareengineering.stackexchange.com/q/18454)
-* [Global Variables Are Bad](http://stackoverflow.com/a/10525602)
-* [Thin controllers and fat models](http://symfony.com/doc/current/best_practices/controllers.html)
+
+### SOLID
+
 * [SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
 * [The First 5 Principles of Object Oriented Design](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design) 
 * [How to write SOLID code that doesn’t suck](https://medium.com/web-engineering-vox/how-to-write-solid-code-that-doesnt-suck-2a3416623d48#.61pr1ym4b)
+
+### Other
+
+* [Return early, return often](https://softwareengineering.stackexchange.com/q/18454)
+* [Global Variables Are Bad](http://stackoverflow.com/a/10525602)
+* [Thin controllers and fat models](http://symfony.com/doc/current/best_practices/controllers.html)
 * [PHP Dos and Don’ts aka Programmers I Don’t Like](https://blog.radwell.codes/2016/11/php-dos-donts-aka-programmers-dont-like/)
 * [Composition over inheritance](https://www.thoughtworks.com/pt/insights/blog/composition-vs-inheritance-how-choose)
 * [Clean Code PHP](https://github.com/jupeter/clean-code-php)
 * [Object Calisthenics](https://medium.com/web-engineering-vox/improving-code-quality-with-object-calisthenics-aa4ad67a61f1#.ggel1wt46)
 
-## Architecture
-
-* [The Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
-* [Creating services you won’t hate](https://www.brandonsavage.net/creating-services-you-wont-hate/)
-
-## Domain Driven Design (DDD)
-
-* [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.de/gp/product/0321125215/ref=as_li_tl?ie=UTF8&tag=28031982-21&camp=1638&creative=6742&linkCode=as2&creativeASIN=0321125215&linkId=16ec2c3b5f11f8f3b4e152c4a25b22c3)
-* [Implementing Domain-Driven Design](https://www.amazon.de/gp/product/0321834577/ref=as_li_tl?ie=UTF8&tag=28031982-21&camp=1638&creative=6742&linkCode=as2&creativeASIN=0321834577&linkId=eb63c6ebb30257011280bf1eab89f1db)
-
 ## Database basics
+
 * [Database](https://en.wikipedia.org/wiki/Database)
 * [Database model](https://en.wikipedia.org/wiki/Database_model)
 * **[The only proper PDO tutorial](https://phpdelusions.net/pdo)**
@@ -274,6 +282,7 @@ Most frameworks in PHP follow some sort of MVC structure. The theory is simple:
 * [Datenbank-Grundlagen Tutorial: Primärschlüssel](https://www.youtube.com/watch?v=Mpkg0RnkMkw) (german)
 
 ## Relational database management system (RDBMS)
+
 * [MySQL](https://en.wikipedia.org/wiki/MySQL) | [MySQL website](http://dev.mysql.com/downloads/mysql/)
 * [MariaDB](https://en.wikipedia.org/wiki/MariaDB) | [MariaDB website](https://mariadb.org/)
 * [Microsoft SQL Server](https://en.wikipedia.org/wiki/Microsoft_SQL_Server)
@@ -281,6 +290,7 @@ Most frameworks in PHP follow some sort of MVC structure. The theory is simple:
 * [SQLite](https://en.wikipedia.org/wiki/SQLite)
 
 ## Database books
+
 * [High Performance MySQL: Optimization, Backups, and Replication](https://www.amazon.com/High-Performance-MySQL-Optimization-Replication/dp/1449314287/?tag=28031982-21)
 
 ## Database normalization
@@ -293,18 +303,24 @@ Most frameworks in PHP follow some sort of MVC structure. The theory is simple:
 * [MySQL - Normalisierung](http://www.peterkropff.de/site/mysql/normalisierung.htm) (german)
  
 ## Prepared Statements
+
 * [Prepared statement](https://en.wikipedia.org/wiki/Prepared_statement)
 * [Prepared statements - Protection from SQL injections](https://phpdelusions.net/pdo#prepared)
 * [PHP Prepared Statements](http://www.w3schools.com/php/php_mysql_prepared_statements.asp)
  
 ## NoSQL
+
 * [NoSQL](https://en.wikipedia.org/wiki/NoSQL)
+* [Redis](https://redis.io/) (In-memory data structure store, used as a database, cache and message broker)
+* [MongoDB](https://en.wikipedia.org/wiki/MongoDB) (Document-oriented database)
 
 ## Database libraries
+
 * [Phinx - database migrations](https://phinx.org/)
 * [Illuminate (Laravel) Query Builder](https://github.com/illuminate/database)
 
 ## Database tools
+
 * [SQLyog](https://github.com/webyog/sqlyog-community/wiki/Downloads)
 * [PHPMyAdmin MySQL Database Web Interface](https://www.phpmyadmin.net/)
 * [MySQL Workbench](http://www.mysql.com/products/workbench/)
@@ -324,12 +340,18 @@ Follow common PHP conventions for object-oriented code, and established industry
 * [Semantic Versioning 2.0.0](https://semver.org/)
 
 ## Errors and exception handling
+
 * [Errors and Exceptions](https://www.phptherightway.com/#errors_and_exceptions)
 * [Error Handling PHP Best Practices](http://bestpractices.thecodingmachine.com/php/error_handling.html)
 * [Exceptions](http://php.net/manual/en/language.exceptions.php) 
 * [Predefined Exceptions](http://php.net/manual/en/reserved.exceptions.php)
 * [SPL Exceptions](http://php.net/manual/en/spl.exceptions.php)
 * [Errors and error handling](http://php.net/manual/en/pdo.error-handling.php)
+
+## Debugging
+
+* [Xdebug](https://xdebug.org/) (Debugger)
+* [Installing Xdebug for XAMPP](https://gist.github.com/odan/1abe76d373a9cbb15bed)
 
 ## Unit testing
 
@@ -360,25 +382,41 @@ Follow common PHP conventions for object-oriented code, and established industry
 * [Your First Set of Documentation](https://phpdoc.org/docs/latest/getting-started/your-first-set-of-documentation.html)
 
 ## PHP Sessions
+
 * [PHP Sessions](http://www.w3schools.com/php/php_sessions.asp)
 * [Session Handling](https://secure.php.net/manual/en/book.session.php)
 * [Cookie](https://en.wikipedia.org/wiki/HTTP_cookie)
 * [Session Management](https://symfony.com/doc/current/components/http_foundation/sessions.html)
 
 ## Router and Dispatcher
+
 * [FastRoute](https://github.com/nikic/FastRoute)
 * [Symfony: The Routing Component](https://symfony.com/doc/current/components/routing.html)
 
 ## Text translations
+
 * [Internationalization and localization](https://en.wikipedia.org/wiki/Internationalization_and_localization) (i18n)
 * [Symfony: The Translation Component](https://symfony.com/doc/current/components/translation.html)
 * [PoEdit](https://poedit.net/) Gettext Translations Editor
 
 ## Dependency injection
+
 * [What is Dependency Injection?](http://fabien.potencier.org/what-is-dependency-injection.html)
 * [The Clean Code Talks - Don't Look For Things!](https://www.youtube.com/watch?v=RlfLCWKxHJ0) (Video)
 * [Dependency Injection and Dependency Inversion](https://www.youtube.com/watch?v=Ojsn11XY0X8) (Video)
 * [PSR-11: Container interface](https://www.php-fig.org/psr/psr-11/)
+
+## Regular Expresions
+
+* todo
+
+## RESTful API
+
+* todo
+
+## SOAP API
+
+* todo
 
 ## Version control
 * [What is version control](https://www.atlassian.com/git/tutorials/what-is-version-control)
@@ -389,6 +427,9 @@ Follow common PHP conventions for object-oriented code, and established industry
 * [How to contribute to an open source project on GitHub](http://blog.davidecoppola.com/2016/11/howto-contribute-to-open-source-project-on-github/)
 
 ## Security
+
+> A good programmer looks both ways before crossing a one-way street.
+
 * [Web security essentials](http://www.sohamkamani.com/blog/2017/01/16/web-security-essentials/)
 * [PHP Security Cheat Sheet](https://www.owasp.org/index.php/PHP_Security_Cheat_Sheet)
 * [PHP The Right Way - Security](http://www.phptherightway.com/#security)
@@ -396,6 +437,16 @@ Follow common PHP conventions for object-oriented code, and established industry
 * [HTML encoding](http://php.net/manual/en/function.htmlspecialchars.php)
 * [What ENT_* should I use for htmlspecialchars?](https://3v4l.org/PvRtm) 
 * [The latest information about secure PHP software](https://paragonie.com/blog)
+
+## Architecture
+
+* [The Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
+* [Creating services you won’t hate](https://www.brandonsavage.net/creating-services-you-wont-hate/)
+
+## Domain Driven Design (DDD)
+
+* [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.de/gp/product/0321125215/ref=as_li_tl?ie=UTF8&tag=28031982-21&camp=1638&creative=6742&linkCode=as2&creativeASIN=0321125215&linkId=16ec2c3b5f11f8f3b4e152c4a25b22c3)
+* [Implementing Domain-Driven Design](https://www.amazon.de/gp/product/0321834577/ref=as_li_tl?ie=UTF8&tag=28031982-21&camp=1638&creative=6742&linkCode=as2&creativeASIN=0321834577&linkId=eb63c6ebb30257011280bf1eab89f1db)
 
 ## Continuous integration (CI) and Continuous Delivery (CD)
 * [Continuous Delivery](https://www.amazon.de/gp/product/B003YMNVC0/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B003YMNVC0&linkCode=as2&tag=28031982-21)
