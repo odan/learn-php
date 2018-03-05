@@ -358,16 +358,15 @@ Follow common PHP conventions for object-oriented code, and established industry
 > “Software testers do not make software; they only make them better.” – Anonymous
 
 * [PHPUnit - testing framework](https://phpunit.de/)
-* [PHPUnit Explained](https://phpunitexplained.com/) (ebook)
+* [Unit test, Integration Test, Smoke test, Regression Test](http://stackoverflow.com/a/520116)
+* [Unit Testing, Integration Testing and Functional Testing](https://codeutopia.net/blog/2015/04/11/what-are-unit-testing-integration-testing-and-functional-testing/)
+* [The Test Pyramid](https://martinfowler.com/bliki/TestPyramid.html)
+* [The Way of Testivus](http://www.agitar.com/downloads/TheWayOfTestivus.pdf) (pdf)
 * [Database Testing](https://phpunit.de/manual/current/en/database.html)
 * [Best practices for database testing with PHPUnit](http://stackoverflow.com/a/3817970)
 * [Database Tests With PHPUnit](https://qafoo.com/blog/090_database_tests_with_phpunit.html)
 * [Database Fixture Setup in PHPUnit](https://qafoo.com/blog/091_database_fixture_setup_in_phpunit.html)
-* [Unit test, Integration Test, Smoke test, Regression Test](http://stackoverflow.com/a/520116)
-* [Unit Testing, Integration Testing and Functional Testing](https://codeutopia.net/blog/2015/04/11/what-are-unit-testing-integration-testing-and-functional-testing/)
 * [The correct way to use integration tests](https://zeroturnaround.com/rebellabs/the-correct-way-to-use-integration-tests-in-your-build-process/)
-* [The Test Pyramid](https://martinfowler.com/bliki/TestPyramid.html)
-* [The Way of Testivus](http://www.agitar.com/downloads/TheWayOfTestivus.pdf) (pdf)
 * [100% Code Coverage via automated tests in Symfony applications](https://speakerdeck.com/mensemedia/100-percent-code-coverage-via-automated-tests-in-symfony-applications) 
 
 ## Documentation
@@ -451,7 +450,6 @@ Follow common PHP conventions for object-oriented code, and established industry
 ## Continuous integration (CI) and Continuous Delivery (CD)
 * [Continuous Delivery](https://www.amazon.de/gp/product/B003YMNVC0/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B003YMNVC0&linkCode=as2&tag=28031982-21)
 * [Continuously delivering PHP projects](https://www.youtube.com/watch?v=HOwPJg-F4h0)
-* [PHP Deployment Explained](https://phpdeploymentexplained.com/) ebook
 * [Continuous Integration vs. Continuous Delivery vs. Continuous Deployment](https://stackoverflow.com/a/28628086/1461181) 
 * [What’s Continuous Deployment?](https://www.sitepoint.com/whats-continuous-deployment/)
 * [PHP and Continuous Integration with Travis CI](https://www.sitepoint.com/php-continuous-integration-travis-ci/)
