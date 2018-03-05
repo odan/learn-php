@@ -262,6 +262,7 @@ Most frameworks in PHP follow some sort of MVC structure. The theory is simple:
 
 ### Other
 
+* [TheCodingMachine Best Practices](http://bestpractices.thecodingmachine.com/)
 * [Return early, return often](https://softwareengineering.stackexchange.com/q/18454)
 * [Global Variables Are Bad](http://stackoverflow.com/a/10525602)
 * [Thin controllers and fat models](http://symfony.com/doc/current/best_practices/controllers.html)
