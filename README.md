@@ -335,7 +335,6 @@ Follow common PHP conventions for object-oriented code, and established industry
 * [PSR-2 Coding Style Guide](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md)
 * [PSR-3 Logger Interface](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-3-logger-interface.md)
 * [PSR-4 Autoloader](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-4-autoloader.md)
-* [PSR-5 PHPDoc](https://github.com/phpDocumentor/fig-standards/blob/master/proposed/phpdoc.md)
 * [Standard PHP package skeleton](https://github.com/php-pds/skeleton)
 * [A skeleton repository for League Packages](https://github.com/thephpleague/skeleton)
 * [Semantic Versioning 2.0.0](https://semver.org/)
