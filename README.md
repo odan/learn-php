@@ -405,17 +405,31 @@ Follow common PHP conventions for object-oriented code, and established industry
 * [Dependency Injection and Dependency Inversion](https://www.youtube.com/watch?v=Ojsn11XY0X8) (Video)
 * [PSR-11: Container interface](https://www.php-fig.org/psr/psr-11/)
 
-## Regular Expresions
+## Regular Expressions
 
-* todo
+* [Regular expression](https://en.wikipedia.org/wiki/Regular_expression)
+* [PCRE Functions](http://php.net/manual/en/ref.pcre.php)
+* [PHP Live Regex](http://www.phpliveregex.com/) (A Live Regular Expression Tester for PHP)
+
+## XML
+
+* [XML](https://en.wikipedia.org/wiki/XML) (Extensible Markup Language )
+* [XSD](https://en.wikipedia.org/wiki/XML_Schema_(W3C)) (XML Schema Definition)
 
 ## RESTful API
 
-* todo
+* [REST, RESTful, REST-like API Resources](https://gist.github.com/odan/de7f5452fb165c2d27f20d1d16bfe54d)
+* [REST, RESTful API Quick Reference](https://gist.github.com/odan/1d2ef018adb3ea5a0d3abb35406d2c65)
+* [API Guidelines](http://zalando.github.io/restful-api-guidelines/index.html#api-naming)
+* [7 Rules for REST API URI Design](http://blog.restcase.com/7-rules-for-rest-api-uri-design/)
 
 ## SOAP API
 
-* todo
+* [SOAP](https://en.wikipedia.org/wiki/SOAP) (Simple Object Access Protocol)
+* [The SOAP extension](http://php.net/manual/en/book.soap.php) The SOAP extension can be used to write SOAP Servers and Clients.
+* [Web service](https://en.wikipedia.org/wiki/Web_service)
+* [WSDL](https://en.wikipedia.org/wiki/Web_Services_Description_Language) (Web Services Description Language)
+* [Implementing a SOAP API with PHP ](https://gist.github.com/odan/1a736eefabe893fa66e4befeb226dcc8)
 
 ## Version control
 * [What is version control](https://www.atlassian.com/git/tutorials/what-is-version-control)
