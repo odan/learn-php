@@ -416,14 +416,18 @@ Follow common PHP conventions for object-oriented code, and established industry
 * [XML](https://en.wikipedia.org/wiki/XML) (Extensible Markup Language )
 * [XSD](https://en.wikipedia.org/wiki/XML_Schema_(W3C)) (XML Schema Definition)
 
-## RESTful API
+## API
+
+* [REST, SOAP OR GRAPHQL?](https://da-14.com/blog/ultimate-guide-api-architecture-rest-soap-or-graphql)
+
+### RESTful API
 
 * [REST, RESTful, REST-like API Resources](https://gist.github.com/odan/de7f5452fb165c2d27f20d1d16bfe54d)
 * [REST, RESTful API Quick Reference](https://gist.github.com/odan/1d2ef018adb3ea5a0d3abb35406d2c65)
 * [API Guidelines](http://zalando.github.io/restful-api-guidelines/index.html#api-naming)
 * [7 Rules for REST API URI Design](http://blog.restcase.com/7-rules-for-rest-api-uri-design/)
 
-## SOAP API
+### SOAP API
 
 * [SOAP](https://en.wikipedia.org/wiki/SOAP) (Simple Object Access Protocol)
 * [The SOAP extension](http://php.net/manual/en/book.soap.php) The SOAP extension can be used to write SOAP Servers and Clients.
