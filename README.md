@@ -391,6 +391,7 @@ Follow common PHP conventions for object-oriented code, and established industry
 * [Session Handling](https://secure.php.net/manual/en/book.session.php)
 * [Cookie](https://en.wikipedia.org/wiki/HTTP_cookie)
 * [Session Management](https://symfony.com/doc/current/components/http_foundation/sessions.html)
+* [PHP Sessions in Depth](https://www.phparch.com/2018/01/php-sessions-in-depth/)
 
 ## Router and Dispatcher
 
