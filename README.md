@@ -214,6 +214,7 @@ Most frameworks in PHP follow some sort of MVC structure. The theory is simple:
 * [Thin controllers, fat models](https://de.slideshare.net/damiansromek/thin-controllers-fat-models-proper-code-structure-for-mvc)
 * [Best Practices Controllers](https://symfony.com/doc/current/best_practices/controllers.html)
 * [MVC for advanced PHP developers](https://stackoverflow.com/questions/16356420/mvc-for-advanced-php-developers/16356866#16356866)
+* [A Better Understanding Of MVC](https://www.bennadel.com/blog/2379-a-better-understanding-of-mvc-model-view-controller-thanks-to-steven-neiland.htm)
 
 ## Object-oriented programming
 
