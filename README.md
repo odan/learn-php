@@ -464,6 +464,7 @@ Follow common PHP conventions for object-oriented code, and established industry
 
 ## Architecture
 
+* [The Onion Architecture](http://jeffreypalermo.com/blog/the-onion-architecture-part-1/)
 * [The Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
 * [Creating services you won’t hate](https://www.brandonsavage.net/creating-services-you-wont-hate/)
 
