@@ -230,6 +230,8 @@ Most frameworks in PHP follow some sort of MVC structure. The theory is simple:
 * [SOLID Principles in PHP](https://laracasts.com/series/solid-principles-in-php)
 
 ## Design patterns
+
+* [Gang of Four Design Patterns](https://www.amazon.com/gp/product/B000SEIBB8?ie=UTF8&tag=28031982-21&camp=1638&linkCode=xm2&creativeASIN=B000SEIBB8)
 * [Design Patterns for Humans™](https://github.com/kamranahmedse/design-patterns-for-humans)
 * [DesignPatternsPHP](http://designpatternsphp.readthedocs.io/)
 * [Several design patterns in PHP](https://github.com/domnikl/DesignPatternsPHP)
@@ -473,11 +475,11 @@ Follow common PHP conventions for object-oriented code, and established industry
 
 ## Domain Driven Design (DDD)
 
-* [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.de/gp/product/0321125215/ref=as_li_tl?ie=UTF8&tag=28031982-21&camp=1638&creative=6742&linkCode=as2&creativeASIN=0321125215&linkId=16ec2c3b5f11f8f3b4e152c4a25b22c3)
-* [Implementing Domain-Driven Design](https://www.amazon.de/gp/product/0321834577/ref=as_li_tl?ie=UTF8&tag=28031982-21&camp=1638&creative=6742&linkCode=as2&creativeASIN=0321834577&linkId=eb63c6ebb30257011280bf1eab89f1db)
+* [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/gp/product/0321125215/ref=as_li_tl?ie=UTF8&tag=28031982-21&camp=1638&creative=6742&linkCode=as2&creativeASIN=0321125215&linkId=16ec2c3b5f11f8f3b4e152c4a25b22c3)
+* [Implementing Domain-Driven Design](https://www.amazon.com/gp/product/0321834577/ref=as_li_tl?ie=UTF8&tag=28031982-21&camp=1638&creative=6742&linkCode=as2&creativeASIN=0321834577&linkId=eb63c6ebb30257011280bf1eab89f1db)
 
 ## Continuous integration (CI) and Continuous Delivery (CD)
-* [Continuous Delivery](https://www.amazon.de/gp/product/B003YMNVC0/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B003YMNVC0&linkCode=as2&tag=28031982-21)
+* [Continuous Delivery](https://www.amazon.com/gp/product/B003YMNVC0/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B003YMNVC0&linkCode=as2&tag=28031982-21)
 * [Continuously delivering PHP projects](https://www.youtube.com/watch?v=HOwPJg-F4h0)
 * [Continuous Integration vs. Continuous Delivery vs. Continuous Deployment](https://stackoverflow.com/a/28628086/1461181) 
 * [What’s Continuous Deployment?](https://www.sitepoint.com/whats-continuous-deployment/)
