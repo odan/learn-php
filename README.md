@@ -1,6 +1,8 @@
 # Resources for PHP
 
-![elephpant](https://user-images.githubusercontent.com/781074/36850276-9426a118-1d66-11e8-96da-6f3f810dc144.png)
+> A curated list of resources for [PHP](http://www.php.net/)
+
+[<img src="https://user-images.githubusercontent.com/781074/36850276-9426a118-1d66-11e8-96da-6f3f810dc144.png" align="right" width="150">](http://www.php.net/)
 
 ## Table of Contents
 
