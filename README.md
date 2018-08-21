@@ -69,9 +69,7 @@
 ## Tutorials
 * [Laravel PHP Practitioner](https://laracasts.com/skills/php) (Free)
 * [PHP Pandas](https://daylerees.com/php-pandas/)
-* [Hacking with PHP](http://www.hackingwithphp.com/)
 * [PHP Essentials](http://www.techotopia.com/index.php/PHP_Essentials)
-* [PHP 101: PHP For the Absolute Beginner](https://devzone.zend.com/6/php-101-php-for-the-absolute-beginner/)
 * [Make your own blog beginners tutorial](https://ilovephp.jondh.me.uk/en/tutorial/make-your-own-blog)
 * [Codecademy PHP](https://www.codecademy.com/tracks/php)
 * [W3Schools PHP](http://www.w3schools.com/php/)
@@ -87,7 +85,6 @@
 ## Books
 * [Modern PHP: New Features and Good Practices](https://www.amazon.de/gp/product/1491905018/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=1491905018&linkCode=as2&tag=28031982-21)
 * [Learning PHP 7](http://shop.oreilly.com/product/9781785880544.do)
-* [Phparchitect's Zend PHP 5 Certification Study Guide](https://www.amazon.de/gp/product/0973862149/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=0973862149&linkCode=as2&tag=28031982-21)
 * [Free Programming Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#php) 
 
 ## Online schools
@@ -194,6 +191,7 @@ The [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack:
 
 ## Micro Frameworks
 * [Slim Framework](https://www.slimframework.com/) 
+* [Silex Framework (Microframework from Symfony)](https://silex.symfony.com/)
 
 ## Libraries
 * [Awesome PHP libraries](https://github.com/ziadoz/awesome-php)
@@ -227,7 +225,6 @@ Most frameworks in PHP follow some sort of MVC structure. The theory is simple:
 * [Classes and Objects](https://secure.php.net/manual/en/language.oop5.php)
 * [Mastering Object Oriented PHP](http://www.masteringobjectorientedphp.com/) (ebook) 
 * [Objektorientierte Programmierung](https://www.php-einfach.de/experte/objektorientierte-programmierung-oop/) (german)
-* [OOP mit PHP5](http://www.peterkropff.de/site/php/oop.htm) (german)
 * [Object-Oriented Bootcamp](https://laracasts.com/series/object-oriented-bootcamp-in-php)
 * [SOLID Principles in PHP](https://laracasts.com/series/solid-principles-in-php)
 
@@ -333,6 +330,7 @@ Most frameworks in PHP follow some sort of MVC structure. The theory is simple:
 ## Database tools
 
 * [SQLyog](https://github.com/webyog/sqlyog-community/wiki/Downloads)
+* [DBeaver](https://dbeaver.io/)
 * [PHPMyAdmin MySQL Database Web Interface](https://www.phpmyadmin.net/)
 * [MySQL Workbench](http://www.mysql.com/products/workbench/)
 
