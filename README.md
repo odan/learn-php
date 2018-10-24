@@ -153,8 +153,8 @@ The [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack:
 * [7-ZIP](http://www.7-zip.org/) (File archiver)
 
 ## IDEs
-* [Netbeans](https://netbeans.org/features/php/)
 * [PHPStorm](https://www.jetbrains.com/phpstorm/) ($)
+* [Netbeans](https://netbeans.org/features/php/)
 * [Zend Studio](http://www.zend.com/en/products/studio) ($)
 
 ## Graphic tools
@@ -174,14 +174,14 @@ The [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack:
 * [Anatomy of a Modern Website](http://www.touchstonesoftworks.com/blog/8_pillars_modern_web_development)
 
 ## View libraries (frontend)
-* [Mustache.js](https://mustache.github.io/)
-* [Handlebars.js](http://handlebarsjs.com/)
 * [Vue.js](https://vuejs.org/)
 * [React](https://reactjs.org/)
+* [Mustache.js](https://mustache.github.io/)
+* [Handlebars.js](http://handlebarsjs.com/)
 
 ## Templating
-* [Getting started with php templating](https://www.smashingmagazine.com/2011/10/getting-started-with-php-templating/)
 * [Symfony versus Flat PHP](https://symfony.com/doc/current/introduction/from_flat_php_to_symfony2.html)
+* [Twig – the Most Popular Stand-Alone PHP Template Engine](https://www.sitepoint.com/twig-popular-stand-alone-php-template-engine/)
 * [Twig](https://twig.symfony.com/)
 
 ## Frameworks
@@ -191,7 +191,7 @@ The [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack:
 * [Zend](https://framework.zend.com/) (A modular enterprise fraemwork)
 
 ## Micro Frameworks
-* [Slim Framework](https://www.slimframework.com/) 
+* [Slim Framework](https://www.slimframework.com/) (A PHP micro framework that helps you quickly write simple yet powerful web applications and APIs)
 
 ## Libraries
 * [Awesome PHP libraries](https://github.com/ziadoz/awesome-php)
@@ -234,7 +234,7 @@ Most frameworks in PHP follow some sort of MVC structure. The theory is simple:
 * [Design Patterns for Humans™](https://github.com/kamranahmedse/design-patterns-for-humans)
 * [DesignPatternsPHP](http://designpatternsphp.readthedocs.io/)
 * [Several design patterns in PHP](https://github.com/domnikl/DesignPatternsPHP)
-* [Videos](https://www.youtube.com/playlist?list=PLplJltxWVIbLVL3ZX3I6b_uvBsnYVaRJn)
+* [Design Patterns in PHP Course](https://www.youtube.com/playlist?list=PLplJltxWVIbLVL3ZX3I6b_uvBsnYVaRJn)
 
 ## Best Practices
 
@@ -316,16 +316,11 @@ Most frameworks in PHP follow some sort of MVC structure. The theory is simple:
 * [Prepared statements - Protection from SQL injections](https://phpdelusions.net/pdo#prepared)
 * [PHP Prepared Statements](http://www.w3schools.com/php/php_mysql_prepared_statements.asp)
  
-## NoSQL
-
-* [NoSQL](https://en.wikipedia.org/wiki/NoSQL)
-* [Redis](https://redis.io/) (In-memory data structure store, used as a database, cache and message broker)
-* [MongoDB](https://en.wikipedia.org/wiki/MongoDB) (Document-oriented database)
-
 ## Database libraries
 
-* [Phinx - database migrations](https://phinx.org/)
+* [CakePHP QueryBuilder](https://github.com/cakephp/database#query-builder)
 * [Illuminate (Laravel) Query Builder](https://github.com/illuminate/database)
+* [Phinx - database migrations](https://phinx.org/)
 
 ## Database tools
 
@@ -333,6 +328,12 @@ Most frameworks in PHP follow some sort of MVC structure. The theory is simple:
 * [PHPMyAdmin MySQL Database Web Interface](https://www.phpmyadmin.net/)
 * [MySQL Workbench](http://www.mysql.com/products/workbench/)
 * [DBeaver](https://dbeaver.io/)
+
+## NoSQL
+
+* [NoSQL](https://en.wikipedia.org/wiki/NoSQL)
+* [Redis](https://redis.io/) (In-memory data structure store, used as a database, cache and message broker)
+* [MongoDB](https://en.wikipedia.org/wiki/MongoDB) (Document-oriented database)
 
 ## Standards
 
@@ -467,11 +468,10 @@ Follow common PHP conventions for object-oriented code, and established industry
 ## Architecture
 
 * [Unclebob’s “Clean Architecture” book](https://www.amazon.com/gp/product/B075LRM681/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B075LRM681&linkCode=as2&tag=28031982-21&linkId=677aa0dda24a02b6b106a7552cee6669)
-* [Patterns of Enterprise Application Architecture -Martin Fowler](https://www.amazon.com/gp/product/B008OHVDFM?ie=UTF8&tag=28031982-21&camp=1638&linkCode=xm2&creativeASIN=B008OHVDFM)
+* [Patterns of Enterprise Application Architecture - Martin Fowler](https://www.amazon.com/gp/product/B008OHVDFM?ie=UTF8&tag=28031982-21&camp=1638&linkCode=xm2&creativeASIN=B008OHVDFM)
 * [The Onion Architecture](http://jeffreypalermo.com/blog/the-onion-architecture-part-1/)
 * [The Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
 * [Creating services you won’t hate](https://www.brandonsavage.net/creating-services-you-wont-hate/)
-* [Monolith Versus Microservices](https://www.programmableweb.com/news/why-monolith-isnt-dead/analysis/2018/02/21)
 
 ## Domain Driven Design (DDD)
 
