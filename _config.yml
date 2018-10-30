@@ -1,1 +1,10 @@
 theme: jekyll-theme-cayman
+
+# Name of your site (displayed in the header)
+name: Learn modern PHP
+
+# Name of website (site.title)
+title: Learn modern PHP
+
+# Short description of your site
+description: php, resources
