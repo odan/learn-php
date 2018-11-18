@@ -292,8 +292,10 @@ Most frameworks in PHP follow some sort of MVC structure. The theory is simple:
 
 ## Relational database management system (RDBMS)
 
-* [MySQL](https://en.wikipedia.org/wiki/MySQL) | [MySQL website](http://dev.mysql.com/downloads/mysql/)
-* [MariaDB](https://en.wikipedia.org/wiki/MariaDB) | [MariaDB website](https://mariadb.org/)
+* [MySQL](https://en.wikipedia.org/wiki/MySQL)
+* [MySQL website](http://dev.mysql.com/downloads/mysql/)
+* [MariaDB](https://en.wikipedia.org/wiki/MariaDB)
+* [MariaDB website](https://mariadb.org/)
 * [Microsoft SQL Server](https://en.wikipedia.org/wiki/Microsoft_SQL_Server)
 * [Oracle](https://en.wikipedia.org/wiki/Oracle_Database)
 * [SQLite](https://en.wikipedia.org/wiki/SQLite)
