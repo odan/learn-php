@@ -481,7 +481,7 @@ Follow common PHP conventions for object-oriented code, and established industry
 * [PHP The Right Way - Security](https://phptherightway.com/#security)
 * [XSS](https://www.sitepoint.com/php-security-cross-site-scripting-attacks-xss/)
 * [HTML encoding](https://secure.php.net/manual/en/function.htmlspecialchars.php)
-* [What ENT_* should I use for htmlspecialchars?](https://3v4l.org/PvRtm) 
+* [How to use htmlspecialchars() in PHP](https://odan.github.io/2017/01/02/how-to-use-htmlspecialchars-in-php.html) 
 * [The latest information about secure PHP software](https://paragonie.com/blog)
 * [Security Tips for a PHP Application](https://dev.to/restoreddev/security-tips-for-a-php-application-4e9a)
 
