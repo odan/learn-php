@@ -227,6 +227,7 @@ Most frameworks in PHP follow some sort of MVC structure. The theory is simple:
 * [Objektorientierte Programmierung](https://www.php-einfach.de/experte/objektorientierte-programmierung-oop/) (german)
 * [Object-Oriented Bootcamp](https://laracasts.com/series/object-oriented-bootcamp-in-php)
 * [SOLID Principles in PHP](https://laracasts.com/series/solid-principles-in-php)
+* [Learning OOP in PHP](https://github.com/marcelgsantos/learning-oop-in-php)
 
 ## Design patterns
 
@@ -464,6 +465,7 @@ Follow common PHP conventions for object-oriented code, and established industry
 * [HTML encoding](http://php.net/manual/en/function.htmlspecialchars.php)
 * [What ENT_* should I use for htmlspecialchars?](https://3v4l.org/PvRtm) 
 * [The latest information about secure PHP software](https://paragonie.com/blog)
+* [Security Tips for a PHP Application](https://dev.to/restoreddev/security-tips-for-a-php-application-4e9a)
 
 ## Architecture
 
