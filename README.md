@@ -2,7 +2,7 @@
 
 > A curated list of resources for [PHP](https://php.net/)
 
-[<img src="images/php-logo.svg" align="right" width="250">](https://php.net/)
+[<img src="assets/images/php-logo.svg" align="right" width="250">](https://php.net/)
 
 ## Table of Contents
 
