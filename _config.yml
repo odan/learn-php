@@ -8,3 +8,8 @@ title: Learn modern PHP
 
 # Short description of your site
 description: PHP is cool
+
+# url is the full website URL
+# baseurl is the website's URL without the hostname
+url: https://odan.github.io
+baseurl: "/learn-php"
