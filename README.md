@@ -46,7 +46,6 @@
 * [Unit testing](#unit-testing)
 * [Documentation](#documentation)
 * [PHP Sessions](#php-sessions)
-* [Router and Dispatcher](#router-and-dispatcher)
 * [Text translations](#text-translations)
 * [Dependency injection](#dependency-injection)
 * [Regular Expressions](#regular-expressions)
@@ -415,11 +414,6 @@ Follow common PHP conventions for object-oriented code, and established industry
 * [Cookie](https://en.wikipedia.org/wiki/HTTP_cookie)
 * [Session Management](https://symfony.com/doc/current/components/http_foundation/sessions.html)
 * [PHP Sessions in Depth](https://www.phparch.com/2018/01/php-sessions-in-depth/)
-
-## Router and Dispatcher
-
-* [FastRoute](https://github.com/nikic/FastRoute)
-* [Symfony: The Routing Component](https://symfony.com/doc/current/components/routing.html)
 
 ## Text translations
 
