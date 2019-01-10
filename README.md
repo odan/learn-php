@@ -222,7 +222,8 @@ Most frameworks in PHP follow some sort of MVC structure. The theory is simple:
 > The controller effectively stands between the view and the model.
 > *(Brandon James Savage)*
 
-* [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+* [MVC Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+* [MVC in simpler terms or the structure of a modern web-application](https://phpdelusions.net/articles/mvc)
 * [MVC overview](https://www.reddit.com/r/PHP/comments/5w3k8h/getting_started_with_symfony/de72hg6/)
 * [MVC for Noobs](https://code.tutsplus.com/tutorials/mvc-for-noobs--net-10488)
 * [A Better Understanding Of MVC](https://www.bennadel.com/blog/2379-a-better-understanding-of-mvc-model-view-controller-thanks-to-steven-neiland.htm)
