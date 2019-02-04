@@ -74,6 +74,7 @@
 * [Tutorialspoint PHP](https://www.tutorialspoint.com/php/)
 * [Devzone PHP](https://devzone.zend.com/welcome-to-php/)
 * [Learn PHP in Y minutes](https://learnxinyminutes.com/docs/php/)
+* [PHP Apprentice](https://phpapprentice.com/) An online book for learning PHP
 
 ## Videos
 
@@ -187,8 +188,6 @@ The [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack:
 
 * [Vue.js](https://vuejs.org/)
 * [React](https://reactjs.org/)
-* [Mustache.js](https://mustache.github.io/)
-* [Handlebars.js](http://handlebarsjs.com/)
 
 ## Templating
 
