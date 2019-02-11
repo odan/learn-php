@@ -342,8 +342,8 @@ Most frameworks in PHP follow some sort of MVC structure. The theory is simple:
 
 ## Database tools
 
-* [SQLyog](https://github.com/webyog/sqlyog-community/wiki/Downloads)
-* [PHPMyAdmin MySQL Database Web Interface](https://www.phpmyadmin.net/)
+* [SQLyog Community Edition](https://github.com/webyog/sqlyog-community/wiki/Downloads)
+* [SQLyog](https://www.webyog.com/product/sqlyog) - The most complete and easy to use MySQL GUI
 * [MySQL Workbench](https://www.mysql.com/products/workbench/)
 * [DBeaver](https://dbeaver.io/)
 
