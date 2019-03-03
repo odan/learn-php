@@ -163,15 +163,17 @@ The [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack:
 
 ## IDEs
 
-* [PHPStorm](https://www.jetbrains.com/phpstorm/) ($)
+* [PHPStorm](https://www.jetbrains.com/phpstorm/) :star: ($)
 * [Netbeans](https://netbeans.org/features/php/)
 * [Zend Studio](https://www.zend.com/en/products/studio) ($)
 
 ## Graphic tools
 * [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) ($)
 * [Adobe Fireworks](https://www.adobe.com/products/fireworks.html) ($)
+* [Sketch](https://www.sketchapp.com/)
 * [Gimp](https://www.gimp.org/)
 * [IrfanView](http://www.irfanview.com/)
+* [Paint.NET](https://www.getpaint.net/)
 
 ## Frontend
 * [jQuery](https://jquery.com/) (The most widely deployed JavaScript library, DOM manipulation, Ajax)
