@@ -1,4 +1,4 @@
-# Learn PHP
+# Learn
 
 [<img src="assets/images/php-logo.svg" width="250">](https://php.net/)
 
