@@ -1,8 +1,8 @@
 # Learn PHP
 
-> A curated list of resources for [PHP](https://php.net/)
-
 [<img src="assets/images/php-logo.svg" width="250">](https://php.net/)
+
+A curated list of resources for [PHP](https://php.net/)
 
 ## Table of Contents
 
