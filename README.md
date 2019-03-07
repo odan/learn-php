@@ -300,6 +300,7 @@ Most frameworks in PHP follow some sort of MVC structure. The theory is simple:
 
 * [Database](https://en.wikipedia.org/wiki/Database)
 * [Database model](https://en.wikipedia.org/wiki/Database_model)
+* [Codd's 12 rules](https://en.wikipedia.org/wiki/Codd%27s_12_rules) [*](https://computing.derby.ac.uk/c/codds-twelve-rules/)
 * **[The only proper PDO tutorial](https://phpdelusions.net/pdo)**
 * [SQL Tutorial](https://www.w3schools.com/sql/default.asp)
 * [Datenbank Grundlagen](https://www.datenbank-grundlagen.de/) (german)
