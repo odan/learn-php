@@ -13,3 +13,5 @@ description: PHP is cool
 # baseurl is the website's URL without the hostname
 url: https://odan.github.io
 baseurl: "/learn-php"
+
+google_analytics: UA-135908404-1
