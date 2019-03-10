@@ -494,6 +494,7 @@ Follow common PHP conventions for object-oriented code, and established industry
 * [The Onion Architecture Part 1](https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/)
 * [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 * [Creating services you won’t hate](https://www.brandonsavage.net/creating-services-you-wont-hate/)
+* [A Journey Toward Clean Code and Enjoyment](https://youtu.be/wInd6_aMqvg) - Agility, TDD, OOP Patterns, MVC, Framework De-Coupling 
 
 ## Domain Driven Design (DDD)
 
