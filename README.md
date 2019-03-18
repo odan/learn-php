@@ -402,6 +402,7 @@ Follow common PHP conventions for object-oriented code, and established industry
 * [Database Fixture Setup in PHPUnit](https://qafoo.com/blog/091_database_fixture_setup_in_phpunit.html)
 * [The correct way to use integration tests](https://zeroturnaround.com/rebellabs/the-correct-way-to-use-integration-tests-in-your-build-process/)
 * [100% Code Coverage via automated tests in Symfony applications](https://speakerdeck.com/mensemedia/100-percent-code-coverage-via-automated-tests-in-symfony-applications) 
+* [Building Test-Driven Developers](https://leanpub.com/test-driven) eBook
 
 ## Documentation
 
@@ -507,6 +508,7 @@ Follow common PHP conventions for object-oriented code, and established industry
 * [Continuous Integration vs. Continuous Delivery vs. Continuous Deployment](https://stackoverflow.com/a/28628086/1461181) 
 * [What’s Continuous Deployment?](https://www.sitepoint.com/whats-continuous-deployment/)
 * [PHP and Continuous Integration with Travis CI](https://www.sitepoint.com/php-continuous-integration-travis-ci/)
+* [Docker for PHP Developers](https://leanpub.com/dockerfordevs)
 
 ## Community / News
 * [@official_php](https://twitter.com/official_php)
