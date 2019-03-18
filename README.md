@@ -12,7 +12,6 @@ A curated list of resources for [PHP](https://php.net/)
 * [Books](#books)
 * [Online schools](#online-schools)
 * [Reference](#reference)
-
 * The basics
   * [LAMP: Linux, Apache, MySql, PHP](#lamp-linux-apache-mysql-php)
   * [HTML / HTML 5](#html--html-5)
@@ -24,21 +23,17 @@ A curated list of resources for [PHP](https://php.net/)
   * [Graphic tools](#graphic-tools)
 * [Frontend](#frontend)
 * [Webdesign](#webdesign)
-
+  * [Templating](#templating)
+  * [View libraries (frontend)](#view-libraries-frontend)
 * Frameworks and libraries
   * [Frameworks](#frameworks)
   * [Micro Frameworks](#micro-frameworks)
   * [Libraries](#libraries)
-
 * OOP
   * [Model-View-Controller](#model-view-controller)
   * [Object-oriented programming](#object-oriented-programming)
   * [Design patterns](#design-patterns)
   * [Best Practices](#best-practices)
-
-* [Templating](#templating)
-* [View libraries (frontend)](#view-libraries-frontend)
-
 * Database
   * [Database basics](#database-basics)
   * [Database books](#database-books)
@@ -49,7 +44,6 @@ A curated list of resources for [PHP](https://php.net/)
   * [Database tutorials](#database-tutorial)
   * [Database libraries](#database-libraries)
   * [Database tools](#database-tools)
-  
 * [Standards](#standards)
 * [Errors and exception handling](#errors-and-exception-handling)
 * [Debugging](#debugging)
