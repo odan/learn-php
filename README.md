@@ -331,6 +331,9 @@ Most frameworks in PHP follow some sort of MVC structure. The theory is simple:
 > Bad programmers worry about the code. Good programmers worry about data structures and their relationships.
 
 * [Database normalization](https://en.wikipedia.org/wiki/Database_normalization)
+* [First normal form (1NF)](https://en.wikipedia.org/wiki/First_normal_form)
+* [Second normal form (2NF)](https://en.wikipedia.org/wiki/Second_normal_form)
+* [Third normal form (3NF)](https://en.wikipedia.org/wiki/Third_normal_form)
 * [Der Königsweg: Normalisierung](https://www.hdm-stuttgart.de/~riekert/lehre/db-kelz/chap4.htm) (german)
 * [Normalisierung](http://www.datenbanken-verstehen.de/datenbanken/datenmodellierung/normalisierung/) (german)
 * [MySQL - Normalisierung](https://www.peterkropff.de/site/mysql/normalisierung.htm) (german)
