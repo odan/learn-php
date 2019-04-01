@@ -506,6 +506,7 @@ Follow common PHP conventions for object-oriented code, and established industry
 
 ## Domain Driven Design (DDD)
 
+* [DDD for beginners](https://speakerdeck.com/akrabat/ddd-for-beginners)
 * [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/gp/product/0321125215/ref=as_li_tl?ie=UTF8&tag=28031982-21&camp=1638&creative=6742&linkCode=as2&creativeASIN=0321125215&linkId=16ec2c3b5f11f8f3b4e152c4a25b22c3)
 * [Implementing Domain-Driven Design](https://www.amazon.com/gp/product/0321834577/ref=as_li_tl?ie=UTF8&tag=28031982-21&camp=1638&creative=6742&linkCode=as2&creativeASIN=0321834577&linkId=eb63c6ebb30257011280bf1eab89f1db)
 
