@@ -168,7 +168,7 @@ The [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack:
 
 ## IDEs
 
-* [PHPStorm](https://www.jetbrains.com/phpstorm/) :star: ($)
+* [PHPStorm](https://www.jetbrains.com/phpstorm/) ($)
 * [Netbeans](https://netbeans.org/features/php/)
 * [Zend Studio](https://www.zend.com/en/products/studio) ($)
 
