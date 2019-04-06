@@ -98,8 +98,8 @@ A curated list of resources for [PHP](https://php.net/)
 
 * [CodeAcademy - Web Development](https://www.codecademy.com/catalog/subject/web-development)
 * [CodeAcademy - Learn PHP](https://www.codecademy.com/learn/learn-php)
-* [KnpUniversity - Build something amazing with PHP](https://knpuniversity.com/tracks/php)
-* [KnpUniversity - Learn Symfony 4](https://knpuniversity.com/tracks/symfony)
+* [SymfonyCasts - Build something amazing with PHP](https://symfonycasts.com/tracks/php)
+* [SymfonyCasts - Learn Symfony 4](https://symfonycasts.com/tracks/symfony)
 * [Treehouse - Learn PHP](https://teamtreehouse.com/learn-to-code/php)
 
 ## Reference
