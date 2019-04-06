@@ -414,7 +414,7 @@ Follow common PHP conventions for object-oriented code, and established industry
 
 ## Documentation
 
-> Code never lies, comments sometimes do.
+> PHPdoc is intended for documenting your code. The intention is that you always add comments to your parameters and return types in docblocks that describe what they do. There is software that can read in your code and produce documentation in pdf or HTML format that describes all your classes and functions as well as what they do and how to use them. It is a system for inline documentation as the name indicates.
 
 * [Introduction to PhpDoc](https://www.sitepoint.com/introduction-to-phpdoc/)
 * [The PHPDoc standard (PSR-5) for comments](https://github.com/phpDocumentor/fig-standards/blob/master/proposed/phpdoc.md)
