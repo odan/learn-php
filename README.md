@@ -245,19 +245,20 @@ Most frameworks in PHP follow some sort of MVC structure. The theory is simple:
 > modules and that don't rely on other modules' implementations."
 
 * [Classes and Objects](https://secure.php.net/manual/en/language.oop5.php)
-* [Mastering Object Oriented PHP](http://www.masteringobjectorientedphp.com/) (ebook) 
+* [Mastering Object Oriented PHP](http://www.masteringobjectorientedphp.com/) (eBook) 
 * [Objektorientierte Programmierung](https://www.php-einfach.de/experte/objektorientierte-programmierung-oop/) (german)
 * [Object-Oriented Bootcamp](https://laracasts.com/series/object-oriented-bootcamp-in-php)
 * [SOLID Principles in PHP](https://laracasts.com/series/solid-principles-in-php)
 * [Learning OOP in PHP](https://github.com/marcelgsantos/learning-oop-in-php)
+* [Style Guide for Object Design](https://leanpub.com/object-design/) (eBook)
 
 ## Design patterns
 
-* [Gang of Four Design Patterns](https://www.amazon.com/gp/product/B000SEIBB8?ie=UTF8&tag=28031982-21&camp=1638&linkCode=xm2&creativeASIN=B000SEIBB8)
+* [Gang of Four Design Patterns](https://www.amazon.com/gp/product/B000SEIBB8?ie=UTF8&tag=28031982-21&camp=1638&linkCode=xm2&creativeASIN=B000SEIBB8) (Book)
 * [Design Patterns for Humans™](https://github.com/kamranahmedse/design-patterns-for-humans)
 * [DesignPatternsPHP](https://designpatternsphp.readthedocs.io/)
 * [Several design patterns in PHP](https://github.com/domnikl/DesignPatternsPHP)
-* [Design Patterns in PHP Course](https://www.youtube.com/playlist?list=PLplJltxWVIbLVL3ZX3I6b_uvBsnYVaRJn)
+* [Design Patterns in PHP Course](https://www.youtube.com/playlist?list=PLplJltxWVIbLVL3ZX3I6b_uvBsnYVaRJn) (Video)
 
 ## Best Practices
 
@@ -490,8 +491,7 @@ Follow common PHP conventions for object-oriented code, and established industry
 * [PHP Security Cheat Sheet](https://www.owasp.org/index.php/PHP_Security_Cheat_Sheet)
 * [PHP The Right Way - Security](https://phptherightway.com/#security)
 * [XSS](https://www.sitepoint.com/php-security-cross-site-scripting-attacks-xss/)
-* [HTML encoding](https://secure.php.net/manual/en/function.htmlspecialchars.php)
-* [How to use htmlspecialchars() in PHP](https://odan.github.io/2017/01/02/how-to-use-htmlspecialchars-in-php.html) 
+* [HTML encoding - How to use htmlspecialchars() in PHP](https://odan.github.io/2017/01/02/how-to-use-htmlspecialchars-in-php.html) 
 * [The latest information about secure PHP software](https://paragonie.com/blog)
 * [Security Tips for a PHP Application](https://dev.to/restoreddev/security-tips-for-a-php-application-4e9a)
 * [The Ultimate PHP Security Checklist](https://www.sqreen.io/checklists/php-security-checklist)
@@ -508,12 +508,12 @@ Follow common PHP conventions for object-oriented code, and established industry
 ## Domain Driven Design (DDD)
 
 * [DDD for beginners](https://speakerdeck.com/akrabat/ddd-for-beginners)
-* [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/gp/product/0321125215/ref=as_li_tl?ie=UTF8&tag=28031982-21&camp=1638&creative=6742&linkCode=as2&creativeASIN=0321125215&linkId=16ec2c3b5f11f8f3b4e152c4a25b22c3)
-* [Implementing Domain-Driven Design](https://www.amazon.com/gp/product/0321834577/ref=as_li_tl?ie=UTF8&tag=28031982-21&camp=1638&creative=6742&linkCode=as2&creativeASIN=0321834577&linkId=eb63c6ebb30257011280bf1eab89f1db)
+* [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/gp/product/0321125215/ref=as_li_tl?ie=UTF8&tag=28031982-21&camp=1638&creative=6742&linkCode=as2&creativeASIN=0321125215&linkId=16ec2c3b5f11f8f3b4e152c4a25b22c3) (Book)
+* [Implementing Domain-Driven Design](https://www.amazon.com/gp/product/0321834577/ref=as_li_tl?ie=UTF8&tag=28031982-21&camp=1638&creative=6742&linkCode=as2&creativeASIN=0321834577&linkId=eb63c6ebb30257011280bf1eab89f1db) (Book)
 
 ## Continuous integration (CI) and Continuous Delivery (CD)
-* [Continuous Delivery](https://www.amazon.com/gp/product/B003YMNVC0/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B003YMNVC0&linkCode=as2&tag=28031982-21)
-* [Continuously delivering PHP projects](https://www.youtube.com/watch?v=HOwPJg-F4h0)
+* [Continuous Delivery](https://www.amazon.com/gp/product/B003YMNVC0/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B003YMNVC0&linkCode=as2&tag=28031982-21) (Book)
+* [Continuously delivering PHP projects](https://www.youtube.com/watch?v=HOwPJg-F4h0) (Video)
 * [Continuous Integration vs. Continuous Delivery vs. Continuous Deployment](https://stackoverflow.com/a/28628086/1461181) 
 * [What’s Continuous Deployment?](https://www.sitepoint.com/whats-continuous-deployment/)
 * [PHP and Continuous Integration with Travis CI](https://www.sitepoint.com/php-continuous-integration-travis-ci/)
