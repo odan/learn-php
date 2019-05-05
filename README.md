@@ -62,6 +62,7 @@ A curated list of resources for [PHP](https://php.net/)
 * [Architecture](#architecture)
 * [Domain Driven Design (DDD)](#domain-driven-design-ddd)
 * [Continuous integration and Continuous Delivery](#continuous-integration-ci-and-continuous-delivery-cd)
+* [Magazines](#magazines)
 * [Community and News](#community--news)
 
 
