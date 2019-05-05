@@ -518,6 +518,11 @@ Follow common PHP conventions for object-oriented code, and established industry
 * [PHP and Continuous Integration with Travis CI](https://www.sitepoint.com/php-continuous-integration-travis-ci/)
 * [Docker for PHP Developers](https://leanpub.com/dockerfordevs)
 
+## Magazines
+
+* [php architect](https://www.phparch.com/magazine/) (english)
+* [PHPmagazin](https://entwickler.de/php-magazin) (german)
+
 ## Community / News
 * [@official_php](https://twitter.com/official_php)
 * [r/PHP](https://www.reddit.com/r/PHP/) 
