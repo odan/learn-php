@@ -523,6 +523,7 @@ Follow common PHP conventions for object-oriented code, and established industry
 
 * [php architect](https://www.phparch.com/magazine/) (english)
 * [PHPmagazin](https://entwickler.de/php-magazin) (german)
+* [web & mobile developer](https://shop.nmg.de/webundmobile/) (german)
 
 ## Community / News
 * [@official_php](https://twitter.com/official_php)
@@ -530,3 +531,4 @@ Follow common PHP conventions for object-oriented code, and established industry
 * [r/PHPhelp](https://www.reddit.com/r/PHPhelp/)
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/php)
 * [PHP weekly newsletter](http://www.phpweekly.com/) 
+* [Stitcher Mail](https://stitcher.io/signup)
