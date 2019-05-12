@@ -529,6 +529,7 @@ Follow common PHP conventions for object-oriented code, and established industry
 * [@official_php](https://twitter.com/official_php)
 * [r/PHP](https://www.reddit.com/r/PHP/) 
 * [r/PHPhelp](https://www.reddit.com/r/PHPhelp/)
+* [PHP on dev.to](https://dev.to/t/php)
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/php)
 * [PHP weekly newsletter](http://www.phpweekly.com/) 
 * [Stitcher Mail](https://stitcher.io/signup)
