@@ -201,14 +201,14 @@ The [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack:
 
 * [Symfony versus Flat PHP](https://symfony.com/doc/current/introduction/from_flat_php_to_symfony2.html)
 * [Twig – the Most Popular Stand-Alone PHP Template Engine](https://www.sitepoint.com/twig-popular-stand-alone-php-template-engine/)
-* [Twig](https://twig.symfony.com/)
+* [Twig](https://twig.symfony.com/) (The flexible, fast, and secure template engine for PHP)
+* [Plates](https://platesphp.com/) (A native PHP template system)
 
 ## Frameworks
 
 * [CakePHP](https://cakephp.org/) (A MVC, CRUD, Scaffolding framework, inspired by Ruby on Rails)
 * [Laravel](https://laravel.com/) (A very popular framework)
 * [Symfony](https://symfony.com/) (A modular enterprise framework)
-* [Zend](https://framework.zend.com/) (A modular enterprise framework)
 
 ## Micro Frameworks
 
