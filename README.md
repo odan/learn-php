@@ -538,3 +538,4 @@ Follow common PHP conventions for object-oriented code, and established industry
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/php)
 * [PHP weekly newsletter](http://www.phpweekly.com/) 
 * [Stitcher Mail](https://stitcher.io/signup)
+* [PHP's internals](https://externals.io/)
