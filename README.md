@@ -79,13 +79,11 @@ A curated list of resources for [PHP](https://php.net/)
 * [PHP Pandas](https://daylerees.com/php-pandas/)
 * [W3Schools PHP](https://www.w3schools.com/php/)
 * [Tutorialspoint PHP](https://www.tutorialspoint.com/php/)
-* [Devzone PHP](https://devzone.zend.com/welcome-to-php/)
 * [Learn PHP in Y minutes](https://learnxinyminutes.com/docs/php/)
 * [PHP Apprentice](https://phpapprentice.com/) An online book for learning PHP
 
 ## Videos
 
-* [PHP Programming](https://www.youtube.com/watch?v=27dR_sLaM74)
 * [The New Boston's Youtube Playlist](https://www.youtube.com/course?list=EC442FA2C127377F07)
 * [Codecourse](https://www.youtube.com/codecourse/videos)
 
