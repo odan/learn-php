@@ -158,7 +158,10 @@ The [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack:
 
 ## Tools
 
+* [Webbrowser (Chrome, Firefox, IE)](http://de.wikipedia.org/wiki/Webbrowser)
 * [XAMPP](https://www.apachefriends.org/index.html) (Apache, MariaDB, PHP)
+* [Vagrant](https://en.wikipedia.org/wiki/Vagrant_(software))
+* [Docker](https://en.wikipedia.org/wiki/Docker_(software))
 * [Composer](https://getcomposer.org/) (dependency management)
 * [WinSCP](https://winscp.net) (Free SFTP, SCP and FTP client)
 * [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) (A free SSH and telnet client)
