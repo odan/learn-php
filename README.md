@@ -518,7 +518,11 @@ Follow common PHP conventions for object-oriented code, and established industry
 
 ## Hexagonal Architecture
 
+* [Ports & Adapters Architecture](https://herbertograca.com/2017/09/14/ports-adapters-architecture/)
 * [Hexagonal Architecture demystified](https://madewithlove.be/hexagonal-architecture-demystified/)
+* [Hexagonal Architecture](https://fideloper.com/hexagonal-architecture)
+* [Alistair in the "Hexagone"](https://www.youtube.com/watch?v=th4AgBcrEHA)
+* [Object Design Style Guide](https://www.manning.com/books/object-design-style-guide?a_aid=object-design&a_bid=4e089b42)
 
 ## Functional Programming
 
