@@ -148,6 +148,7 @@ The [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack:
 
 * [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 * [HTTP Request / Response, GET und POST](https://www.w3schools.com/tags/ref_httpmethods.asp)
+* [Introduction to HTTP Basics](https://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html)
 * [HTTPS](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol_Secure)
 * [FTP](https://en.wikipedia.org/wiki/File_Transfer_Protocol)
 * [SSH](https://en.wikipedia.org/wiki/Secure_Shell)
