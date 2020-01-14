@@ -174,7 +174,7 @@ The [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack:
 
 * [PHPStorm](https://www.jetbrains.com/phpstorm/) ($)
 * [Netbeans](https://netbeans.org/features/php/)
-* [Zend Studio](https://www.zend.com/en/products/studio) ($)
+* [Zend Studio](https://www.zend.com/products/zend-studio) ($)
 
 ## Graphic tools
 * [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) ($)
@@ -197,6 +197,7 @@ The [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack:
 
 ## View libraries (frontend)
 
+* [Svelte](https://svelte.dev/)
 * [Vue.js](https://vuejs.org/)
 * [React](https://reactjs.org/)
 
