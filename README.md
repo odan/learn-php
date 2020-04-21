@@ -551,6 +551,7 @@ Follow common PHP conventions for object-oriented code, and established industry
 * [PHP on dev.to](https://dev.to/t/php)
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/php)
 * [PHP weekly newsletter](http://www.phpweekly.com/) 
+* [Freek.dev newsletter](https://freek.dev/newsletter)
 * [Stitcher Mail](https://stitcher.io/signup)
 * [Awesome PHP Newsletter](https://php.libhunt.com/newsletter)
 * [PHP's internals](https://externals.io/)
