@@ -554,4 +554,5 @@ Follow common PHP conventions for object-oriented code, and established industry
 * [Freek.dev newsletter](https://freek.dev/newsletter)
 * [Stitcher Mail](https://stitcher.io/signup)
 * [Awesome PHP Newsletter](https://php.libhunt.com/newsletter)
+* [JetBrains - PHP Annotated Monthly](https://blog.jetbrains.com/phpstorm/category/php-annotated-monthly/)
 * [PHP's internals](https://externals.io/)
