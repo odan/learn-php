@@ -100,7 +100,7 @@ A curated list of resources for [PHP](https://php.net/)
 * [CodeAcademy - Web Development](https://www.codecademy.com/catalog/subject/web-development)
 * [CodeAcademy - Learn PHP](https://www.codecademy.com/learn/learn-php)
 * [SymfonyCasts - Build something amazing with PHP](https://symfonycasts.com/tracks/php)
-* [SymfonyCasts - Learn Symfony 4](https://symfonycasts.com/tracks/symfony)
+* [SymfonyCasts - Learn Symfony](https://symfonycasts.com/tracks/symfony)
 * [Treehouse - Learn PHP](https://teamtreehouse.com/learn-to-code/php)
 
 ## Reference
@@ -197,9 +197,10 @@ The [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack:
 
 ## View libraries (frontend)
 
+* [Angular](https://angular.io/)
+* [React](https://reactjs.org/)
 * [Svelte](https://svelte.dev/)
 * [Vue.js](https://vuejs.org/)
-* [React](https://reactjs.org/)
 
 ## Templating
 
@@ -354,6 +355,7 @@ Most frameworks in PHP follow some sort of MVC structure. The theory is simple:
 
 * [CakePHP QueryBuilder](https://github.com/cakephp/database#query-builder)
 * [Illuminate (Laravel) Query Builder](https://github.com/illuminate/database)
+* [Laminas DB Query Builder](https://docs.laminas.dev/laminas-db/)
 * [Phinx - database migrations](https://phinx.org/)
 
 ## Database tools
@@ -375,16 +377,17 @@ Most frameworks in PHP follow some sort of MVC structure. The theory is simple:
 
 ## Standards
 
-Follow common PHP conventions for object-oriented code, and established industry best practices: PSR-1, PSR-2, PSR-4.
+Follow common PHP conventions for object-oriented code, and established industry best practices: PSR-1, PSR-12, PSR-4.
 
 * [PHP Framework Interop Group](https://www.php-fig.org/)
-* [PSR-1 Basic Coding Standard](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-1-basic-coding-standard.md)
-* [PSR-2 Coding Style Guide](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md)
+* [PSR-1 Basic Coding Standard](https://www.php-fig.org/psr/psr-1/)
+* [PSR-12 Coding Style Guide](https://www.php-fig.org/psr/psr-12/)
 * [PSR-3 Logger Interface](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-3-logger-interface.md)
 * [PSR-4 Autoloader](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-4-autoloader.md)
 * [Standard PHP package skeleton](https://github.com/php-pds/skeleton)
 * [A skeleton repository for League Packages](https://github.com/thephpleague/skeleton)
 * [Semantic Versioning 2.0.0](https://semver.org/)
+* [Keep a changelog](https://keepachangelog.com/)
 
 ## Errors and exception handling
 
