@@ -19,12 +19,12 @@ A curated list of resources for [PHP](https://php.net/)
   * [JavaScript](#javascript)
   * [Protocols](#protocols)
 * [Tools](#tools)
-  * [IDEs](#ides)
-  * [Graphic tools](#graphic-tools)
+* [IDEs](#ides)
+* [Graphic tools](#graphic-tools)
 * [Frontend](#frontend)
+* [View libraries (frontend)](#view-libraries-frontend)
+* [Templating](#templating)
 * [Webdesign](#webdesign)
-  * [Templating](#templating)
-  * [View libraries (frontend)](#view-libraries-frontend)
 * Frameworks and libraries
   * [Frameworks](#frameworks)
   * [Micro Frameworks](#micro-frameworks)
@@ -179,7 +179,7 @@ The [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack:
 ## Graphic tools
 * [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) ($)
 * [Adobe Fireworks](https://www.adobe.com/products/fireworks.html) ($)
-* [Sketch](https://www.sketchapp.com/)
+* [Sketch](https://www.sketchapp.com/) ($)
 * [Gimp](https://www.gimp.org/)
 * [IrfanView](http://www.irfanview.com/)
 * [Paint.NET](https://www.getpaint.net/)
@@ -190,10 +190,6 @@ The [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack:
 * [CSS](https://www.w3schools.com/css/default.asp)
 * [Bootstrap](https://getbootstrap.com/) (The most popular HTML, CSS, and JS framework in the world)
 * [Font Awesome](https://fontawesome.com/) (The web’s most popular icon set)
-
-## Webdesign
-
-* [Anatomy of a Modern Website](http://www.touchstonesoftworks.com/blog/8_pillars_modern_web_development)
 
 ## View libraries (frontend)
 
@@ -208,6 +204,10 @@ The [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack:
 * [Twig – the Most Popular Stand-Alone PHP Template Engine](https://www.sitepoint.com/twig-popular-stand-alone-php-template-engine/)
 * [Twig](https://twig.symfony.com/) (The flexible, fast, and secure template engine for PHP)
 * [Plates](https://platesphp.com/) (A native PHP template system)
+
+## Webdesign
+
+* [Anatomy of a Modern Website](http://www.touchstonesoftworks.com/blog/8_pillars_modern_web_development)
 
 ## Frameworks
 
