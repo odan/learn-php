@@ -174,6 +174,7 @@ The [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack:
 
 * [PHPStorm](https://www.jetbrains.com/phpstorm/) ($)
 * [Netbeans](https://netbeans.org/features/php/)
+* [Visual Studio Code](https://code.visualstudio.com/docs/languages/php)
 * [Zend Studio](https://www.zend.com/products/zend-studio) ($)
 
 ## Graphic tools
@@ -213,6 +214,7 @@ The [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack:
 
 * [CakePHP](https://cakephp.org/) (A MVC, CRUD, Scaffolding framework, inspired by Ruby on Rails)
 * [Laravel](https://laravel.com/) (A very popular framework)
+* [Laminas](https://getlaminas.org/)
 * [Symfony](https://symfony.com/) (A modular enterprise framework)
 
 ## Micro Frameworks
@@ -484,6 +486,7 @@ Follow common PHP conventions for object-oriented code, and established industry
 * [Implementing a SOAP API with PHP ](https://odan.github.io/2017/11/20/implementing-a-soap-api-with-php-7.html)
 
 ## Version control
+
 * [What is version control](https://www.atlassian.com/git/tutorials/what-is-version-control)
 * **[Github](https://github.com)**
 * [Resources to learn Git](https://try.github.io/)
@@ -527,13 +530,15 @@ Follow common PHP conventions for object-oriented code, and established industry
 * [Hexagonal Architecture demystified](https://madewithlove.be/hexagonal-architecture-demystified/)
 * [Hexagonal Architecture](https://fideloper.com/hexagonal-architecture)
 * [Alistair in the "Hexagone"](https://www.youtube.com/watch?v=th4AgBcrEHA)
-* [Object Design Style Guide](https://www.manning.com/books/object-design-style-guide?a_aid=object-design&a_bid=4e089b42)
+* [Object Design Style Guide](https://www.manning.com/books/object-design-style-guide)
+* [Advanced Web Application Architecture](https://leanpub.com/web-application-architecture)
 
 ## Functional Programming
 
-* [Functional architecture - The pits of success - Mark Seemann](https://www.youtube.com/watch?v=US8QG9I1XW0)
+* [Functional architecture - The pits of success - Mark Seemann](https://www.youtube.com/watch?v=US8QG9I1XW0) (Video)
 
 ## Continuous integration (CI) and Continuous Delivery (CD)
+
 * [Continuous Delivery](https://www.amazon.com/gp/product/B003YMNVC0/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B003YMNVC0&linkCode=as2&tag=28031982-21) (Book)
 * [Continuously delivering PHP projects](https://www.youtube.com/watch?v=HOwPJg-F4h0) (Video)
 * [Continuous Integration vs. Continuous Delivery vs. Continuous Deployment](https://stackoverflow.com/a/28628086/1461181) 
