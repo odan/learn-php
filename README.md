@@ -486,10 +486,9 @@ Follow common PHP conventions for object-oriented code, and established industry
 ## Version control
 * [What is version control](https://www.atlassian.com/git/tutorials/what-is-version-control)
 * **[Github](https://github.com)**
-* [Got 15 minutes and want to learn Git?](https://try.github.io/levels/1/challenges/1)
+* [Resources to learn Git](https://try.github.io/)
 * [gittutorial - A tutorial introduction to Git](https://git-scm.com/docs/gittutorial)
 * [git - the simple guide](https://rogerdudler.github.io/git-guide/)
-* [How to contribute to an open source project on GitHub](https://blog.davidecoppola.com/2016/11/howto-contribute-to-open-source-project-on-github/)
 
 ## Security
 
