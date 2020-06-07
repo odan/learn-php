@@ -83,16 +83,14 @@ A curated list of resources for [PHP](https://php.net/)
 
 ## Videos
 
-* [The New Boston's Youtube Playlist](https://www.youtube.com/course?list=EC442FA2C127377F07)
 * [Codecourse](https://www.youtube.com/codecourse/videos)
 
 ## Books
 
 * [Modern PHP: New Features and Good Practices](https://www.amazon.de/gp/product/1491905018/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=1491905018&linkCode=as2&tag=28031982-21)
 * [Learning PHP 7](http://shop.oreilly.com/product/9781785880544.do)
-* [Phparchitect's Zend PHP 5 Certification Study Guide](https://www.amazon.de/gp/product/0973862149?&tag=28031982-21)
 * [PHP 7 Zend Certification Study Guide](https://www.amazon.com/PHP-Zend-Certification-Study-Guide/dp/1484232453/?tag=28031982-21)
-* [Free Programming Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#php) 
+* [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#php) 
 
 ## Online schools
 
@@ -166,7 +164,6 @@ The [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack:
 * [WinSCP](https://winscp.net) (Free SFTP, SCP and FTP client)
 * [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) (A free SSH and telnet client)
 * [PoEdit](https://poedit.net/) (gettext translations editor)
-* [Smartgit](https://www.syntevo.com/smartgit/) (GUI client for Git)
 * [Notepad++](https://notepad-plus-plus.org/) (Text editor)
 * [7-ZIP](https://www.7-zip.org/) (File archiver)
 
@@ -175,7 +172,6 @@ The [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack:
 * [PHPStorm](https://www.jetbrains.com/phpstorm/) ($)
 * [Netbeans](https://netbeans.org/features/php/)
 * [Visual Studio Code](https://code.visualstudio.com/docs/languages/php)
-* [Zend Studio](https://www.zend.com/products/zend-studio) ($)
 
 ## Graphic tools
 * [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) ($)
@@ -201,10 +197,10 @@ The [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack:
 
 ## Templating
 
-* [Symfony versus Flat PHP](https://symfony.com/doc/current/introduction/from_flat_php_to_symfony2.html)
-* [Twig – the Most Popular Stand-Alone PHP Template Engine](https://www.sitepoint.com/twig-popular-stand-alone-php-template-engine/)
 * [Twig](https://twig.symfony.com/) (The flexible, fast, and secure template engine for PHP)
 * [Plates](https://platesphp.com/) (A native PHP template system)
+* [Symfony versus Flat PHP](https://symfony.com/doc/current/introduction/from_flat_php_to_symfony2.html)
+* [Twig – the Most Popular Stand-Alone PHP Template Engine](https://www.sitepoint.com/twig-popular-stand-alone-php-template-engine/)
 
 ## Webdesign
 
