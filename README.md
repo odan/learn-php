@@ -363,7 +363,6 @@ Most frameworks in PHP follow some sort of MVC structure. The theory is simple:
 * [MySQL Workbench](https://www.mysql.com/products/workbench/)
 * [HeidiSQL](https://www.heidisql.com/)
 * [SequelPro](https://www.sequelpro.com/)
-* [TeamSQL](https://teamsql.io/)
 * [Navicat](https://www.navicat.com/en/products/navicat-for-mysql)
 * [DBeaver](https://dbeaver.io/)
 
