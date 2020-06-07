@@ -77,7 +77,6 @@ A curated list of resources for [PHP](https://php.net/)
 
 * [Laravel PHP Practitioner](https://laracasts.com/skills/php) (Free)
 * [PHP Pandas](https://daylerees.com/php-pandas/)
-* [W3Schools PHP](https://www.w3schools.com/php/)
 * [Tutorialspoint PHP](https://www.tutorialspoint.com/php/)
 * [Learn PHP in Y minutes](https://learnxinyminutes.com/docs/php/)
 * [PHP Apprentice](https://phpapprentice.com/) An online book for learning PHP
@@ -102,6 +101,7 @@ A curated list of resources for [PHP](https://php.net/)
 * [SymfonyCasts - Build something amazing with PHP](https://symfonycasts.com/tracks/php)
 * [SymfonyCasts - Learn Symfony](https://symfonycasts.com/tracks/symfony)
 * [Treehouse - Learn PHP](https://teamtreehouse.com/learn-to-code/php)
+* [Exercism - PHP](https://exercism.io/tracks/php) (Code practice and mentorship)
 
 ## Reference
 
