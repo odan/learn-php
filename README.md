@@ -257,6 +257,7 @@ Most frameworks in PHP follow some sort of MVC structure. The theory is simple:
 
 ## Design patterns
 
+* [Design Patterns in PHP](https://www.script-tutorials.com/design-patterns-in-php/)
 * [Gang of Four Design Patterns](https://www.amazon.com/gp/product/B000SEIBB8?ie=UTF8&tag=28031982-21&camp=1638&linkCode=xm2&creativeASIN=B000SEIBB8) (Book)
 * [Design Patterns for Humans™](https://github.com/kamranahmedse/design-patterns-for-humans)
 * [DesignPatternsPHP](https://designpatternsphp.readthedocs.io/)
