@@ -202,10 +202,6 @@ The [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack:
 * [Symfony versus Flat PHP](https://symfony.com/doc/current/introduction/from_flat_php_to_symfony2.html)
 * [Twig – the Most Popular Stand-Alone PHP Template Engine](https://www.sitepoint.com/twig-popular-stand-alone-php-template-engine/)
 
-## Webdesign
-
-* [Anatomy of a Modern Website](http://www.touchstonesoftworks.com/blog/8_pillars_modern_web_development)
-
 ## Frameworks
 
 * [CakePHP](https://cakephp.org/) (A MVC, CRUD, Scaffolding framework, inspired by Ruby on Rails)
