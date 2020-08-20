@@ -486,6 +486,7 @@ PHPdoc is intended for documenting your code. The intention is that you always a
 * [Resources to learn Git](https://try.github.io/)
 * [gittutorial - A tutorial introduction to Git](https://git-scm.com/docs/gittutorial)
 * [git - the simple guide](https://rogerdudler.github.io/git-guide/)
+* [The Pro Git book](https://git-scm.com/book/en/v2)
 
 ## Security
 
