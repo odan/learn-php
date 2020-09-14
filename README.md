@@ -336,6 +336,7 @@ Most frameworks in PHP follow some sort of MVC structure. The theory is simple:
 * [First normal form (1NF)](https://en.wikipedia.org/wiki/First_normal_form)
 * [Second normal form (2NF)](https://en.wikipedia.org/wiki/Second_normal_form)
 * [Third normal form (3NF)](https://en.wikipedia.org/wiki/Third_normal_form)
+* [Description of the database normalization basics](https://docs.microsoft.com/en-us/office/troubleshoot/access/database-normalization-description)
 * [Der Königsweg: Normalisierung](https://www.hdm-stuttgart.de/~riekert/lehre/db-kelz/chap4.htm) (german)
 * [Normalisierung](http://www.datenbanken-verstehen.de/datenbanken/datenmodellierung/normalisierung/) (german)
 * [MySQL - Normalisierung](https://www.peterkropff.de/site/mysql/normalisierung.htm) (german)
