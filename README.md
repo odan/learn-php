@@ -96,10 +96,11 @@ A curated list of resources for [PHP](https://php.net/)
 
 * [CodeAcademy - Web Development](https://www.codecademy.com/catalog/subject/web-development)
 * [CodeAcademy - Learn PHP](https://www.codecademy.com/learn/learn-php)
+* [Exercism - PHP](https://exercism.io/tracks/php) (Code practice and mentorship)
 * [SymfonyCasts - Build something amazing with PHP](https://symfonycasts.com/tracks/php)
 * [SymfonyCasts - Learn Symfony](https://symfonycasts.com/tracks/symfony)
 * [Treehouse - Learn PHP](https://teamtreehouse.com/learn-to-code/php)
-* [Exercism - PHP](https://exercism.io/tracks/php) (Code practice and mentorship)
+* [Udemy - PHP](https://www.udemy.com/topic/php/)
 
 ## Reference
 
