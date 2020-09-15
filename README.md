@@ -22,7 +22,6 @@ A curated list of resources for [PHP](https://php.net/)
 * [IDEs](#ides)
 * [Graphic tools](#graphic-tools)
 * [Frontend](#frontend)
-* [View libraries (frontend)](#view-libraries-frontend)
 * [Templating](#templating)
 * [Webdesign](#webdesign)
 * Frameworks and libraries
@@ -79,7 +78,7 @@ A curated list of resources for [PHP](https://php.net/)
 * [PHP Pandas](https://daylerees.com/php-pandas/)
 * [Tutorialspoint PHP](https://www.tutorialspoint.com/php/)
 * [Learn PHP in Y minutes](https://learnxinyminutes.com/docs/php/)
-* [PHP Apprentice](https://phpapprentice.com/) An online book for learning PHP
+* [PHP Apprentice](https://phpapprentice.com/)
 
 ## Videos
 
@@ -115,11 +114,10 @@ The [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack:
 
 ### HTML / HTML 5
 
-* [HTML](https://en.wikipedia.org/wiki/HTML)
-* [HTML5](https://en.wikipedia.org/wiki/HTML5)
-* [HTML5 Tutorial](https://www.w3schools.com/html/default.asp)
-* [A Basic HTML5 Template](https://www.sitepoint.com/a-basic-html5-template/)
+* [HTML](https://en.wikipedia.org/wiki/HTML) and [HTML5](https://en.wikipedia.org/wiki/HTML5)
+* [HTML Tutorial](https://www.w3schools.com/html/default.asp)
 * [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
+* [A Basic HTML5 Template](https://www.sitepoint.com/a-basic-html5-template/)
 * [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 
 ### CSS
@@ -133,12 +131,11 @@ The [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack:
 
 * [JavaScript](https://en.wikipedia.org/wiki/JavaScript) (aka ECMAScript)
 * [Basic JavaScript](http://speakingjs.com/es5/ch01.html)
-* [JSON](https://en.wikipedia.org/wiki/JSON)
-* [JSON Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON)
 * [JavaScript Tutorial](https://www.w3schools.com/js/default.asp)
 * [Eloquent JavaScript](https://eloquentjavascript.net/)
 * [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
 * [Awesome JavaScript Learning](https://github.com/micromata/awesome-javascript-learning)
+* [JSON](https://en.wikipedia.org/wiki/JSON)
 
 ### Protocols
 
@@ -172,25 +169,20 @@ The [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack:
 * [Visual Studio Code](https://code.visualstudio.com/docs/languages/php)
 
 ## Graphic tools
+
 * [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) ($)
 * [Adobe Fireworks](https://www.adobe.com/products/fireworks.html) ($)
-* [Sketch](https://www.sketchapp.com/) ($)
 * [Gimp](https://www.gimp.org/)
 * [IrfanView](http://www.irfanview.com/)
-* [Paint.NET](https://www.getpaint.net/)
+* [Sketch](https://www.sketchapp.com/) ($)
 
 ## Frontend
-* [jQuery](https://jquery.com/) (The most widely deployed JavaScript library, DOM manipulation, Ajax)
-* [HTML5](https://www.w3schools.com/html/html5_intro.asp)
-* [CSS](https://www.w3schools.com/css/default.asp)
-* [Bootstrap](https://getbootstrap.com/) (The most popular HTML, CSS, and JS framework in the world)
-* [Font Awesome](https://fontawesome.com/) (The web’s most popular icon set)
-
-## View libraries (frontend)
 
 * [Angular](https://angular.io/)
+* [Bootstrap](https://getbootstrap.com/) (The most popular HTML, CSS, and JS framework in the world)
+* [Font Awesome](https://fontawesome.com/) (The web’s most popular icon set)
+* [jQuery](https://jquery.com/) (The most widely deployed JavaScript library, DOM manipulation, Ajax)
 * [React](https://reactjs.org/)
-* [Svelte](https://svelte.dev/)
 * [Vue.js](https://vuejs.org/)
 
 ## Templating
