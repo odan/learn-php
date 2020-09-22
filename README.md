@@ -487,7 +487,6 @@ PHPdoc is intended for documenting your code. The intention is that you always a
 * [PHP Security Cheat Sheet](https://www.owasp.org/index.php/PHP_Security_Cheat_Sheet)
 * [PHP The Right Way - Security](https://phptherightway.com/#security)
 * [XSS](https://www.sitepoint.com/php-security-cross-site-scripting-attacks-xss/)
-* [HTML encoding - How to use htmlspecialchars() in PHP](https://odan.github.io/2017/01/02/how-to-use-htmlspecialchars-in-php.html) 
 * [The latest information about secure PHP software](https://paragonie.com/blog)
 * [Security Tips for a PHP Application](https://dev.to/restoreddev/security-tips-for-a-php-application-4e9a)
 * [The Ultimate PHP Security Checklist](https://www.sqreen.io/checklists/php-security-checklist)
