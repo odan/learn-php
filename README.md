@@ -484,7 +484,7 @@ PHPdoc is intended for documenting your code. The intention is that you always a
 > A good programmer looks both ways before crossing a one-way street.
 
 * [Web security essentials - A crash course](https://www.sohamkamani.com/blog/2017/01/16/web-security-essentials/)
-* [PHP Security Cheat Sheet](https://www.owasp.org/index.php/PHP_Security_Cheat_Sheet)
+* [PHP Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/PHP_Configuration_Cheat_Sheet.html)
 * [PHP The Right Way - Security](https://phptherightway.com/#security)
 * [XSS](https://www.sitepoint.com/php-security-cross-site-scripting-attacks-xss/)
 * [The latest information about secure PHP software](https://paragonie.com/blog)
