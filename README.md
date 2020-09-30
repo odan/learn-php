@@ -404,6 +404,7 @@ Follow common PHP conventions for object-oriented code, and established industry
 * [The correct way to use integration tests](https://zeroturnaround.com/rebellabs/the-correct-way-to-use-integration-tests-in-your-build-process/)
 * [100% Code Coverage via automated tests in Symfony applications](https://speakerdeck.com/mensemedia/100-percent-code-coverage-via-automated-tests-in-symfony-applications) 
 * [Building Test-Driven Developers](https://leanpub.com/test-driven) eBook
+* [Write tests. Not too many. Mostly integration](https://kentcdodds.com/blog/write-tests)
 
 ## Documentation
 
