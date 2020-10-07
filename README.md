@@ -171,9 +171,8 @@ The [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack:
 ## Graphic tools
 
 * [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) ($)
-* [Adobe Fireworks](https://www.adobe.com/products/fireworks.html) ($)
 * [Gimp](https://www.gimp.org/)
-* [IrfanView](http://www.irfanview.com/)
+* [IrfanView](https://www.irfanview.com/)
 * [Sketch](https://www.sketchapp.com/) ($)
 
 ## Frontend
