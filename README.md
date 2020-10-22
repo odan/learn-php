@@ -551,3 +551,4 @@ PHPdoc is intended for documenting your code. The intention is that you always a
 * [Awesome PHP Newsletter](https://php.libhunt.com/newsletter)
 * [JetBrains - PHP Annotated Monthly](https://blog.jetbrains.com/phpstorm/category/php-annotated-monthly/)
 * [PHP's internals](https://externals.io/)
+* [PHP-Digest by Roman Pronsky](https://habr.com/ru/users/pronskiy/posts/) (russian)
