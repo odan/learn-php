@@ -438,7 +438,6 @@ PHPdoc is intended for documenting your code. The intention is that you always a
 * [An Introduction to Dependency Injection](https://joebubna.github.io/Cora/documentation/v2/dependency-injection/overview/)
 * [What is Dependency Injection?](http://fabien.potencier.org/what-is-dependency-injection.html)
 * [The Clean Code Talks - Don't Look For Things!](https://www.youtube.com/watch?v=RlfLCWKxHJ0) (Video)
-* [Dependency Injection and Dependency Inversion](https://www.youtube.com/watch?v=Ojsn11XY0X8) (Video)
 * [PSR-11: Container interface](https://www.php-fig.org/psr/psr-11/)
 
 ## Regular Expressions
