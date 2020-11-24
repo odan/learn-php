@@ -86,6 +86,7 @@ A curated list of resources for [PHP](https://php.net/)
 
 ## Books
 
+* [Building modern applications with PHP 8](https://front-line-php.com/)
 * **[PHP 7 Zend Certification Study Guide](https://www.amazon.com/PHP-Zend-Certification-Study-Guide/dp/1484232453/?tag=28031982-21)**
 * [Modern PHP: New Features and Good Practices](https://www.amazon.de/gp/product/1491905018/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=1491905018&linkCode=as2&tag=28031982-21)
 * [Learning PHP 7](http://shop.oreilly.com/product/9781785880544.do)
