@@ -101,8 +101,9 @@ A curated list of resources for [PHP](https://php.net/)
 
 ## Reference
 
-* [PHP Manual](https://secure.php.net/manual/en/index.php)
 * [Language Reference](https://secure.php.net/manual/en/langref.php)
+* [Modern PHP Cheat Sheet](https://front-line-php.com/cheat-sheet)
+* [PHP Manual](https://secure.php.net/manual/en/index.php)
 
 ### LAMP: Linux, Apache, MySql, PHP
 
