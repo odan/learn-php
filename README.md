@@ -12,7 +12,7 @@ A curated list of resources for [PHP](https://php.net/)
 * [Online Course](#online-course)
 * [Reference](#reference)
 * [The basics](#the-basics)
-  * [LAMP: Linux, Apache, MySql, PHP](#lamp-linux-apache-mysql-php)
+  * [The LAMP stack](#the-lamp-stack)
   * [HTML / HTML 5](#html--html-5)
   * [CSS](#css)
   * [JavaScript](#javascript)
@@ -20,16 +20,16 @@ A curated list of resources for [PHP](https://php.net/)
 * [Tools](#tools)
 * [IDEs](#ides)
 * [Templating](#templating)
-* Frameworks and libraries
+* [Frameworks and libraries](#frameworks-and-libraries)
   * [Frameworks](#frameworks)
   * [Micro Frameworks](#micro-frameworks)
   * [Libraries](#libraries)
 * [OOP](#oop)
   * [Object-oriented programming](#object-oriented-programming)
   * [Design patterns](#design-patterns)
-  * [Model-View-Controller](#model-view-controller)  
   * [Best Practices](#best-practices)
-* Database
+* [Model-View-Controller](#model-view-controller)
+* [Database](#database)
   * [Database basics](#database-basics)
   * [Database books](#database-books)
   * [Relational database management system (RDBMS)](#relational-database-management-system-rdbms)
@@ -101,10 +101,9 @@ A curated list of resources for [PHP](https://php.net/)
 
 ## The basics
 
-### LAMP: Linux, Apache, MySql, PHP
+### The LAMP stack
 
-The [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack:
-
+* The [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) (Linux, Apache, MySql, PHP) stack
 * [Linux](https://en.wikipedia.org/wiki/Linux)
 * [Apache HTTP Server](https://en.wikipedia.org/wiki/Apache_HTTP_Server)
 * [MySQL](https://en.wikipedia.org/wiki/MySQL)
@@ -173,19 +172,21 @@ The [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack:
 * [Symfony versus Flat PHP](https://symfony.com/doc/current/introduction/from_flat_php_to_symfony2.html)
 * [Twig – the Most Popular Stand-Alone PHP Template Engine](https://www.sitepoint.com/twig-popular-stand-alone-php-template-engine/)
 
-## Frameworks
+## Frameworks and libraries
+
+### Frameworks
 
 * [CakePHP](https://cakephp.org/) (A MVC, CRUD, Scaffolding framework, inspired by Ruby on Rails)
 * [Laravel](https://laravel.com/) (A very popular framework)
 * [Laminas](https://getlaminas.org/)
 * [Symfony](https://symfony.com/) (A modular enterprise framework)
 
-## Micro Frameworks
+### Micro Frameworks
 
 * [Slim Framework](https://www.slimframework.com/) (A PHP micro framework that helps you quickly write simple yet powerful web applications and APIs)
 * [Slim Framework 4 - Tutorial](https://odan.github.io/2019/11/05/slim4-tutorial.html)
 
-## Libraries
+### Libraries
 
 * [Awesome PHP libraries](https://github.com/ziadoz/awesome-php)
 
@@ -213,26 +214,6 @@ The [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack:
 * [DesignPatternsPHP](https://designpatternsphp.readthedocs.io/)
 * [Several design patterns in PHP](https://github.com/domnikl/DesignPatternsPHP)
 * [Design Patterns in PHP Course](https://www.youtube.com/playlist?list=PLplJltxWVIbLVL3ZX3I6b_uvBsnYVaRJn) (Video)
-
-## Model-View-Controller
-
-Most frameworks in PHP follow some sort of MVC structure. The theory is simple:
-
-> The user interfaces with the view,
-> which passes information to a controller.
-> The controller then passes that information to a model (layer),
-> and the model passes information back to the controller.
-> The controller effectively stands between the view and the model.
-> *(Brandon James Savage)*
-
-* [MVC Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
-* [MVC in simpler terms or the structure of a modern web-application](https://phpdelusions.net/articles/mvc)
-* [MVC overview](https://www.reddit.com/r/PHP/comments/5w3k8h/getting_started_with_symfony/de72hg6/)
-* [MVC for Noobs](https://code.tutsplus.com/tutorials/mvc-for-noobs--net-10488)
-* [A Better Understanding Of MVC](https://www.bennadel.com/blog/2379-a-better-understanding-of-mvc-model-view-controller-thanks-to-steven-neiland.htm)
-* [Thin controllers, fat models](https://stackoverflow.com/a/14045514/1461181)
-* [MVC for advanced PHP developers](https://stackoverflow.com/questions/16356420/mvc-for-advanced-php-developers/16356866#16356866)
-* [A Better Understanding Of MVC](https://www.bennadel.com/blog/2379-a-better-understanding-of-mvc-model-view-controller-thanks-to-steven-neiland.htm)
 
 ## Best Practices
 
@@ -276,7 +257,29 @@ Most frameworks in PHP follow some sort of MVC structure. The theory is simple:
 * [Clean Code PHP](https://github.com/jupeter/clean-code-php)
 * [Object Calisthenics](https://medium.com/web-engineering-vox/improving-code-quality-with-object-calisthenics-aa4ad67a61f1#.ggel1wt46)
 
-## Database basics
+## Model-View-Controller
+
+Most frameworks in PHP follow some sort of MVC structure. The theory is simple:
+
+> The user interfaces with the view,
+> which passes information to a controller.
+> The controller then passes that information to a model (layer),
+> and the model passes information back to the controller.
+> The controller effectively stands between the view and the model.
+> *(Brandon James Savage)*
+
+* [MVC Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+* [MVC in simpler terms or the structure of a modern web-application](https://phpdelusions.net/articles/mvc)
+* [MVC overview](https://www.reddit.com/r/PHP/comments/5w3k8h/getting_started_with_symfony/de72hg6/)
+* [MVC for Noobs](https://code.tutsplus.com/tutorials/mvc-for-noobs--net-10488)
+* [A Better Understanding Of MVC](https://www.bennadel.com/blog/2379-a-better-understanding-of-mvc-model-view-controller-thanks-to-steven-neiland.htm)
+* [Thin controllers, fat models](https://stackoverflow.com/a/14045514/1461181)
+* [MVC for advanced PHP developers](https://stackoverflow.com/questions/16356420/mvc-for-advanced-php-developers/16356866#16356866)
+* [A Better Understanding Of MVC](https://www.bennadel.com/blog/2379-a-better-understanding-of-mvc-model-view-controller-thanks-to-steven-neiland.htm)
+
+## Database
+
+### Database basics
 
 * [Database](https://en.wikipedia.org/wiki/Database)
 * [Database model](https://en.wikipedia.org/wiki/Database_model)
@@ -288,7 +291,7 @@ Most frameworks in PHP follow some sort of MVC structure. The theory is simple:
 * [Datenbank-Grundlagen Tutorial](https://www.youtube.com/watch?v=dLXZYr-o4T4) (german)
 * [Datenbank-Grundlagen Tutorial: Primärschlüssel](https://www.youtube.com/watch?v=Mpkg0RnkMkw) (german)
 
-## Relational database management system (RDBMS)
+### Relational database management system (RDBMS)
 
 * [MySQL](https://en.wikipedia.org/wiki/MySQL)
 * [MySQL website](https://dev.mysql.com/downloads/mysql/)
@@ -298,11 +301,11 @@ Most frameworks in PHP follow some sort of MVC structure. The theory is simple:
 * [Oracle](https://en.wikipedia.org/wiki/Oracle_Database)
 * [SQLite](https://en.wikipedia.org/wiki/SQLite)
 
-## Database books
+### Database books
 
 * [High Performance MySQL: Optimization, Backups, and Replication](https://www.amazon.com/High-Performance-MySQL-Optimization-Replication/dp/1449314287/?tag=28031982-21)
 
-## Database normalization
+### Database normalization
 
 > Bad programmers worry about the code. Good programmers worry about data structures and their relationships.
 
@@ -315,20 +318,20 @@ Most frameworks in PHP follow some sort of MVC structure. The theory is simple:
 * [Normalisierung](http://www.datenbanken-verstehen.de/datenbanken/datenmodellierung/normalisierung/) (german)
 * [MySQL - Normalisierung](https://www.peterkropff.de/site/mysql/normalisierung.htm) (german)
  
-## Prepared Statements
+### Prepared Statements
 
 * [Prepared statement](https://en.wikipedia.org/wiki/Prepared_statement)
 * [Prepared statements - Protection from SQL injections](https://phpdelusions.net/pdo#prepared)
 * [PHP Prepared Statements](https://www.w3schools.com/php/php_mysql_prepared_statements.asp)
  
-## Database libraries
+### Database libraries
 
 * [CakePHP QueryBuilder](https://github.com/cakephp/database#query-builder)
 * [Illuminate (Laravel) Query Builder](https://github.com/illuminate/database)
 * [Laminas DB Query Builder](https://docs.laminas.dev/laminas-db/)
 * [Phinx - database migrations](https://phinx.org/)
 
-## Database tools
+### Database tools
 
 * [SQLyog Community Edition](https://github.com/webyog/sqlyog-community/wiki/Downloads)
 * [SQLyog](https://www.webyog.com/product/sqlyog) - The most complete and easy to use MySQL GUI
@@ -338,7 +341,7 @@ Most frameworks in PHP follow some sort of MVC structure. The theory is simple:
 * [Navicat](https://www.navicat.com/en/products/navicat-for-mysql)
 * [DBeaver](https://dbeaver.io/)
 
-## NoSQL
+### NoSQL
 
 * [NoSQL](https://en.wikipedia.org/wiki/NoSQL)
 * [Redis](https://redis.io/) (In-memory data structure store, used as a database, cache and message broker)
