@@ -23,7 +23,7 @@ A curated list of resources for [PHP](https://php.net/)
   * [Frameworks](#frameworks)
   * [Micro Frameworks](#micro-frameworks)
   * [Libraries](#libraries)
-* [Templating](#templating)
+* [Templates](#templates)
 * [OOP](#oop)
   * [Object-oriented programming](#object-oriented-programming)
   * [Design patterns](#design-patterns)
@@ -183,7 +183,7 @@ A curated list of resources for [PHP](https://php.net/)
 
 * [Awesome PHP libraries](https://github.com/ziadoz/awesome-php)
 
-## Templating
+## Templates
 
 * [Twig](https://twig.symfony.com/) (The flexible, fast, and secure template engine for PHP)
 * [Plates](https://platesphp.com/) (A native PHP template system)
