@@ -8,11 +8,10 @@ A curated list of resources for [PHP](https://php.net/)
 
 * [Must read](#must-read)
 * [Tutorials](#tutorials)
-* [Videos](#videos)
 * [Books](#books)
 * [Online Course](#online-course)
 * [Reference](#reference)
-* The basics
+* [The basics](#the-basics)
   * [LAMP: Linux, Apache, MySql, PHP](#lamp-linux-apache-mysql-php)
   * [HTML / HTML 5](#html--html-5)
   * [CSS](#css)
@@ -20,17 +19,15 @@ A curated list of resources for [PHP](https://php.net/)
   * [Protocols](#protocols)
 * [Tools](#tools)
 * [IDEs](#ides)
-* [Graphic tools](#graphic-tools)
-* [Frontend](#frontend)
 * [Templating](#templating)
 * Frameworks and libraries
   * [Frameworks](#frameworks)
   * [Micro Frameworks](#micro-frameworks)
   * [Libraries](#libraries)
-* OOP
-  * [Model-View-Controller](#model-view-controller)
+* [OOP](#oop)
   * [Object-oriented programming](#object-oriented-programming)
   * [Design patterns](#design-patterns)
+  * [Model-View-Controller](#model-view-controller)  
   * [Best Practices](#best-practices)
 * Database
   * [Database basics](#database-basics)
@@ -39,7 +36,6 @@ A curated list of resources for [PHP](https://php.net/)
   * [Database normalization](#database-normalization)
   * [Prepared Statements](#prepared-statements)
   * [NoSQL](#nosql)
-  * [Database tutorials](#database-tutorial)
   * [Database libraries](#database-libraries)
   * [Database tools](#database-tools)
 * [Standards](#standards)
@@ -75,13 +71,8 @@ A curated list of resources for [PHP](https://php.net/)
 
 * [Laravel PHP Practitioner](https://laracasts.com/skills/php) (Free)
 * [PHP Pandas](https://daylerees.com/php-pandas/)
-* [Tutorialspoint PHP](https://www.tutorialspoint.com/php/)
 * [Learn PHP in Y minutes](https://learnxinyminutes.com/docs/php/)
 * [PHP Apprentice](https://phpapprentice.com/)
-
-## Videos
-
-* [Codecourse](https://www.youtube.com/codecourse/videos)
 
 ## Books
 
@@ -89,10 +80,13 @@ A curated list of resources for [PHP](https://php.net/)
 * **[PHP 7 Zend Certification Study Guide](https://www.amazon.com/PHP-Zend-Certification-Study-Guide/dp/1484232453/?tag=28031982-21)**
 * [Modern PHP: New Features and Good Practices](https://www.amazon.de/gp/product/1491905018/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=1491905018&linkCode=as2&tag=28031982-21)
 * [Learning PHP 7](http://shop.oreilly.com/product/9781785880544.do)
+* [Learn PHP 8: Using MySQL, JavaScript, CSS3, and HTML5](https://amzn.to/3oyKj2O)
+* [PHP 8 Quick Scripting Reference: A Pocket Guide to PHP Web Scripting](https://amzn.to/3bpTpex)
 
 ## Online Course
 
 * [CodeAcademy - Learn PHP](https://www.codecademy.com/learn/learn-php)
+* [Codecourse](https://www.youtube.com/codecourse/videos)  
 * [Exercism - PHP](https://exercism.io/tracks/php) (Code practice and mentorship)
 * [SymfonyCasts - Build something amazing with PHP](https://symfonycasts.com/tracks/php)
 * [Treehouse - Learn PHP](https://teamtreehouse.com/learn-to-code/php)
@@ -104,6 +98,8 @@ A curated list of resources for [PHP](https://php.net/)
 * [Modern PHP Cheat Sheet](https://front-line-php.com/cheat-sheet)
 * [PHP Manual](https://secure.php.net/manual/en/index.php)
 * [PHP cheatsheet](https://quickref.me/php)
+
+## The basics
 
 ### LAMP: Linux, Apache, MySql, PHP
 
@@ -170,22 +166,6 @@ The [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack:
 * [Netbeans](https://netbeans.org/features/php/)
 * [Visual Studio Code](https://code.visualstudio.com/docs/languages/php)
 
-## Graphic tools
-
-* [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) ($)
-* [Gimp](https://www.gimp.org/)
-* [IrfanView](https://www.irfanview.com/)
-* [Sketch](https://www.sketchapp.com/) ($)
-
-## Frontend
-
-* [Angular](https://angular.io/)
-* [Bootstrap](https://getbootstrap.com/) (The most popular HTML, CSS, and JS framework in the world)
-* [Font Awesome](https://fontawesome.com/) (The web’s most popular icon set)
-* [jQuery](https://jquery.com/) (The most widely deployed JavaScript library, DOM manipulation, Ajax)
-* [React](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-
 ## Templating
 
 * [Twig](https://twig.symfony.com/) (The flexible, fast, and secure template engine for PHP)
@@ -203,32 +183,15 @@ The [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) stack:
 ## Micro Frameworks
 
 * [Slim Framework](https://www.slimframework.com/) (A PHP micro framework that helps you quickly write simple yet powerful web applications and APIs)
+* [Slim Framework 4 - Tutorial](https://odan.github.io/2019/11/05/slim4-tutorial.html)
 
 ## Libraries
 
 * [Awesome PHP libraries](https://github.com/ziadoz/awesome-php)
 
-## Model-View-Controller
+## OOP
 
-Most frameworks in PHP follow some sort of MVC structure. The theory is simple: 
-
-> The user interfaces with the view, 
-> which passes information to a controller. 
-> The controller then passes that information to a model (layer), 
-> and the model passes information back to the controller. 
-> The controller effectively stands between the view and the model.
-> *(Brandon James Savage)*
-
-* [MVC Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
-* [MVC in simpler terms or the structure of a modern web-application](https://phpdelusions.net/articles/mvc)
-* [MVC overview](https://www.reddit.com/r/PHP/comments/5w3k8h/getting_started_with_symfony/de72hg6/)
-* [MVC for Noobs](https://code.tutsplus.com/tutorials/mvc-for-noobs--net-10488)
-* [A Better Understanding Of MVC](https://www.bennadel.com/blog/2379-a-better-understanding-of-mvc-model-view-controller-thanks-to-steven-neiland.htm)
-* [Thin controllers, fat models](https://stackoverflow.com/a/14045514/1461181)
-* [MVC for advanced PHP developers](https://stackoverflow.com/questions/16356420/mvc-for-advanced-php-developers/16356866#16356866)
-* [A Better Understanding Of MVC](https://www.bennadel.com/blog/2379-a-better-understanding-of-mvc-model-view-controller-thanks-to-steven-neiland.htm)
-
-## Object-oriented programming
+### Object-oriented programming
 
 > "Write shy code - <br>
 > modules that don't reveal anything unnecessary to other <br>
@@ -242,7 +205,7 @@ Most frameworks in PHP follow some sort of MVC structure. The theory is simple:
 * [Learning OOP in PHP](https://github.com/marcelgsantos/learning-oop-in-php)
 * [Style Guide for Object Design](https://leanpub.com/object-design/) (eBook)
 
-## Design patterns
+### Design patterns
 
 * [Design Patterns in PHP](https://www.script-tutorials.com/design-patterns-in-php/)
 * [Gang of Four Design Patterns](https://www.amazon.com/gp/product/B000SEIBB8?ie=UTF8&tag=28031982-21&camp=1638&linkCode=xm2&creativeASIN=B000SEIBB8) (Book)
@@ -250,6 +213,26 @@ Most frameworks in PHP follow some sort of MVC structure. The theory is simple:
 * [DesignPatternsPHP](https://designpatternsphp.readthedocs.io/)
 * [Several design patterns in PHP](https://github.com/domnikl/DesignPatternsPHP)
 * [Design Patterns in PHP Course](https://www.youtube.com/playlist?list=PLplJltxWVIbLVL3ZX3I6b_uvBsnYVaRJn) (Video)
+
+## Model-View-Controller
+
+Most frameworks in PHP follow some sort of MVC structure. The theory is simple:
+
+> The user interfaces with the view,
+> which passes information to a controller.
+> The controller then passes that information to a model (layer),
+> and the model passes information back to the controller.
+> The controller effectively stands between the view and the model.
+> *(Brandon James Savage)*
+
+* [MVC Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+* [MVC in simpler terms or the structure of a modern web-application](https://phpdelusions.net/articles/mvc)
+* [MVC overview](https://www.reddit.com/r/PHP/comments/5w3k8h/getting_started_with_symfony/de72hg6/)
+* [MVC for Noobs](https://code.tutsplus.com/tutorials/mvc-for-noobs--net-10488)
+* [A Better Understanding Of MVC](https://www.bennadel.com/blog/2379-a-better-understanding-of-mvc-model-view-controller-thanks-to-steven-neiland.htm)
+* [Thin controllers, fat models](https://stackoverflow.com/a/14045514/1461181)
+* [MVC for advanced PHP developers](https://stackoverflow.com/questions/16356420/mvc-for-advanced-php-developers/16356866#16356866)
+* [A Better Understanding Of MVC](https://www.bennadel.com/blog/2379-a-better-understanding-of-mvc-model-view-controller-thanks-to-steven-neiland.htm)
 
 ## Best Practices
 
@@ -477,8 +460,8 @@ PHPdoc is intended for documenting your code. The intention is that you always a
 * [What is version control](https://www.atlassian.com/git/tutorials/what-is-version-control)
 * **[Github](https://github.com)**
 * [Resources to learn Git](https://try.github.io/)
-* [gittutorial - A tutorial introduction to Git](https://git-scm.com/docs/gittutorial)
-* [git - the simple guide](https://rogerdudler.github.io/git-guide/)
+* [A tutorial introduction to Git](https://git-scm.com/docs/gittutorial)
+* [Git - The simple guide](https://rogerdudler.github.io/git-guide/)
 * [The Pro Git book](https://git-scm.com/book/en/v2)
 
 ## Security
@@ -495,8 +478,8 @@ PHPdoc is intended for documenting your code. The intention is that you always a
 
 ## Architecture
 
-* [Unclebob’s “Clean Architecture” book](https://www.amazon.com/gp/product/B075LRM681/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B075LRM681&linkCode=as2&tag=28031982-21&linkId=677aa0dda24a02b6b106a7552cee6669)
-* [Patterns of Enterprise Application Architecture - Martin Fowler](https://www.amazon.com/gp/product/B008OHVDFM?ie=UTF8&tag=28031982-21&camp=1638&linkCode=xm2&creativeASIN=B008OHVDFM)
+* [Unclebob’s “Clean Architecture” book](https://www.amazon.com/gp/product/B075LRM681?tag=28031982-21)
+* [Patterns of Enterprise Application Architecture - Martin Fowler](https://www.amazon.com/gp/product/B008OHVDFM?tag=28031982-21)
 * [The Onion Architecture Part 1](https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/)
 * [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 * [Creating services you won’t hate](https://www.brandonsavage.net/creating-services-you-wont-hate/)
@@ -505,8 +488,8 @@ PHPdoc is intended for documenting your code. The intention is that you always a
 ## Domain Driven Design (DDD)
 
 * [DDD for beginners](https://speakerdeck.com/akrabat/ddd-for-beginners)
-* [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/gp/product/0321125215/ref=as_li_tl?ie=UTF8&tag=28031982-21&camp=1638&creative=6742&linkCode=as2&creativeASIN=0321125215&linkId=16ec2c3b5f11f8f3b4e152c4a25b22c3) (The Blue Book)
-* [Implementing Domain-Driven Design](https://www.amazon.com/gp/product/0321834577/ref=as_li_tl?ie=UTF8&tag=28031982-21&camp=1638&creative=6742&linkCode=as2&creativeASIN=0321834577&linkId=eb63c6ebb30257011280bf1eab89f1db) (The Red Book)
+* [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/gp/product/0321125215/ref=as_li_tl?ie=UTF8&tag=28031982-21) (The Blue Book)
+* [Implementing Domain-Driven Design](https://www.amazon.com/gp/product/0321834577?tag=28031982-21) (The Red Book)
 * [Design a DDD-oriented microservice](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/ddd-oriented-microservice)
 * [Domain-Driven	Design Reference](https://amzn.to/2Xq4eEH) (A summary of the patterns and definitions of DDD, [PDF](https://domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf))
 * [Services in Domain-Driven Design](http://gorodinski.com/blog/2012/04/14/services-in-domain-driven-design-ddd/)
