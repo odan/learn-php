@@ -10,7 +10,7 @@ A curated list of resources for [PHP](https://php.net/)
 * [Tutorials](#tutorials)
 * [Videos](#videos)
 * [Books](#books)
-* [Online schools](#online-schools)
+* [Online Course](#online-course)
 * [Reference](#reference)
 * The basics
   * [LAMP: Linux, Apache, MySql, PHP](#lamp-linux-apache-mysql-php)
@@ -23,7 +23,6 @@ A curated list of resources for [PHP](https://php.net/)
 * [Graphic tools](#graphic-tools)
 * [Frontend](#frontend)
 * [Templating](#templating)
-* [Webdesign](#webdesign)
 * Frameworks and libraries
   * [Frameworks](#frameworks)
   * [Micro Frameworks](#micro-frameworks)
@@ -91,7 +90,7 @@ A curated list of resources for [PHP](https://php.net/)
 * [Modern PHP: New Features and Good Practices](https://www.amazon.de/gp/product/1491905018/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=1491905018&linkCode=as2&tag=28031982-21)
 * [Learning PHP 7](http://shop.oreilly.com/product/9781785880544.do)
 
-## Online schools
+## Online Course
 
 * [CodeAcademy - Learn PHP](https://www.codecademy.com/learn/learn-php)
 * [Exercism - PHP](https://exercism.io/tracks/php) (Code practice and mentorship)
@@ -104,6 +103,7 @@ A curated list of resources for [PHP](https://php.net/)
 * [Language Reference](https://secure.php.net/manual/en/langref.php)
 * [Modern PHP Cheat Sheet](https://front-line-php.com/cheat-sheet)
 * [PHP Manual](https://secure.php.net/manual/en/index.php)
+* [PHP cheatsheet](https://quickref.me/php)
 
 ### LAMP: Linux, Apache, MySql, PHP
 
