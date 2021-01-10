@@ -19,11 +19,11 @@ A curated list of resources for [PHP](https://php.net/)
   * [Protocols](#protocols)
 * [Tools](#tools)
 * [IDEs](#ides)
-* [Templating](#templating)
 * [Frameworks and libraries](#frameworks-and-libraries)
   * [Frameworks](#frameworks)
   * [Micro Frameworks](#micro-frameworks)
   * [Libraries](#libraries)
+* [Templating](#templating)
 * [OOP](#oop)
   * [Object-oriented programming](#object-oriented-programming)
   * [Design patterns](#design-patterns)
@@ -165,13 +165,6 @@ A curated list of resources for [PHP](https://php.net/)
 * [Netbeans](https://netbeans.org/features/php/)
 * [Visual Studio Code](https://code.visualstudio.com/docs/languages/php)
 
-## Templating
-
-* [Twig](https://twig.symfony.com/) (The flexible, fast, and secure template engine for PHP)
-* [Plates](https://platesphp.com/) (A native PHP template system)
-* [Symfony versus Flat PHP](https://symfony.com/doc/current/introduction/from_flat_php_to_symfony2.html)
-* [Twig – the Most Popular Stand-Alone PHP Template Engine](https://www.sitepoint.com/twig-popular-stand-alone-php-template-engine/)
-
 ## Frameworks and libraries
 
 ### Frameworks
@@ -189,6 +182,13 @@ A curated list of resources for [PHP](https://php.net/)
 ### Libraries
 
 * [Awesome PHP libraries](https://github.com/ziadoz/awesome-php)
+
+## Templating
+
+* [Twig](https://twig.symfony.com/) (The flexible, fast, and secure template engine for PHP)
+* [Plates](https://platesphp.com/) (A native PHP template system)
+* [Symfony versus Flat PHP](https://symfony.com/doc/current/introduction/from_flat_php_to_symfony2.html)
+* [Twig – the Most Popular Stand-Alone PHP Template Engine](https://www.sitepoint.com/twig-popular-stand-alone-php-template-engine/)
 
 ## OOP
 
