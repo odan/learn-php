@@ -200,6 +200,7 @@ A curated list of resources for [PHP](https://php.net/)
 > modules that don't reveal anything unnecessary to other <br>
 > modules and that don't rely on other modules' implementations."
 
+* [Object-Oriented Principles in PHP](https://laracasts.com/series/object-oriented-principles-in-php)
 * [Classes and Objects](https://secure.php.net/manual/en/language.oop5.php)
 * [Mastering Object Oriented PHP](http://www.masteringobjectorientedphp.com/) (eBook) 
 * [Objektorientierte Programmierung](https://www.php-einfach.de/experte/objektorientierte-programmierung-oop/) (german)
@@ -209,6 +210,7 @@ A curated list of resources for [PHP](https://php.net/)
 
 ### Design patterns
 
+* [Design Patterns in PHP (Laracasts)](https://laracasts.com/series/design-patterns-in-php)
 * [Design Patterns in PHP](https://www.script-tutorials.com/design-patterns-in-php/)
 * [Gang of Four Design Patterns](https://www.amazon.com/gp/product/B000SEIBB8?ie=UTF8&tag=28031982-21&camp=1638&linkCode=xm2&creativeASIN=B000SEIBB8) (Book)
 * [Design Patterns for Humans™](https://github.com/kamranahmedse/design-patterns-for-humans)
@@ -241,6 +243,8 @@ A curated list of resources for [PHP](https://php.net/)
 * [KISS principle](https://people.apache.org/~fhanik/kiss.html)
 
 ### YAGNI 
+
+> You Ain't Gonna Need It
 
 * [YAGNI](https://deviq.com/yagni/)
 * [You Arent Gonna Need It](http://c2.com/xp/YouArentGonnaNeedIt.html)
@@ -344,12 +348,12 @@ Most frameworks in PHP follow some sort of MVC structure. The theory is simple:
 
 ### Database tools
 
-* [SQLyog Community Edition](https://github.com/webyog/sqlyog-community/wiki/Downloads)
-* [SQLyog](https://www.webyog.com/product/sqlyog) - The most complete and easy to use MySQL GUI
+* [SQLyog Community Edition](https://github.com/webyog/sqlyog-community/wiki/Downloads) (free)
+* [SQLyog](https://www.webyog.com/product/sqlyog) - The most complete and easy to use MySQL GUI ($)
 * [MySQL Workbench](https://www.mysql.com/products/workbench/)
 * [HeidiSQL](https://www.heidisql.com/)
 * [SequelPro](https://www.sequelpro.com/)
-* [Navicat](https://www.navicat.com/en/products/navicat-for-mysql)
+* [Navicat](https://www.navicat.com/en/products/navicat-for-mysql) ($)
 * [DBeaver](https://dbeaver.io/)
 
 ### NoSQL
@@ -384,7 +388,8 @@ Follow common PHP conventions for object-oriented code, and established industry
 ## Debugging
 
 * [Xdebug](https://xdebug.org/) (Debugger)
-* [Installing Xdebug for XAMPP](https://gist.github.com/odan/1abe76d373a9cbb15bed)
+* [XAMPP - XDebug Setup for PHP 7](https://gist.github.com/odan/1abe76d373a9cbb15bed)
+* [XAMPP - XDebug Setup for PHP 8](https://odan.github.io/2020/12/03/xampp-xdebug-setup-php8.html)
 
 ## Unit testing
 
