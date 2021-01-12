@@ -27,7 +27,9 @@ A curated list of resources for [PHP](https://php.net/)
 * [OOP](#oop)
   * [Object-oriented programming](#object-oriented-programming)
   * [Design patterns](#design-patterns)
-  * [Best Practices](#best-practices)
+  * [SOLID](#solid)
+  * [Dependency injection](#dependency-injection)  
+* [Best Practices](#best-practices)
 * [Model-View-Controller](#model-view-controller)
 * [Database](#database)
   * [Database basics](#database-basics)
@@ -43,9 +45,8 @@ A curated list of resources for [PHP](https://php.net/)
 * [Debugging](#debugging)
 * [Unit testing](#unit-testing)
 * [Documentation](#documentation)
-* [PHP Sessions](#php-sessions)
+* [Sessions](#sessions)
 * [Text translations](#text-translations)
-* [Dependency injection](#dependency-injection)
 * [Regular Expressions](#regular-expressions)
 * [XML](#xml)
 * [API](#api)
@@ -203,7 +204,6 @@ A curated list of resources for [PHP](https://php.net/)
 * [Mastering Object Oriented PHP](http://www.masteringobjectorientedphp.com/) (eBook) 
 * [Objektorientierte Programmierung](https://www.php-einfach.de/experte/objektorientierte-programmierung-oop/) (german)
 * [Object-Oriented Bootcamp](https://laracasts.com/series/object-oriented-bootcamp-in-php)
-* [SOLID Principles in PHP](https://laracasts.com/series/solid-principles-in-php)
 * [Learning OOP in PHP](https://github.com/marcelgsantos/learning-oop-in-php)
 * [Style Guide for Object Design](https://leanpub.com/object-design/) (eBook)
 
@@ -215,6 +215,20 @@ A curated list of resources for [PHP](https://php.net/)
 * [DesignPatternsPHP](https://designpatternsphp.readthedocs.io/)
 * [Several design patterns in PHP](https://github.com/domnikl/DesignPatternsPHP)
 * [Design Patterns in PHP Course](https://www.youtube.com/playlist?list=PLplJltxWVIbLVL3ZX3I6b_uvBsnYVaRJn) (Video)
+
+### SOLID
+
+* [SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
+* [SOLID Principles in PHP](https://laracasts.com/series/solid-principles-in-php)
+* [The First 5 Principles of Object Oriented Design](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+* [How to write SOLID code that doesn’t suck](https://medium.com/web-engineering-vox/how-to-write-solid-code-that-doesnt-suck-2a3416623d48#.61pr1ym4b)
+
+### Dependency injection
+
+* [An Introduction to Dependency Injection](https://joebubna.github.io/Cora/documentation/v2/dependency-injection/overview/)
+* [What is Dependency Injection?](http://fabien.potencier.org/what-is-dependency-injection.html)
+* [The Clean Code Talks - Don't Look For Things!](https://www.youtube.com/watch?v=RlfLCWKxHJ0) (Video)
+* [PSR-11: Container interface](https://www.php-fig.org/psr/psr-11/)
 
 ## Best Practices
 
@@ -237,15 +251,9 @@ A curated list of resources for [PHP](https://php.net/)
 
 > "DRY ‐ Don't Repeat Yourself<br>
 > Every piece of knowledge must have a single, <br>
-> unambiguous, athoritative representation within a system."
+> unambiguous, authoritative representation within a system."
 
 * [Don’t repeat yourself (DRY)](https://en.wikipedia.org/wiki/Don't_repeat_yourself)
-
-### SOLID
-
-* [SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
-* [The First 5 Principles of Object Oriented Design](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design) 
-* [How to write SOLID code that doesn’t suck](https://medium.com/web-engineering-vox/how-to-write-solid-code-that-doesnt-suck-2a3416623d48#.61pr1ym4b)
 
 ### Other
 
@@ -277,6 +285,8 @@ Most frameworks in PHP follow some sort of MVC structure. The theory is simple:
 * [Thin controllers, fat models](https://stackoverflow.com/a/14045514/1461181)
 * [MVC for advanced PHP developers](https://stackoverflow.com/questions/16356420/mvc-for-advanced-php-developers/16356866#16356866)
 * [A Better Understanding Of MVC](https://www.bennadel.com/blog/2379-a-better-understanding-of-mvc-model-view-controller-thanks-to-steven-neiland.htm)
+* [MVC model 2](https://en.wikipedia.org/wiki/JSP_model_2_architecture)
+* [Action Domain Responder (ADR)](https://en.wikipedia.org/wiki/Action%E2%80%93domain%E2%80%93responder)
 
 ## Database
 
@@ -408,7 +418,7 @@ PHPdoc is intended for documenting your code. The intention is that you always a
 * [Anatomy of a DocBlock](https://phpdoc.org/docs/latest/guides/docblocks.html)
 * [Your First Set of Documentation](https://phpdoc.org/docs/latest/getting-started/your-first-set-of-documentation.html)
 
-## PHP Sessions
+## Sessions
 
 * [PHP Sessions](https://www.w3schools.com/php/php_sessions.asp)
 * [Session Handling](https://secure.php.net/manual/en/book.session.php)
@@ -421,13 +431,6 @@ PHPdoc is intended for documenting your code. The intention is that you always a
 * [Internationalization and localization](https://en.wikipedia.org/wiki/Internationalization_and_localization) (i18n)
 * [Symfony: The Translation Component](https://symfony.com/doc/current/components/translation.html)
 * [PoEdit](https://poedit.net/) Gettext Translations Editor
-
-## Dependency injection
-
-* [An Introduction to Dependency Injection](https://joebubna.github.io/Cora/documentation/v2/dependency-injection/overview/)
-* [What is Dependency Injection?](http://fabien.potencier.org/what-is-dependency-injection.html)
-* [The Clean Code Talks - Don't Look For Things!](https://www.youtube.com/watch?v=RlfLCWKxHJ0) (Video)
-* [PSR-11: Container interface](https://www.php-fig.org/psr/psr-11/)
 
 ## Regular Expressions
 
@@ -482,11 +485,10 @@ PHPdoc is intended for documenting your code. The intention is that you always a
 
 ## Architecture
 
-* [Unclebob’s “Clean Architecture” book](https://www.amazon.com/gp/product/B075LRM681?tag=28031982-21)
+* [Uncle Bob’s "Clean Architecture"](https://www.amazon.com/gp/product/B075LRM681?tag=28031982-21) (book)
+* [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 * [Patterns of Enterprise Application Architecture - Martin Fowler](https://www.amazon.com/gp/product/B008OHVDFM?tag=28031982-21)
 * [The Onion Architecture Part 1](https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/)
-* [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
-* [Creating services you won’t hate](https://www.brandonsavage.net/creating-services-you-wont-hate/)
 * [A Journey Toward Clean Code and Enjoyment](https://youtu.be/wInd6_aMqvg) - Agility, TDD, OOP Patterns, MVC, Framework De-Coupling 
 
 ## Domain Driven Design (DDD)
@@ -497,6 +499,7 @@ PHPdoc is intended for documenting your code. The intention is that you always a
 * [Design a DDD-oriented microservice](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/ddd-oriented-microservice)
 * [Domain-Driven	Design Reference](https://amzn.to/2Xq4eEH) (A summary of the patterns and definitions of DDD, [PDF](https://domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf))
 * [Services in Domain-Driven Design](http://gorodinski.com/blog/2012/04/14/services-in-domain-driven-design-ddd/)
+* [Creating services you won’t hate](https://www.brandonsavage.net/creating-services-you-wont-hate/)
 
 ## Hexagonal Architecture
 
@@ -513,7 +516,7 @@ PHPdoc is intended for documenting your code. The intention is that you always a
 
 ## Continuous integration (CI) and Continuous Delivery (CD)
 
-* [Continuous Delivery](https://www.amazon.com/gp/product/B003YMNVC0/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B003YMNVC0&linkCode=as2&tag=28031982-21) (Book)
+* [Continuous Delivery](https://www.amazon.com/gp/product/B003YMNVC0/?tag=28031982-21) (Book)
 * [Continuously delivering PHP projects](https://www.youtube.com/watch?v=HOwPJg-F4h0) (Video)
 * [Continuous Integration vs. Continuous Delivery vs. Continuous Deployment](https://stackoverflow.com/a/28628086/1461181) 
 * [What’s Continuous Deployment?](https://www.sitepoint.com/whats-continuous-deployment/)
