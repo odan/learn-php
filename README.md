@@ -60,6 +60,7 @@ A curated list of resources for [PHP](https://php.net/)
 * [Functional Programming](#functional-programming)
 * [Continuous integration and Continuous Delivery](#continuous-integration-ci-and-continuous-delivery-cd)
 * [Magazines](#magazines)
+* [Merchandise](#merchandise)  
 * [Community and News](#community--news)
 
 
@@ -533,6 +534,13 @@ PHPdoc is intended for documenting your code. The intention is that you always a
 * [php architect](https://www.phparch.com/magazine/) (english)
 * [PHPmagazin](https://entwickler.de/php-magazin) (german)
 * [web & mobile developer](https://shop.nmg.de/webundmobile/) (german)
+
+## Merchandise
+
+* [The Official elephpant Shop - Boutique elePHPant](https://www.vincentpontier.com/elephpant/)
+* [PHPUnit Merchandise](https://phpunit.de/merchandise.html)
+* [PHP Stickers](https://www.redbubble.com/de/shop/php)
+* [Symfony store](https://shop.symfony.com/)
 
 ## Community / News
 
