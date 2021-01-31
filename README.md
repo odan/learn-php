@@ -85,6 +85,7 @@ A curated list of resources for [PHP](https://php.net/)
 * [Learning PHP 7](http://shop.oreilly.com/product/9781785880544.do)
 * [Learn PHP 8: Using MySQL, JavaScript, CSS3, and HTML5](https://amzn.to/3oyKj2O)
 * [PHP 8 Quick Scripting Reference: A Pocket Guide to PHP Web Scripting](https://amzn.to/3bpTpex)
+* [Programming PHP](https://www.oreilly.com/library/view/programming-php-4th/9781492054122/) (O'Reilly Media)
 
 ## Online Course
 
@@ -310,15 +311,16 @@ Most frameworks in PHP follow some sort of MVC structure. The theory is simple:
 ### Relational database management system (RDBMS)
 
 * [MySQL](https://en.wikipedia.org/wiki/MySQL)
-* [MySQL website](https://dev.mysql.com/downloads/mysql/)
+  * [MySQL website](https://dev.mysql.com/downloads/mysql/)
 * [MariaDB](https://en.wikipedia.org/wiki/MariaDB)
-* [MariaDB website](https://mariadb.org/)
+  * [MariaDB website](https://mariadb.org/)
 * [Microsoft SQL Server](https://en.wikipedia.org/wiki/Microsoft_SQL_Server)
 * [Oracle](https://en.wikipedia.org/wiki/Oracle_Database)
 * [SQLite](https://en.wikipedia.org/wiki/SQLite)
 
 ### Database books
 
+* [Free MySQL Book](https://books.goalkicker.com/MySQLBook/)
 * [High Performance MySQL: Optimization, Backups, and Replication](https://www.amazon.com/High-Performance-MySQL-Optimization-Replication/dp/1449314287/?tag=28031982-21)
 
 ### Database normalization
