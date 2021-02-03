@@ -12,6 +12,7 @@ A curated list of resources for [PHP](https://php.net/)
 * [Online Course](#online-course)
 * [Reference](#reference)
 * [The basics](#the-basics)
+  * [PHP Basics](#php-basics)
   * [The LAMP stack](#the-lamp-stack)
   * [HTML / HTML 5](#html--html-5)
   * [CSS](#css)
@@ -102,8 +103,17 @@ A curated list of resources for [PHP](https://php.net/)
 * [Modern PHP Cheat Sheet](https://front-line-php.com/cheat-sheet)
 * [PHP Manual](https://secure.php.net/manual/en/index.php)
 * [PHP cheatsheet](https://quickref.me/php)
-
+  
 ## The basics
+
+### PHP Basics
+
+* [Getting Started with PHP](https://www.codecademy.com/learn/learn-php/modules/getting-started-with-php)
+* [PHP Data Types](https://www.tutorialrepublic.com/php-tutorial/php-data-types.php)
+* [PHP Loops](https://www.tutorialrepublic.com/php-tutorial/php-loops.php)
+* [Array basics](https://lukashajdu.com/post/mastering-php-arrays-array-basics/)
+* [Working with Arrays](https://www.oreilly.com/library/view/learning-php-5/0596005601/ch04.html)
+* [PHP GET and POST](https://www.tutorialrepublic.com/php-tutorial/php-get-and-post.php)
 
 ### The LAMP stack
 
