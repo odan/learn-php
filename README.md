@@ -232,6 +232,9 @@ A curated list of resources for [PHP](https://php.net/)
 
 ### SOLID
 
+> SOLID is a mnemonic acronym for five design principles intended 
+> to make software designs more understandable, flexible and maintainable
+
 * [SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
 * [SOLID Principles in PHP](https://laracasts.com/series/solid-principles-in-php)
 * [The First 5 Principles of Object Oriented Design](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
