@@ -563,6 +563,7 @@ PHPdoc is intended for documenting your code. The intention is that you always a
 * [r/PHP](https://www.reddit.com/r/PHP/) 
 * [r/PHPhelp](https://www.reddit.com/r/PHPhelp/)
 * [PHP on dev.to](https://dev.to/t/php)
+* [Hashnode/php](https://hashnode.com/n/php)  
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/php)
 * [PHP weekly newsletter](http://www.phpweekly.com/) 
 * [Freek.dev newsletter](https://freek.dev/newsletter)
@@ -571,3 +572,4 @@ PHPdoc is intended for documenting your code. The intention is that you always a
 * [JetBrains - PHP Annotated Monthly](https://blog.jetbrains.com/phpstorm/category/php-annotated-monthly/)
 * [PHP's internals](https://externals.io/)
 * [PHP-Digest by Roman Pronsky](https://habr.com/ru/users/pronskiy/posts/) (russian)
+* [List of PHP blogs](https://github.com/simon-schubert/devpunk)
