@@ -72,6 +72,7 @@ A curated list of resources for [PHP](https://php.net/)
 
 ## Tutorials
 
+* [learn-php.org](https://www.learn-php.org/)
 * [Learn PHP for experienced developers](https://blog.syntaxseed.com/learn-php-for-experienced-developers/)
 * [Laravel PHP Practitioner](https://laracasts.com/skills/php)
 * [PHP Pandas](https://daylerees.com/php-pandas/)
