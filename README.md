@@ -18,6 +18,7 @@ A curated list of resources for [PHP](https://php.net/)
   * [CSS](#css)
   * [JavaScript](#javascript)
   * [Protocols](#protocols)
+* [Local Development Environments](#local-development-environments)
 * [Tools](#tools)
 * [IDEs](#ides)
 * [Frameworks and libraries](#frameworks-and-libraries)
@@ -72,6 +73,7 @@ A curated list of resources for [PHP](https://php.net/)
 
 ## Tutorials
 
+* [learn-php.org](https://www.learn-php.org/)
 * [Learn PHP for experienced developers](https://blog.syntaxseed.com/learn-php-for-experienced-developers/)
 * [Laravel PHP Practitioner](https://laracasts.com/skills/php)
 * [PHP Pandas](https://daylerees.com/php-pandas/)
@@ -160,6 +162,16 @@ A curated list of resources for [PHP](https://php.net/)
 * [IMAP](https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol)
 * [Ajax](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
 
+## Local Development Environments
+
+* [Docker](https://www.docker.com/) 
+* [EasyPHP Devserver & Webserver](https://www.easyphp.org/easyphp-devserver.php)
+* [Homestead](https://laravel.com/docs/master/homestead)
+* [Laragon](https://laragon.org/)
+* [MAMP](https://www.mamp.info/)
+* [WAMPServer](https://www.wampserver.com/en/)
+* [XAMPP](https://www.apachefriends.org/)
+ 
 ## Tools
 
 * [Webbrowser (Chrome, Firefox, IE)](http://de.wikipedia.org/wiki/Webbrowser)
