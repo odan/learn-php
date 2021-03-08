@@ -18,6 +18,7 @@ A curated list of resources for [PHP](https://php.net/)
   * [CSS](#css)
   * [JavaScript](#javascript)
   * [Protocols](#protocols)
+* [Local Development Environments](#local-development-environments)
 * [Tools](#tools)
 * [IDEs](#ides)
 * [Frameworks and libraries](#frameworks-and-libraries)
@@ -160,6 +161,15 @@ A curated list of resources for [PHP](https://php.net/)
 * [POP3](https://en.wikipedia.org/wiki/Post_Office_Protocol)
 * [IMAP](https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol)
 * [Ajax](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
+
+## Local Development Environments
+
+* [XAMPP](https://www.apachefriends.org/)
+* [Docker](https://www.docker.com/) 
+* [EasyPHP Devserver & Webserver](https://www.easyphp.org/easyphp-devserver.php)
+* [Homestead](https://laravel.com/docs/master/homestead)
+* [WAMPServer](https://www.wampserver.com/en/)
+* [MAMP](https://www.mamp.info/)
 
 ## Tools
 
