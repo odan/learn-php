@@ -164,13 +164,14 @@ A curated list of resources for [PHP](https://php.net/)
 
 ## Local Development Environments
 
-* [XAMPP](https://www.apachefriends.org/)
 * [Docker](https://www.docker.com/) 
 * [EasyPHP Devserver & Webserver](https://www.easyphp.org/easyphp-devserver.php)
 * [Homestead](https://laravel.com/docs/master/homestead)
-* [WAMPServer](https://www.wampserver.com/en/)
+* [Laragon](https://laragon.org/)
 * [MAMP](https://www.mamp.info/)
-
+* [WAMPServer](https://www.wampserver.com/en/)
+* [XAMPP](https://www.apachefriends.org/)
+ 
 ## Tools
 
 * [Webbrowser (Chrome, Firefox, IE)](http://de.wikipedia.org/wiki/Webbrowser)
