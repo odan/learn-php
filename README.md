@@ -272,6 +272,8 @@ A curated list of resources for [PHP](https://php.net/)
 > Every piece of knowledge must have a single, <br>
 > unambiguous, authoritative representation within a system."
 
+> DRY is about having one source of truth. It's not about frantically eradicating duplication from your codebase.
+
 * [Don’t repeat yourself (DRY)](https://en.wikipedia.org/wiki/Don't_repeat_yourself)
 
 ### Other
