@@ -171,6 +171,7 @@ A curated list of resources for [PHP](https://php.net/)
 * [MAMP](https://www.mamp.info/)
 * [WAMPServer](https://www.wampserver.com/en/)
 * [XAMPP](https://www.apachefriends.org/)
+  * [XAMPP Tutorial](https://www.bollyinside.com/articles/run-php-file-in-xampp-tips-and-tutorial/)
  
 ## Tools
 
