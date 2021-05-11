@@ -111,6 +111,7 @@ A curated list of resources for [PHP](https://php.net/)
 
 ### PHP Basics
 
+* [PHP Developer roadmap - How to Become a PHP Developer](https://www.youtube.com/watch?v=r9ndOH0tyfA)
 * [Getting Started with PHP](https://www.codecademy.com/learn/learn-php/modules/getting-started-with-php)
 * [PHP Data Types](https://www.tutorialrepublic.com/php-tutorial/php-data-types.php)
 * [PHP Loops](https://www.tutorialrepublic.com/php-tutorial/php-loops.php)
