@@ -99,6 +99,7 @@ A curated list of resources for [PHP](https://php.net/)
 * [SymfonyCasts - Build something amazing with PHP](https://symfonycasts.com/tracks/php)
 * [Treehouse - Learn PHP](https://teamtreehouse.com/learn-to-code/php)
 * [Udemy - PHP](https://www.udemy.com/topic/php/)
+* [DevProjects + Codementor](https://www.codementor.io/projects/php) (Free PHP projects and optional paid mentorship)
 
 ## Reference
 
@@ -106,7 +107,7 @@ A curated list of resources for [PHP](https://php.net/)
 * [Modern PHP Cheat Sheet](https://front-line-php.com/cheat-sheet)
 * [PHP Manual](https://secure.php.net/manual/en/index.php)
 * [PHP cheatsheet](https://quickref.me/php)
-  
+
 ## The basics
 
 ### PHP Basics
@@ -166,7 +167,7 @@ A curated list of resources for [PHP](https://php.net/)
 
 ## Local Development Environments
 
-* [Docker](https://www.docker.com/) 
+* [Docker](https://www.docker.com/)
 * [EasyPHP Devserver & Webserver](https://www.easyphp.org/easyphp-devserver.php)
 * [Homestead](https://laravel.com/docs/master/homestead)
 * [Laragon](https://laragon.org/)
@@ -174,7 +175,7 @@ A curated list of resources for [PHP](https://php.net/)
 * [WAMPServer](https://www.wampserver.com/en/)
 * [XAMPP](https://www.apachefriends.org/)
   * [XAMPP Tutorial](https://www.bollyinside.com/articles/run-php-file-in-xampp-tips-and-tutorial/)
- 
+
 ## Tools
 
 * [Webbrowser (Chrome, Firefox, IE)](http://de.wikipedia.org/wiki/Webbrowser)
@@ -229,7 +230,7 @@ A curated list of resources for [PHP](https://php.net/)
 
 * [Object-Oriented Principles in PHP](https://laracasts.com/series/object-oriented-principles-in-php)
 * [Classes and Objects](https://secure.php.net/manual/en/language.oop5.php)
-* [Mastering Object Oriented PHP](http://www.masteringobjectorientedphp.com/) (eBook) 
+* [Mastering Object Oriented PHP](http://www.masteringobjectorientedphp.com/) (eBook)
 * [Objektorientierte Programmierung](https://www.php-einfach.de/experte/objektorientierte-programmierung-oop/) (german)
 * [Object-Oriented Bootcamp](https://laracasts.com/series/object-oriented-bootcamp-in-php)
 * [Learning OOP in PHP](https://github.com/marcelgsantos/learning-oop-in-php)
@@ -247,7 +248,7 @@ A curated list of resources for [PHP](https://php.net/)
 
 ### SOLID
 
-> SOLID is a mnemonic acronym for five design principles intended 
+> SOLID is a mnemonic acronym for five design principles intended
 > to make software designs more understandable, flexible and maintainable
 
 * [SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
@@ -272,7 +273,7 @@ A curated list of resources for [PHP](https://php.net/)
 * [KISS - Keep it simple, stupid](https://en.wikipedia.org/wiki/KISS_principle)
 * [KISS principle](https://people.apache.org/~fhanik/kiss.html)
 
-### YAGNI 
+### YAGNI
 
 > You Ain't Gonna Need It
 
@@ -365,13 +366,13 @@ Most frameworks in PHP follow some sort of MVC structure. The theory is simple:
 * [Der Königsweg: Normalisierung](https://www.hdm-stuttgart.de/~riekert/lehre/db-kelz/chap4.htm) (german)
 * [Normalisierung](http://www.datenbanken-verstehen.de/datenbanken/datenmodellierung/normalisierung/) (german)
 * [MySQL - Normalisierung](https://www.peterkropff.de/site/mysql/normalisierung.htm) (german)
- 
+
 ### Prepared Statements
 
 * [Prepared statement](https://en.wikipedia.org/wiki/Prepared_statement)
 * [Prepared statements - Protection from SQL injections](https://phpdelusions.net/pdo#prepared)
 * [PHP Prepared Statements](https://www.w3schools.com/php/php_mysql_prepared_statements.asp)
- 
+
 ### Database libraries
 
 * [CakePHP QueryBuilder](https://github.com/cakephp/database#query-builder)
@@ -413,7 +414,7 @@ Follow common PHP conventions for object-oriented code, and established industry
 
 * [Errors and Exceptions](https://www.phptherightway.com/#errors_and_exceptions)
 * [Error Handling PHP Best Practices](http://bestpractices.thecodingmachine.com/php/error_handling.html)
-* [Exceptions](https://secure.php.net/manual/en/language.exceptions.php) 
+* [Exceptions](https://secure.php.net/manual/en/language.exceptions.php)
 * [Predefined Exceptions](https://secure.php.net/manual/en/reserved.exceptions.php)
 * [SPL Exceptions](https://secure.php.net/manual/en/spl.exceptions.php)
 * [Errors and error handling](https://secure.php.net/manual/en/pdo.error-handling.php)
@@ -438,7 +439,7 @@ Follow common PHP conventions for object-oriented code, and established industry
 * [Database Tests With PHPUnit](https://qafoo.com/blog/090_database_tests_with_phpunit.html)
 * [Database Fixture Setup in PHPUnit](https://qafoo.com/blog/091_database_fixture_setup_in_phpunit.html)
 * [The correct way to use integration tests](https://zeroturnaround.com/rebellabs/the-correct-way-to-use-integration-tests-in-your-build-process/)
-* [100% Code Coverage via automated tests in Symfony applications](https://speakerdeck.com/mensemedia/100-percent-code-coverage-via-automated-tests-in-symfony-applications) 
+* [100% Code Coverage via automated tests in Symfony applications](https://speakerdeck.com/mensemedia/100-percent-code-coverage-via-automated-tests-in-symfony-applications)
 * [Building Test-Driven Developers](https://leanpub.com/test-driven) eBook
 * [Write tests. Not too many. Mostly integration](https://kentcdodds.com/blog/write-tests)
 * [Unit Testing is Overrated](https://tyrrrz.me/blog/unit-testing-is-overrated)
@@ -527,7 +528,7 @@ PHPdoc is intended for documenting your code. The intention is that you always a
 * [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 * [Patterns of Enterprise Application Architecture - Martin Fowler](https://www.amazon.com/gp/product/B008OHVDFM?tag=28031982-21)
 * [The Onion Architecture Part 1](https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/)
-* [A Journey Toward Clean Code and Enjoyment](https://youtu.be/wInd6_aMqvg) - Agility, TDD, OOP Patterns, MVC, Framework De-Coupling 
+* [A Journey Toward Clean Code and Enjoyment](https://youtu.be/wInd6_aMqvg) - Agility, TDD, OOP Patterns, MVC, Framework De-Coupling
 
 ## Domain Driven Design (DDD)
 
@@ -556,7 +557,7 @@ PHPdoc is intended for documenting your code. The intention is that you always a
 
 * [Continuous Delivery](https://www.amazon.com/gp/product/B003YMNVC0/?tag=28031982-21) (Book)
 * [Continuously delivering PHP projects](https://www.youtube.com/watch?v=HOwPJg-F4h0) (Video)
-* [Continuous Integration vs. Continuous Delivery vs. Continuous Deployment](https://stackoverflow.com/a/28628086/1461181) 
+* [Continuous Integration vs. Continuous Delivery vs. Continuous Deployment](https://stackoverflow.com/a/28628086/1461181)
 * [What’s Continuous Deployment?](https://www.sitepoint.com/whats-continuous-deployment/)
 * [PHP and Continuous Integration with Travis CI](https://www.sitepoint.com/php-continuous-integration-travis-ci/)
 * [Docker for PHP Developers](https://leanpub.com/dockerfordevs)
@@ -577,12 +578,12 @@ PHPdoc is intended for documenting your code. The intention is that you always a
 ## Community / News
 
 * [@official_php](https://twitter.com/official_php)
-* [r/PHP](https://www.reddit.com/r/PHP/) 
+* [r/PHP](https://www.reddit.com/r/PHP/)
 * [r/PHPhelp](https://www.reddit.com/r/PHPhelp/)
 * [PHP on dev.to](https://dev.to/t/php)
 * [Hashnode/php](https://hashnode.com/n/php)  
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/php)
-* [PHP weekly newsletter](http://www.phpweekly.com/) 
+* [PHP weekly newsletter](http://www.phpweekly.com/)
 * [Freek.dev newsletter](https://freek.dev/newsletter)
 * [Stitcher Mail](https://stitcher.io/signup)
 * [Awesome PHP Newsletter](https://php.libhunt.com/newsletter)
