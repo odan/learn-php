@@ -262,6 +262,7 @@ A curated list of resources for [PHP](https://php.net/)
 * [What is Dependency Injection?](http://fabien.potencier.org/what-is-dependency-injection.html)
 * [The Clean Code Talks - Don't Look For Things!](https://www.youtube.com/watch?v=RlfLCWKxHJ0) (Video)
 * [PSR-11: Container interface](https://www.php-fig.org/psr/psr-11/)
+* [Demystifying Dependency Injection Containers by Kai Sassnowski](https://www.youtube.com/watch?v=y7EbrV4ChJs) (Video)
 
 ## Best Practices
 
