@@ -83,7 +83,7 @@ A curated list of resources for [PHP](https://php.net/)
 
 ## Books
 
-* [Advanced Web Application Architecture](https://leanpub.com/web-application-architecture/) (Book)
+* [Advanced Web Application Architecture](https://leanpub.com/web-application-architecture/)
 * [Building modern applications with PHP 8](https://front-line-php.com/)
 * [Modern PHP: New Features and Good Practices](https://www.amazon.de/gp/product/1491905018/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=1491905018&linkCode=as2&tag=28031982-21)
 * [Object Design Style Guide](https://www.manning.com/books/object-design-style-guide?a_aid=object-design&a_bid=4e089b42)
