@@ -88,7 +88,7 @@ A curated list of resources for [PHP](https://php.net/)
 * [Modern PHP: New Features and Good Practices](https://www.amazon.de/gp/product/1491905018/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=1491905018&linkCode=as2&tag=28031982-21)
 * [Object Design Style Guide](https://www.manning.com/books/object-design-style-guide?a_aid=object-design&a_bid=4e089b42)
 * [Learning PHP 7](http://shop.oreilly.com/product/9781785880544.do)
-* [PHP 7 Zend Certification Study Guide](https://www.amazon.com/PHP-Zend-Certification-Study-Guide/dp/1484232453/?tag=28031982-21)**
+* [PHP 7 Zend Certification Study Guide](https://www.amazon.com/PHP-Zend-Certification-Study-Guide/dp/1484232453/?tag=28031982-21)
 * [Learn PHP 8: Using MySQL, JavaScript, CSS3, and HTML5](https://amzn.to/3oyKj2O)
 * [PHP 8 Quick Scripting Reference: A Pocket Guide to PHP Web Scripting](https://amzn.to/3bpTpex)
 * [Programming PHP](https://www.oreilly.com/library/view/programming-php-4th/9781492054122/) (O'Reilly Media)
