@@ -94,7 +94,8 @@ A curated list of resources for [PHP](https://php.net/)
 * [Programming PHP](https://www.oreilly.com/library/view/programming-php-4th/9781492054122/) (O'Reilly Media)
 * [Domain-Driven Design](https://amzn.to/3cNq2jV) (The blue DDD book)
 * [Implementing Domain-Driven Design](https://amzn.to/2zrGrMm) (The red DDD book)
-
+* [The Art of Modern PHP 8](https://www.packtpub.com/product/the-art-of-modern-php-8/9781800566156)
+* 
 ## Online Course
 
 * [CodeAcademy - Learn PHP](https://www.codecademy.com/learn/learn-php)
