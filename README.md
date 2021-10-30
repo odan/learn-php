@@ -579,7 +579,6 @@ PHPdoc is intended for documenting your code. The intention is that you always a
 * [The Official elephpant Shop - Boutique elePHPant](https://www.vincentpontier.com/elephpant/)
 * [PHPUnit Merchandise](https://phpunit.de/merchandise.html)
 * [PHP Stickers](https://www.redbubble.com/de/shop/php)
-* [Symfony store](https://shop.symfony.com/)
 
 ## Community / News
 
@@ -597,3 +596,5 @@ PHPdoc is intended for documenting your code. The intention is that you always a
 * [PHP's internals](https://externals.io/)
 * [PHP-Digest by Roman Pronsky](https://habr.com/ru/users/pronskiy/posts/) (russian)
 * [List of PHP blogs](https://github.com/simon-schubert/devpunk)
+* [PHP Conferences around the world](https://www.php.net/conferences/index.php)
+
