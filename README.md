@@ -92,10 +92,8 @@ A curated list of resources for [PHP](https://php.net/)
 * [Learn PHP 8: Using MySQL, JavaScript, CSS3, and HTML5](https://amzn.to/3oyKj2O)
 * [PHP 8 Quick Scripting Reference: A Pocket Guide to PHP Web Scripting](https://amzn.to/3bpTpex)
 * [Programming PHP](https://www.oreilly.com/library/view/programming-php-4th/9781492054122/) (O'Reilly Media)
-* [Domain-Driven Design](https://amzn.to/3cNq2jV) (The blue DDD book)
-* [Implementing Domain-Driven Design](https://amzn.to/2zrGrMm) (The red DDD book)
 * [The Art of Modern PHP 8](https://www.packtpub.com/product/the-art-of-modern-php-8/9781800566156)
-* 
+
 ## Online Course
 
 * [CodeAcademy - Learn PHP](https://www.codecademy.com/learn/learn-php)
@@ -545,6 +543,8 @@ PHPdoc is intended for documenting your code. The intention is that you always a
 * [Domain-Driven	Design Reference](https://amzn.to/2Xq4eEH) (A summary of the patterns and definitions of DDD, [PDF](https://domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf))
 * [Services in Domain-Driven Design](http://gorodinski.com/blog/2012/04/14/services-in-domain-driven-design-ddd/)
 * [Creating services you won’t hate](https://www.brandonsavage.net/creating-services-you-wont-hate/)
+* [Domain-Driven Design](https://amzn.to/3cNq2jV) (The blue DDD book)
+* [Implementing Domain-Driven Design](https://amzn.to/2zrGrMm) (The red DDD book)
 
 ## Hexagonal Architecture
 
