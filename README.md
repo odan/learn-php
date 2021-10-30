@@ -175,6 +175,8 @@ A curated list of resources for [PHP](https://php.net/)
 * [Homestead](https://laravel.com/docs/master/homestead)
 * [Laragon](https://laragon.org/)
 * [MAMP](https://www.mamp.info/)
+* [Vagrant](https://www.vagrantup.com/)
+* [VirtualBox](https://www.virtualbox.org/)
 * [WAMPServer](https://www.wampserver.com/en/)
 * [XAMPP](https://www.apachefriends.org/)
   * [XAMPP Tutorial](https://www.bollyinside.com/articles/run-php-file-in-xampp-tips-and-tutorial/)
@@ -182,9 +184,6 @@ A curated list of resources for [PHP](https://php.net/)
 ## Tools
 
 * [Webbrowser (Chrome, Firefox, IE)](http://de.wikipedia.org/wiki/Webbrowser)
-* [XAMPP](https://www.apachefriends.org/index.html) (Apache, MariaDB, PHP)
-* [Vagrant](https://en.wikipedia.org/wiki/Vagrant_(software))
-* [Docker](https://en.wikipedia.org/wiki/Docker_(software))
 * [Composer](https://getcomposer.org/) (dependency management)
 * [WinSCP](https://winscp.net) (Free SFTP, SCP and FTP client)
 * [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) (A free SSH and telnet client)
@@ -211,6 +210,7 @@ A curated list of resources for [PHP](https://php.net/)
 
 * [Slim Framework](https://www.slimframework.com/) (A PHP micro framework that helps you quickly write simple yet powerful web applications and APIs)
 * [Slim Framework 4 - Tutorial](https://odan.github.io/2019/11/05/slim4-tutorial.html)
+* [Slim Framework 4 - eBook](https://ko-fi.com/s/5f182b4b22)
 
 ### Libraries
 
@@ -218,9 +218,9 @@ A curated list of resources for [PHP](https://php.net/)
 
 ## Templates
 
-* [Twig](https://twig.symfony.com/) (The flexible, fast, and secure template engine for PHP)
 * [Plates](https://platesphp.com/) (A native PHP template system)
 * [Symfony versus Flat PHP](https://symfony.com/doc/current/introduction/from_flat_php_to_symfony2.html)
+* [Twig](https://twig.symfony.com/) (The flexible, fast, and secure template engine for PHP)
 * [Twig – the Most Popular Stand-Alone PHP Template Engine](https://www.sitepoint.com/twig-popular-stand-alone-php-template-engine/)
 
 ## OOP
