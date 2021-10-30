@@ -219,9 +219,9 @@ A curated list of resources for [PHP](https://php.net/)
 ## Templates
 
 * [Plates](https://platesphp.com/) (A native PHP template system)
-* [Symfony versus Flat PHP](https://symfony.com/doc/current/introduction/from_flat_php_to_symfony2.html)
 * [Twig](https://twig.symfony.com/) (The flexible, fast, and secure template engine for PHP)
 * [Twig – the Most Popular Stand-Alone PHP Template Engine](https://www.sitepoint.com/twig-popular-stand-alone-php-template-engine/)
+* [Twig versus Flat PHP](https://symfony.com/doc/current/introduction/from_flat_php_to_symfony2.html)
 
 ## OOP
 
@@ -237,7 +237,6 @@ A curated list of resources for [PHP](https://php.net/)
 * [Objektorientierte Programmierung](https://www.php-einfach.de/experte/objektorientierte-programmierung-oop/) (german)
 * [Object-Oriented Bootcamp](https://laracasts.com/series/object-oriented-bootcamp-in-php)
 * [Learning OOP in PHP](https://github.com/marcelgsantos/learning-oop-in-php)
-* [Style Guide for Object Design](https://leanpub.com/object-design/) (eBook)
 
 ### Design patterns
 
@@ -246,7 +245,7 @@ A curated list of resources for [PHP](https://php.net/)
 * [Gang of Four Design Patterns](https://www.amazon.com/gp/product/B000SEIBB8?ie=UTF8&tag=28031982-21&camp=1638&linkCode=xm2&creativeASIN=B000SEIBB8) (Book)
 * [Design Patterns for Humans™](https://github.com/kamranahmedse/design-patterns-for-humans)
 * [DesignPatternsPHP](https://designpatternsphp.readthedocs.io/)
-* [Several design patterns in PHP](https://github.com/domnikl/DesignPatternsPHP)
+* [Several design patterns in PHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP)
 * [Design Patterns in PHP Course](https://www.youtube.com/playlist?list=PLplJltxWVIbLVL3ZX3I6b_uvBsnYVaRJn) (Video)
 
 ### SOLID
