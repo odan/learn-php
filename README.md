@@ -524,6 +524,7 @@ PHPdoc is intended for documenting your code. The intention is that you always a
 * [The latest information about secure PHP software](https://paragonie.com/blog)
 * [Security Tips for a PHP Application](https://dev.to/restoreddev/security-tips-for-a-php-application-4e9a)
 * [The Ultimate PHP Security Checklist](https://www.sqreen.io/checklists/php-security-checklist)
+* [PHP Security Best Practices](https://www.cloudways.com/blog/php-security/)
 
 ## Architecture
 
