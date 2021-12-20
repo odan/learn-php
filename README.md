@@ -73,6 +73,7 @@ A curated list of resources for [PHP](https://php.net/)
 
 ## Tutorials
 
+* [Full PHP 8 Tutorial - Learn PHP The Right Way In 2022](https://www.youtube.com/watch?v=sVbEyFZKgqk&list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-&index=1&ab_channel=ProgramWithGio)
 * [PHP Front To Back](https://www.youtube.com/playlist?list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn) (Videos)
 * [learn-php.org](https://www.learn-php.org/)
 * [Learn PHP for experienced developers](https://blog.syntaxseed.com/learn-php-for-experienced-developers/)
