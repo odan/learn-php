@@ -131,6 +131,7 @@ A curated list of resources for [PHP](https://php.net/)
 * [Apache HTTP Server](https://en.wikipedia.org/wiki/Apache_HTTP_Server)
 * [MySQL](https://en.wikipedia.org/wiki/MySQL)
 * [PHP](https://en.wikipedia.org/wiki/PHP)
+* [What is a LAMP Stack?](https://youtu.be/tzBgFog6NmY) (Video)
 
 ### HTML / HTML 5
 
