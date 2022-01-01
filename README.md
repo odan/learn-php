@@ -599,4 +599,4 @@ PHPdoc is intended for documenting your code. The intention is that you always a
 * [PHP-Digest by Roman Pronsky](https://habr.com/ru/users/pronskiy/posts/) (russian)
 * [List of PHP blogs](https://github.com/simon-schubert/devpunk)
 * [PHP Conferences around the world](https://www.php.net/conferences/index.php)
-
+* [PHP chatroom on StackOverflow](https://chat.stackoverflow.com/rooms/11/php)
