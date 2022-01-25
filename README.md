@@ -185,7 +185,7 @@ A curated list of resources for [PHP](https://php.net/)
 
 ## Tools
 
-* [Webbrowser (Chrome, Firefox, IE)](http://de.wikipedia.org/wiki/Webbrowser)
+* [Webbrowser (Chrome, Firefox)](https://en.wikipedia.org/wiki/Webbrowser)
 * [Composer](https://getcomposer.org/) (dependency management)
 * [WinSCP](https://winscp.net) (Free SFTP, SCP and FTP client)
 * [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) (A free SSH and telnet client)
@@ -196,7 +196,6 @@ A curated list of resources for [PHP](https://php.net/)
 ## IDEs
 
 * [PHPStorm](https://www.jetbrains.com/phpstorm/) ($)
-* [Netbeans](https://netbeans.org/features/php/)
 * [Visual Studio Code](https://code.visualstudio.com/docs/languages/php)
 
 ## Frameworks and libraries
@@ -217,6 +216,7 @@ A curated list of resources for [PHP](https://php.net/)
 ### Libraries
 
 * [Awesome PHP libraries](https://github.com/ziadoz/awesome-php)
+* [Packagist](https://packagist.org/)
 
 ## Templates
 
