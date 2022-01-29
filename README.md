@@ -202,7 +202,6 @@ A curated list of resources for [PHP](https://php.net/)
 
 ### Frameworks
 
-* [CakePHP](https://cakephp.org/) (A MVC, CRUD, Scaffolding framework, inspired by Ruby on Rails)
 * [Laravel](https://laravel.com/) (A very popular framework)
 * [Laminas](https://getlaminas.org/)
 * [Symfony](https://symfony.com/) (A modular enterprise framework)
