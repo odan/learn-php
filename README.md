@@ -255,9 +255,7 @@ A curated list of resources for [PHP](https://php.net/)
 > to make software designs more understandable, flexible and maintainable
 
 * [SOLID](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
-* [SOLID Principles in PHP](https://laracasts.com/series/solid-principles-in-php)
-* [The First 5 Principles of Object Oriented Design](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
-* [How to write SOLID code that doesn’t suck](https://medium.com/web-engineering-vox/how-to-write-solid-code-that-doesnt-suck-2a3416623d48#.61pr1ym4b)
+* [The First 5 Principles of Object Oriented Design](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
 
 ### Dependency injection
 
