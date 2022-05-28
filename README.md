@@ -104,6 +104,7 @@ A curated list of resources for [PHP](https://php.net/)
 * [Treehouse - Learn PHP](https://teamtreehouse.com/learn-to-code/php)
 * [Udemy - PHP](https://www.udemy.com/topic/php/)
 * [DevProjects + Codementor](https://www.codementor.io/projects/php) (Free PHP projects and optional paid mentorship)
+* [Free PHP courses](https://skillcombo.com/topic/php/free/)
 
 ## Reference
 
