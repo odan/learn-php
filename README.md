@@ -141,6 +141,7 @@ A curated list of resources for [PHP](https://php.net/)
 * [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
 * [A Basic HTML5 Template](https://www.sitepoint.com/a-basic-html5-template/)
 * [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+* [Learn HTML](https://www.interviewbit.com/html-interview-questions/)
 
 ### CSS
 
@@ -148,6 +149,7 @@ A curated list of resources for [PHP](https://php.net/)
 * [CSS Tutorial](https://www.w3schools.com/css/)
 * [Introduction to CSS](https://www.csstutorial.net/css-intro/introductioncss-part1.php)
 * [Introduction CSS Selectors](https://www.sitepoint.com/css-selectors/)
+* [Learn CSS](https://www.interviewbit.com/css-interview-questions/)
 
 ### JavaScript
 
@@ -157,7 +159,7 @@ A curated list of resources for [PHP](https://php.net/)
 * [Eloquent JavaScript](https://eloquentjavascript.net/)
 * [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
 * [Awesome JavaScript Learning](https://github.com/micromata/awesome-javascript-learning)
-* [JSON](https://en.wikipedia.org/wiki/JSON)
+* [Learn JavaScript](https://www.interviewbit.com/javascript-interview-questions/)
 
 ### Protocols
 
