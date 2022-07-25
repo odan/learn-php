@@ -160,6 +160,7 @@ A curated list of resources for [PHP](https://php.net/)
 * [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
 * [Awesome JavaScript Learning](https://github.com/micromata/awesome-javascript-learning)
 * [Learn JavaScript](https://www.interviewbit.com/javascript-interview-questions/)
+* [Free JavaScript Tutorial](https://www.scaler.com/topics/javascript/)
 
 ### Protocols
 
