@@ -81,6 +81,7 @@ A curated list of resources for [PHP](https://php.net/)
 * [PHP Pandas](https://daylerees.com/php-pandas/)
 * [Learn PHP in Y minutes](https://learnxinyminutes.com/docs/php/)
 * [PHP Apprentice](https://phpapprentice.com/)
+* [PHP by Example](https://phpbyexample.dev/)
 
 ## Books
 
