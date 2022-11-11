@@ -125,6 +125,7 @@ A curated list of resources for [PHP](https://php.net/)
 * [Array basics](https://lukashajdu.com/post/mastering-php-arrays-array-basics/)
 * [Working with Arrays](https://www.oreilly.com/library/view/learning-php-5/0596005601/ch04.html)
 * [PHP GET and POST](https://www.tutorialrepublic.com/php-tutorial/php-get-and-post.php)
+* [PHP for Beginners (2023 Edition)](https://www.youtube.com/playlist?list=PL3VM-unCzF8ipG50KDjnzhugceoSG3RTC)
 
 ### The LAMP stack
 
