@@ -106,6 +106,7 @@ A curated list of resources for [PHP](https://php.net/)
 * [Udemy - PHP](https://www.udemy.com/topic/php/)
 * [DevProjects + Codementor](https://www.codementor.io/projects/php) (Free PHP projects and optional paid mentorship)
 * [Free PHP courses](https://skillcombo.com/topic/php/free/)
+* [Free PHP interview questions](https://www.adaface.com/blog/php-interview-questions/) (Free PHP interview questions and sample test)
 
 ## Reference
 
