@@ -198,6 +198,7 @@ A curated list of resources for [PHP](https://php.net/)
 ## IDEs
 
 * [PHPStorm](https://www.jetbrains.com/phpstorm/) ($)
+* [CodeLobster](https://codelobster.com/) 
 * [Visual Studio Code](https://code.visualstudio.com/docs/languages/php)
 
 ## Frameworks and libraries
