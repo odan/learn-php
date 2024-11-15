@@ -480,6 +480,7 @@ PHPdoc is intended for documenting your code. The intention is that you always a
 * [Regular expression](https://en.wikipedia.org/wiki/Regular_expression)
 * [PCRE Functions](https://secure.php.net/manual/en/ref.pcre.php)
 * [PHP Live Regex](https://www.phpliveregex.com/) (A Live Regular Expression Tester for PHP)
+* [PHPrex](https://phphub.net/regex/) (A Visual Regular Expression Tester for PHP)
 
 ## XML
 
