@@ -177,6 +177,7 @@ A curated list of resources for [PHP](https://php.net/)
 
 ## Local Development Environments
 
+* [ddev](https://github.com/ddev/ddev)
 * [EasyPHP Devserver & Webserver](https://www.easyphp.org/easyphp-devserver.php)
 * [Homestead](https://laravel.com/docs/master/homestead)
 * [Laragon](https://laragon.org/)
